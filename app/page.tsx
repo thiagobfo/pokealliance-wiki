@@ -56,7 +56,7 @@ export default function Home() {
           </a>
         </span>
         <span className="text-gray-600">·</span>
-        <span>Wiki by <span className="text-brand font-medium">Lukkezin</span> · Data by Mts Vitor</span>
+        <span>Wiki by <span className="text-brand font-medium">Lukkezin</span></span>
       </div>
     </div>
   );

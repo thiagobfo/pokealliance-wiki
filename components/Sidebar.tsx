@@ -91,7 +91,6 @@ export default function Sidebar() {
 
       <div className="p-4 border-t border-gray-800 text-xs text-gray-500 space-y-0.5">
         <div>Wiki by <span className="text-brand font-medium">Lukkezin</span></div>
-        <div>Data by Mts Vitor</div>
       </div>
     </aside>
   );
