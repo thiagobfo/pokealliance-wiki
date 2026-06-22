@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --sidebar-width: 240px;
+}
+
+body {
+  @apply bg-gray-950 text-gray-100;
+}
+
+.page-title {
+  @apply text-2xl font-bold text-brand mb-6;
+}
+
+.card {
+  @apply bg-gray-900 rounded-xl border border-gray-800 p-4;
+}
+
+.badge {
+  @apply inline-block px-2 py-0.5 rounded text-xs font-semibold;
+}
+
+.table-auto th {
+  @apply text-left text-xs font-semibold text-gray-400 uppercase tracking-wider pb-2;
+}
+
+.table-auto td {
+  @apply py-2 text-sm text-gray-200;
+}
+
+.input {
+  @apply w-full bg-gray-800 border border-gray-700 rounded-lg px-4 py-2 text-sm text-gray-100 placeholder-gray-500 focus:outline-none focus:border-brand focus:ring-1 focus:ring-brand;
+}

@@ -1,0 +1,1028 @@
+[
+  {
+    "pokemon": "Alakazam",
+    "location": "https://imgur.com/a/wFcUcVR",
+    "types": [
+      "Psychic"
+    ]
+  },
+  {
+    "pokemon": "Gengar",
+    "location": "https://imgur.com/a/wFcUcVR",
+    "types": [
+      "Ghost",
+      "Poison"
+    ]
+  },
+  {
+    "pokemon": "Electabuzz",
+    "location": "https://imgur.com/a/wFcUcVR",
+    "types": [
+      "Electric"
+    ]
+  },
+  {
+    "pokemon": "Magmar",
+    "location": "https://imgur.com/a/wFcUcVR",
+    "types": [
+      "Fire"
+    ]
+  },
+  {
+    "pokemon": "Gyarados",
+    "location": "https://imgur.com/a/wFcUcVR",
+    "types": [
+      "Water",
+      "Flying"
+    ]
+  },
+  {
+    "pokemon": "Snorlax",
+    "location": "https://imgur.com/a/wFcUcVR",
+    "types": [
+      "Normal"
+    ]
+  },
+  {
+    "pokemon": "Dragonite",
+    "location": "https://imgur.com/a/wFcUcVR",
+    "types": [
+      "Dragon",
+      "Flying"
+    ]
+  },
+  {
+    "pokemon": "Scizor",
+    "location": "https://imgur.com/a/wFcUcVR",
+    "types": [
+      "Bug",
+      "Steel"
+    ]
+  },
+  {
+    "pokemon": "Tyranitar",
+    "location": "https://imgur.com/a/wFcUcVR",
+    "types": [
+      "Rock",
+      "Dark"
+    ]
+  },
+  {
+    "pokemon": "Treecko",
+    "location": "https://imgur.com/a/QwRNjsJ",
+    "types": [
+      "Grass"
+    ]
+  },
+  {
+    "pokemon": "Grovyle",
+    "location": "https://imgur.com/a/plu4yw9",
+    "types": [
+      "Grass"
+    ]
+  },
+  {
+    "pokemon": "Sceptile",
+    "location": "https://imgur.com/a/0NfZ1UB",
+    "types": [
+      "Grass"
+    ]
+  },
+  {
+    "pokemon": "Torchic",
+    "location": "https://imgur.com/a/H8eBhUD",
+    "types": [
+      "Fire"
+    ]
+  },
+  {
+    "pokemon": "Combusken",
+    "location": "https://imgur.com/a/WaCvBxT",
+    "types": [
+      "Fire",
+      "Fighting"
+    ]
+  },
+  {
+    "pokemon": "Blaziken",
+    "location": "https://imgur.com/a/Z1blUfu",
+    "types": [
+      "Fire",
+      "Fighting"
+    ]
+  },
+  {
+    "pokemon": "Mudkip",
+    "location": "https://imgur.com/a/sZjLUro",
+    "types": [
+      "Water"
+    ]
+  },
+  {
+    "pokemon": "Marshtomp",
+    "location": "https://imgur.com/a/7Nmijrk",
+    "types": [
+      "Water",
+      "Ground"
+    ]
+  },
+  {
+    "pokemon": "Swampert",
+    "location": "https://imgur.com/a/ZZR9q3t",
+    "types": [
+      "Water",
+      "Ground"
+    ]
+  },
+  {
+    "pokemon": "Poochyena",
+    "location": "https://imgur.com/a/AV1brbq",
+    "types": [
+      "Dark"
+    ]
+  },
+  {
+    "pokemon": "Mightyena",
+    "location": "https://imgur.com/a/TtFAFi8",
+    "types": [
+      "Dark"
+    ]
+  },
+  {
+    "pokemon": "Zigzagoon",
+    "location": "https://imgur.com/a/WBUCnKo",
+    "types": [
+      "Normal"
+    ]
+  },
+  {
+    "pokemon": "Linoone",
+    "location": "https://imgur.com/a/OZ3NIfX",
+    "types": [
+      "Normal"
+    ]
+  },
+  {
+    "pokemon": "Wurmple",
+    "location": "https://imgur.com/a/EPQWSoP",
+    "types": [
+      "Bug"
+    ]
+  },
+  {
+    "pokemon": "Silcoon",
+    "location": "https://imgur.com/a/EPQWSoP",
+    "types": [
+      "Bug"
+    ]
+  },
+  {
+    "pokemon": "Beautifly",
+    "location": "https://imgur.com/a/vePSZZs",
+    "types": [
+      "Bug",
+      "Flying"
+    ]
+  },
+  {
+    "pokemon": "Cascoon",
+    "location": "https://imgur.com/a/EPQWSoP",
+    "types": [
+      "Bug"
+    ]
+  },
+  {
+    "pokemon": "Dustox",
+    "location": "https://imgur.com/a/aa8JVeg",
+    "types": [
+      "Bug",
+      "Poison"
+    ]
+  },
+  {
+    "pokemon": "Lotad",
+    "location": "https://imgur.com/a/H3DeAbj",
+    "types": [
+      "Water",
+      "Grass"
+    ]
+  },
+  {
+    "pokemon": "Lombre",
+    "location": "https://imgur.com/a/UH76hUF",
+    "types": [
+      "Water",
+      "Grass"
+    ]
+  },
+  {
+    "pokemon": "Ludicolo",
+    "location": "https://imgur.com/a/uSuyBkT",
+    "types": [
+      "Water",
+      "Grass"
+    ]
+  },
+  {
+    "pokemon": "Seedot",
+    "location": "https://imgur.com/a/ddPPOJp",
+    "types": [
+      "Grass"
+    ]
+  },
+  {
+    "pokemon": "Nuzleaf",
+    "location": "https://imgur.com/a/BlSbyDr",
+    "types": [
+      "Grass",
+      "Dark"
+    ]
+  },
+  {
+    "pokemon": "Shiftry",
+    "location": "https://imgur.com/a/d9DZYAm",
+    "types": [
+      "Grass",
+      "Dark"
+    ]
+  },
+  {
+    "pokemon": "Taillow",
+    "location": "https://imgur.com/a/PywbkCI",
+    "types": [
+      "Normal",
+      "Flying"
+    ]
+  },
+  {
+    "pokemon": "Swellow",
+    "location": "https://imgur.com/a/zWjp1is",
+    "types": [
+      "Normal",
+      "Flying"
+    ]
+  },
+  {
+    "pokemon": "Wingull",
+    "location": "https://imgur.com/a/mQzmvVE",
+    "types": [
+      "Water",
+      "Flying"
+    ]
+  },
+  {
+    "pokemon": "Pelipper",
+    "location": "https://imgur.com/a/9ny4RTg",
+    "types": [
+      "Water",
+      "Flying"
+    ]
+  },
+  {
+    "pokemon": "Ralts",
+    "location": "https://imgur.com/a/HeG92xQ",
+    "types": [
+      "Psychic",
+      "Fairy"
+    ]
+  },
+  {
+    "pokemon": "Kirlia",
+    "location": "https://imgur.com/a/Duh5van",
+    "types": [
+      "Psychic",
+      "Fairy"
+    ]
+  },
+  {
+    "pokemon": "Gardevoir",
+    "location": "https://imgur.com/a/Duh5van",
+    "types": [
+      "Psychic",
+      "Fairy"
+    ]
+  },
+  {
+    "pokemon": "Surskit",
+    "location": "https://imgur.com/a/hupWoKE",
+    "types": [
+      "Bug",
+      "Water"
+    ]
+  },
+  {
+    "pokemon": "Masquerain",
+    "location": "https://imgur.com/a/A6mD163",
+    "types": [
+      "Bug",
+      "Flying"
+    ]
+  },
+  {
+    "pokemon": "Shroomish",
+    "location": "https://imgur.com/a/ASbhmgA",
+    "types": [
+      "Grass"
+    ]
+  },
+  {
+    "pokemon": "Breloom",
+    "location": "https://imgur.com/a/xkbItkt",
+    "types": [
+      "Grass",
+      "Fighting"
+    ]
+  },
+  {
+    "pokemon": "Slakoth",
+    "location": "https://imgur.com/a/ISjWYSS",
+    "types": [
+      "Normal"
+    ]
+  },
+  {
+    "pokemon": "Vigoroth",
+    "location": "https://imgur.com/a/zBv5poV",
+    "types": [
+      "Normal"
+    ]
+  },
+  {
+    "pokemon": "Slaking",
+    "location": "https://imgur.com/a/JFAXd2m",
+    "types": [
+      "Normal"
+    ]
+  },
+  {
+    "pokemon": "Nincada",
+    "location": "https://imgur.com/a/lbHpkKV",
+    "types": [
+      "Bug",
+      "Ground"
+    ]
+  },
+  {
+    "pokemon": "Ninjask",
+    "location": "https://imgur.com/a/J42Cek5",
+    "types": [
+      "Bug",
+      "Flying"
+    ]
+  },
+  {
+    "pokemon": "Shedinja",
+    "location": "https://imgur.com/a/LUgy00h",
+    "types": [
+      "Bug",
+      "Ghost"
+    ]
+  },
+  {
+    "pokemon": "Whismur",
+    "location": "https://imgur.com/a/UOLx5iS",
+    "types": [
+      "Normal"
+    ]
+  },
+  {
+    "pokemon": "Loudred",
+    "location": "https://imgur.com/a/9hx1oWG",
+    "types": [
+      "Normal"
+    ]
+  },
+  {
+    "pokemon": "Exploud",
+    "location": "https://imgur.com/a/WTFRBwz",
+    "types": [
+      "Normal"
+    ]
+  },
+  {
+    "pokemon": "Makuhita",
+    "location": "https://imgur.com/a/aTDa0zK",
+    "types": [
+      "Fighting"
+    ]
+  },
+  {
+    "pokemon": "Hariyama",
+    "location": "https://imgur.com/a/ywTJuVx",
+    "types": [
+      "Fighting"
+    ]
+  },
+  {
+    "pokemon": "Azurill",
+    "location": "https://imgur.com/a/GKSI8P8",
+    "types": [
+      "Normal",
+      "Fairy"
+    ]
+  },
+  {
+    "pokemon": "Nosepass",
+    "location": "https://imgur.com/a/idVWM4R",
+    "types": [
+      "Rock"
+    ]
+  },
+  {
+    "pokemon": "Skitty",
+    "location": "https://imgur.com/a/HXpaVFd",
+    "types": [
+      "Normal"
+    ]
+  },
+  {
+    "pokemon": "Delcatty",
+    "location": "https://imgur.com/a/PC3fNSZ",
+    "types": [
+      "Normal"
+    ]
+  },
+  {
+    "pokemon": "Sableye",
+    "location": "https://imgur.com/a/cI3PbPr",
+    "types": [
+      "Dark",
+      "Ghost"
+    ]
+  },
+  {
+    "pokemon": "Mawile",
+    "location": "https://imgur.com/a/odInvRR",
+    "types": [
+      "Steel",
+      "Fairy"
+    ]
+  },
+  {
+    "pokemon": "Aron",
+    "location": "https://imgur.com/a/dsmbUWE",
+    "types": [
+      "Steel",
+      "Rock"
+    ]
+  },
+  {
+    "pokemon": "Lairon",
+    "location": "https://imgur.com/a/6drUaI7",
+    "types": [
+      "Steel",
+      "Rock"
+    ]
+  },
+  {
+    "pokemon": "Aggron",
+    "location": "https://imgur.com/a/cJndpSb",
+    "types": [
+      "Steel",
+      "Rock"
+    ]
+  },
+  {
+    "pokemon": "Meditite",
+    "location": "https://imgur.com/a/0irrv1r",
+    "types": [
+      "Fighting",
+      "Psychic"
+    ]
+  },
+  {
+    "pokemon": "Medicham",
+    "location": "https://imgur.com/a/0irrv1r",
+    "types": [
+      "Fighting",
+      "Psychic"
+    ]
+  },
+  {
+    "pokemon": "Electrike",
+    "location": "https://imgur.com/a/WJui6MS",
+    "types": [
+      "Electric"
+    ]
+  },
+  {
+    "pokemon": "Manectric",
+    "location": "https://imgur.com/a/OoNfzDJ",
+    "types": [
+      "Electric"
+    ]
+  },
+  {
+    "pokemon": "Plusle",
+    "location": "https://imgur.com/a/6gftpgd",
+    "types": [
+      "Electric"
+    ]
+  },
+  {
+    "pokemon": "Minun",
+    "location": "https://imgur.com/a/6gftpgd",
+    "types": [
+      "Electric"
+    ]
+  },
+  {
+    "pokemon": "Volbeat",
+    "location": "https://imgur.com/a/WCp8TTD",
+    "types": [
+      "Bug"
+    ]
+  },
+  {
+    "pokemon": "Illumise",
+    "location": "https://imgur.com/a/WCp8TTD",
+    "types": [
+      "Bug"
+    ]
+  },
+  {
+    "pokemon": "Roselia",
+    "location": "https://imgur.com/a/Dv4T5af",
+    "types": [
+      "Grass",
+      "Poison"
+    ]
+  },
+  {
+    "pokemon": "Gulpin",
+    "location": "https://imgur.com/a/OZOu6rY",
+    "types": [
+      "Poison"
+    ]
+  },
+  {
+    "pokemon": "Swalot",
+    "location": "https://imgur.com/a/CVYjLFv",
+    "types": [
+      "Poison"
+    ]
+  },
+  {
+    "pokemon": "Carvanha",
+    "location": "https://imgur.com/a/waSih15",
+    "types": [
+      "Water",
+      "Dark"
+    ]
+  },
+  {
+    "pokemon": "Sharpedo",
+    "location": "https://imgur.com/a/xEQLyNo",
+    "types": [
+      "Water",
+      "Dark"
+    ]
+  },
+  {
+    "pokemon": "Wailmer",
+    "location": "https://imgur.com/a/2m6nCb5",
+    "types": [
+      "Water"
+    ]
+  },
+  {
+    "pokemon": "Wailord",
+    "location": "https://imgur.com/a/2m6nCb5",
+    "types": [
+      "Water"
+    ]
+  },
+  {
+    "pokemon": "Numel",
+    "location": "https://imgur.com/a/oweq0Ji",
+    "types": [
+      "Fire",
+      "Ground"
+    ]
+  },
+  {
+    "pokemon": "Camerupt",
+    "location": "https://imgur.com/a/a8pfzjH",
+    "types": [
+      "Fire",
+      "Ground"
+    ]
+  },
+  {
+    "pokemon": "Torkoal",
+    "location": "https://imgur.com/a/KBxrXSg",
+    "types": [
+      "Fire"
+    ]
+  },
+  {
+    "pokemon": "Spoink",
+    "location": "https://imgur.com/a/TGgvFue",
+    "types": [
+      "Psychic"
+    ]
+  },
+  {
+    "pokemon": "Grumpig",
+    "location": "https://imgur.com/a/sL7iPRj",
+    "types": [
+      "Psychic"
+    ]
+  },
+  {
+    "pokemon": "Spinda",
+    "location": "https://imgur.com/a/seJsd66",
+    "types": [
+      "Normal"
+    ]
+  },
+  {
+    "pokemon": "Trapinch",
+    "location": "https://imgur.com/a/jDK1dA0",
+    "types": [
+      "Ground"
+    ]
+  },
+  {
+    "pokemon": "Vibrava",
+    "location": "https://imgur.com/a/OAkNAlc",
+    "types": [
+      "Ground",
+      "Dragon"
+    ]
+  },
+  {
+    "pokemon": "Cacnea",
+    "location": "https://imgur.com/a/hoA3sFt",
+    "types": [
+      "Grass"
+    ]
+  },
+  {
+    "pokemon": "Cacturne",
+    "location": "https://imgur.com/a/DRfmDZB",
+    "types": [
+      "Grass",
+      "Dark"
+    ]
+  },
+  {
+    "pokemon": "Swablu",
+    "location": "https://imgur.com/a/4BU3DIw",
+    "types": [
+      "Normal",
+      "Flying"
+    ]
+  },
+  {
+    "pokemon": "Altaria",
+    "location": "https://imgur.com/a/4BU3DIw",
+    "types": [
+      "Dragon",
+      "Flying"
+    ]
+  },
+  {
+    "pokemon": "Zangoose",
+    "location": "https://imgur.com/a/NfMKEg7",
+    "types": [
+      "Normal"
+    ]
+  },
+  {
+    "pokemon": "Seviper",
+    "location": "https://imgur.com/a/l3lliRe",
+    "types": [
+      "Poison"
+    ]
+  },
+  {
+    "pokemon": "Lunatone",
+    "location": "https://imgur.com/a/NUmiPTH",
+    "types": [
+      "Rock",
+      "Psychic"
+    ]
+  },
+  {
+    "pokemon": "Solrock",
+    "location": "https://imgur.com/a/eWSLlta",
+    "types": [
+      "Rock",
+      "Psychic"
+    ]
+  },
+  {
+    "pokemon": "Barboach",
+    "location": "https://imgur.com/a/pCVvQWa",
+    "types": [
+      "Water",
+      "Ground"
+    ]
+  },
+  {
+    "pokemon": "Whiscash",
+    "location": "https://imgur.com/a/AfWRHhd",
+    "types": [
+      "Water",
+      "Ground"
+    ]
+  },
+  {
+    "pokemon": "Corphish",
+    "location": "https://imgur.com/a/5Ljg7sC",
+    "types": [
+      "Water"
+    ]
+  },
+  {
+    "pokemon": "Crawdaunt",
+    "location": "https://imgur.com/a/5Ljg7sC",
+    "types": [
+      "Water",
+      "Dark"
+    ]
+  },
+  {
+    "pokemon": "Baltoy",
+    "location": "https://imgur.com/a/8EPyq93",
+    "types": [
+      "Ground",
+      "Psychic"
+    ]
+  },
+  {
+    "pokemon": "Claydol",
+    "location": "https://imgur.com/a/FaZB45d",
+    "types": [
+      "Ground",
+      "Psychic"
+    ]
+  },
+  {
+    "pokemon": "Cradily",
+    "location": "https://imgur.com/a/zziX3N4",
+    "types": [
+      "Rock",
+      "Grass"
+    ]
+  },
+  {
+    "pokemon": "Anorith",
+    "location": "https://imgur.com/a/xG6MiHI",
+    "types": [
+      "Rock",
+      "Bug"
+    ]
+  },
+  {
+    "pokemon": "Armaldo",
+    "location": "https://imgur.com/a/xG6MiHI",
+    "types": [
+      "Rock",
+      "Bug"
+    ]
+  },
+  {
+    "pokemon": "Feebas",
+    "location": "https://imgur.com/a/4Ovdko8",
+    "types": [
+      "Water"
+    ]
+  },
+  {
+    "pokemon": "Milotic",
+    "location": "https://imgur.com/a/4Ovdko8",
+    "types": [
+      "Water"
+    ]
+  },
+  {
+    "pokemon": "Castform",
+    "location": "https://imgur.com/a/Ts9I3R9",
+    "types": [
+      "Normal"
+    ]
+  },
+  {
+    "pokemon": "Kecleon",
+    "location": "https://imgur.com/a/8sxx7sN",
+    "types": [
+      "Normal"
+    ]
+  },
+  {
+    "pokemon": "Shuppet",
+    "location": "https://imgur.com/a/OahinY3",
+    "types": [
+      "Ghost"
+    ]
+  },
+  {
+    "pokemon": "Banette",
+    "location": "https://imgur.com/a/JL6EoDR",
+    "types": [
+      "Ghost"
+    ]
+  },
+  {
+    "pokemon": "Duskull",
+    "location": "https://imgur.com/a/S4yJs5f",
+    "types": [
+      "Ghost"
+    ]
+  },
+  {
+    "pokemon": "Dusclops",
+    "location": "https://imgur.com/a/625I8kI",
+    "types": [
+      "Ghost"
+    ]
+  },
+  {
+    "pokemon": "Tropius",
+    "location": "https://imgur.com/a/9vbSqES",
+    "types": [
+      "Grass",
+      "Flying"
+    ]
+  },
+  {
+    "pokemon": "Chimecho",
+    "location": "https://imgur.com/a/SGKMzoy",
+    "types": [
+      "Psychic"
+    ]
+  },
+  {
+    "pokemon": "Absol",
+    "location": "https://imgur.com/a/bKY4IH1",
+    "types": [
+      "Dark"
+    ]
+  },
+  {
+    "pokemon": "Wynaut",
+    "location": "https://imgur.com/a/P3Yij7o",
+    "types": [
+      "Psychic"
+    ]
+  },
+  {
+    "pokemon": "Snorunt",
+    "location": "https://imgur.com/a/zoIbYgW",
+    "types": [
+      "Ice"
+    ]
+  },
+  {
+    "pokemon": "Glalie",
+    "location": "https://imgur.com/a/zeIeMhU",
+    "types": [
+      "Ice"
+    ]
+  },
+  {
+    "pokemon": "Walrein",
+    "location": "https://imgur.com/a/MtwwL6b",
+    "types": [
+      "Ice",
+      "Water"
+    ]
+  },
+  {
+    "pokemon": "Clamperl",
+    "location": "https://imgur.com/a/3by4nDT",
+    "types": [
+      "Water"
+    ]
+  },
+  {
+    "pokemon": "Huntail",
+    "location": "https://imgur.com/a/xi7IxsL",
+    "types": [
+      "Water"
+    ]
+  },
+  {
+    "pokemon": "Gorebyss",
+    "location": "https://imgur.com/a/dtnPZxU",
+    "types": [
+      "Water"
+    ]
+  },
+  {
+    "pokemon": "Relicanth",
+    "location": "https://imgur.com/a/RVcmBFH",
+    "types": [
+      "Water",
+      "Rock"
+    ]
+  },
+  {
+    "pokemon": "Luvdisc",
+    "location": "https://imgur.com/a/HpHEs6t",
+    "types": [
+      "Water"
+    ]
+  },
+  {
+    "pokemon": "Beldum",
+    "location": "https://imgur.com/a/rQJH8mB",
+    "types": [
+      "Steel",
+      "Psychic"
+    ]
+  },
+  {
+    "pokemon": "Metang",
+    "location": "https://imgur.com/a/rQJH8mB",
+    "types": [
+      "Steel",
+      "Psychic"
+    ]
+  },
+  {
+    "pokemon": "Metagross",
+    "location": "https://imgur.com/a/rQJH8mB",
+    "types": [
+      "Steel",
+      "Psychic"
+    ]
+  },
+  {
+    "pokemon": "Lucario",
+    "location": "https://imgur.com/a/wFcUcVR",
+    "types": [
+      "Fighting",
+      "Steel"
+    ]
+  },
+  {
+    "pokemon": "Abomasnow",
+    "location": "https://imgur.com/a/3Axl08R",
+    "types": [
+      "Grass",
+      "Ice"
+    ]
+  },
+  {
+    "pokemon": "Rhyperior",
+    "location": "https://imgur.com/a/wFcUcVR",
+    "types": [
+      "Ground",
+      "Rock"
+    ]
+  },
+  {
+    "pokemon": "Leafeon",
+    "location": "https://imgur.com/a/wFcUcVR",
+    "types": [
+      "Grass"
+    ]
+  },
+  {
+    "pokemon": "Glaceon",
+    "location": "https://imgur.com/a/wFcUcVR",
+    "types": [
+      "Ice"
+    ]
+  },
+  {
+    "pokemon": "Audino",
+    "location": "https://imgur.com/a/3Axl08R",
+    "types": [
+      "Normal"
+    ]
+  },
+  {
+    "pokemon": "Scolipede",
+    "location": "https://imgur.com/a/3Axl08R",
+    "types": [
+      "Bug",
+      "Poison"
+    ]
+  },
+  {
+    "pokemon": "Garbodor",
+    "location": "https://imgur.com/a/wFcUcVR",
+    "types": [
+      "Poison"
+    ]
+  },
+  {
+    "pokemon": "Dragalge",
+    "location": "https://imgur.com/a/3Axl08R",
+    "types": [
+      "Poison",
+      "Dragon"
+    ]
+  },
+  {
+    "pokemon": "Sylveon",
+    "location": "https://imgur.com/a/wFcUcVR",
+    "types": [
+      "Fairy"
+    ]
+  }
+]

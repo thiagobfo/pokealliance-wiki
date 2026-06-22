@@ -1,0 +1,666 @@
+[
+    {
+        "players":  "1",
+        "pokemon":  "Abra",
+        "items":  [
+                      "psychic fragment",
+                      "enigma stone",
+                      "psychic vest (Abra)",
+                      "drowzee trunk (Drowzee)",
+                      "blue psychic vest (Shiny Abra)",
+                      "enchanted spoon (Shiny Kadabra)"
+                  ]
+    },
+    {
+        "players":  "1",
+        "pokemon":  "Alakazam",
+        "items":  [
+                      "psychic fragment",
+                      "enigma stone",
+                      "psychic moustache (Alakazam)",
+                      "two-eyed black tail (Wobbuffet)",
+                      "purple moustache (Shiny Alakazam)"
+                  ]
+    },
+    {
+        "players":  "1",
+        "pokemon":  "Ampharos",
+        "items":  [
+                      "electric fragment",
+                      "thunder stone",
+                      "electric sheep tail (Ampharos)",
+                      "electric ear (Raichu)",
+                      "electric tail (Electabuzz)",
+                      "green sheep tail (Shiny Ampharos)"
+                  ]
+    },
+    {
+        "players":  "1",
+        "pokemon":  "Bayleef",
+        "items":  [
+                      "grass fragment",
+                      "leaf stone",
+                      "big leaf (Bayleef)",
+                      "leaf (Ivysaur)",
+                      "purple big leaf (Shiny Bayleef)",
+                      "purple petal (Shiny Meganium)"
+                  ]
+    },
+    {
+        "players":  "1",
+        "pokemon":  "Chicorita",
+        "items":  [
+                      "grass fragment",
+                      "leaf stone",
+                      "chicory (Chicorita)",
+                      "bulb (Bulbasaur)",
+                      "exeggcute seed (Exeggcute)",
+                      "purple chicory (Shiny Chicorita)",
+                      "purple big leaf (Shiny Bayleef)"
+                  ]
+    },
+    {
+        "players":  "1",
+        "pokemon":  "Croconaw",
+        "items":  [
+                      "water fragment",
+                      "water stone",
+                      "red hair (Feraligatr)",
+                      "cute ears (Azumarill)",
+                      "water cannon (Blastoise)",
+                      "aquatic tail (Vaporeon)",
+                      "blue mohawk (Shiny Croconaw)",
+                      "big blue mohawk (Shiny Feraligatr)"
+                  ]
+    },
+    {
+        "players":  "1",
+        "pokemon":  "Cubone",
+        "items":  [
+                      "ground fragment",
+                      "earth stone",
+                      "armadillo tail (Sandshrew)",
+                      "cubone skull (Cubone)",
+                      "cyan skull (Shiny Cubone)",
+                      "blue bone (Shiny Marowak)"
+                  ]
+    },
+    {
+        "players":  "1",
+        "pokemon":  "Cyndaquil",
+        "items":  [
+                      "fire fragment",
+                      "fire stone",
+                      "cyndaquil nose (Cyndaquil)",
+                      "dog fur (Growlithe)",
+                      "fire tail (Charmander)",
+                      "red nose (Shiny Cyndaquil)",
+                      "blaze fur (Shiny Quilava)"
+                  ]
+    },
+    {
+        "players":  "1",
+        "pokemon":  "Dragonair",
+        "items":  [
+                      "dragon fragment",
+                      "crystal stone",
+                      "dragonair tail (Dragonair)",
+                      "yellow dragon tail (Shiny Dragonair)",
+                      "golden dragon tail (Shiny Dragonite)"
+                  ]
+    },
+    {
+        "players":  "1",
+        "pokemon":  "Dragonite",
+        "items":  [
+                      "dragon fragment",
+                      "crystal stone",
+                      "dragonite tail (Dragonite)",
+                      "sea dragon fin (Kingdra)",
+                      "golden dragon tail (Shiny Dragonite)"
+                  ]
+    },
+    {
+        "players":  "1",
+        "pokemon":  "Dratini",
+        "items":  [
+                      "dragon fragment",
+                      "crystal stone",
+                      "dratini ear (Dratini)",
+                      "sea dragon fin (Kingdra)",
+                      "yellow dragon tail (Shiny Dragonair)"
+                  ]
+    },
+    {
+        "players":  "1",
+        "pokemon":  "Feraligatr",
+        "items":  [
+                      "water fragment",
+                      "water stone",
+                      "red hair (Feraligatr)",
+                      "cute ears (Azumarill)",
+                      "water cannon (Blastoise)",
+                      "aquatic tail (Vaporeon)",
+                      "big blue mohawk (Shiny Feraligatr)"
+                  ]
+    },
+    {
+        "players":  "1",
+        "pokemon":  "Flaaffy",
+        "items":  [
+                      "electric fragment",
+                      "thunder stone",
+                      "soft wool (Flaaffy)",
+                      "remains of electrode (Electrode)",
+                      "electric collar (Jolteon)",
+                      "electric soft wool (Shiny Flaaffy)",
+                      "green sheep tail (Shiny Ampharos)"
+                  ]
+    },
+    {
+        "players":  "1",
+        "pokemon":  "Flabébé",
+        "items":  [
+                      "fairy fragment",
+                      "fairy stone",
+                      "small pink ears (Cleffa)",
+                      "small topknot (Igglybuff)",
+                      "yellow crown (Flabébé)",
+                      "blue crown (Shiny Flabébé)",
+                      "blue mystic flower (Shiny Floette)"
+                  ]
+    },
+    {
+        "players":  "1",
+        "pokemon":  "Floette",
+        "items":  [
+                      "fairy fragment",
+                      "fairy stone",
+                      "snubull ear (Snubull)",
+                      "granbull ear (Granbull)",
+                      "mystic flower (Floette)",
+                      "blue mystic flower (Shiny Floette)"
+                  ]
+    },
+    {
+        "players":  "1",
+        "pokemon":  "Florges",
+        "items":  [
+                      "fairy fragment",
+                      "fairy stone",
+                      "mystic petal (Florges)",
+                      "dainty wing (Togetic)",
+                      "granbull ear (Granbull)",
+                      "purple mystic petal (Florges)"
+                  ]
+    },
+    {
+        "players":  "1",
+        "pokemon":  "Forretress",
+        "items":  [
+                      "bug fragment",
+                      "cocoon stone",
+                      "forretress shell (Forretress)",
+                      "bee sting (Beedrill)",
+                      "butterfree wing (Butterfree)",
+                      "brown shell (Shiny Forretress)"
+                  ]
+    },
+    {
+        "players":  "1",
+        "pokemon":  "Gastly",
+        "items":  [
+                      "ghost fragment",
+                      "darkness stone",
+                      "ghost bottle (Gastly)",
+                      "green ghost bottle (Shiny Gastly)",
+                      "dark claw (Shiny Haunter)"
+                  ]
+    },
+    {
+        "players":  "1",
+        "pokemon":  "Gengar",
+        "items":  [
+                      "ghost fragment",
+                      "darkness stone",
+                      "ectoplasm (Gengar)",
+                      "dark ectoplasm (Shiny Gengar)"
+                  ]
+    },
+    {
+        "players":  "1",
+        "pokemon":  "Haunter",
+        "items":  [
+                      "ghost fragment",
+                      "darkness stone",
+                      "ghost claw (Haunter)",
+                      "dark claw (Shiny Haunter)",
+                      "dark ectoplasm (Shiny Gengar)"
+                  ]
+    },
+    {
+        "players":  "1",
+        "pokemon":  "Hydreigon",
+        "items":  [
+                      "dark fragment",
+                      "darkness stone",
+                      "shadow tail (Hydreigon)",
+                      "dark canine horns (Houndoom)",
+                      "dark ears (Umbreon)",
+                      "phantom tail (Shiny Hydreigon)"
+                  ]
+    },
+    {
+        "players":  "1",
+        "pokemon":  "Kadabra",
+        "items":  [
+                      "psychic fragment",
+                      "enigma stone",
+                      "psychic spoon (Kadabra)",
+                      "hypnosis pendant (Hypno)",
+                      "enchanted spoon (Shiny Hypno)",
+                      "purple moustache (Shiny Alakazam)"
+                  ]
+    },
+    {
+        "players":  "1",
+        "pokemon":  "Lapras",
+        "items":  [
+                      "ice fragment",
+                      "ice stone",
+                      "lapras fin (Lapras)",
+                      "psychic wig (Jynx)",
+                      "purple fin (Shiny Lapras)"
+                  ]
+    },
+    {
+        "players":  "1",
+        "pokemon":  "Larvitar",
+        "items":  [
+                      "rock fragment",
+                      "rock stone",
+                      "hardrock shell (Rhyhorn)",
+                      "rock fist (Geodude)",
+                      "larvitar tail (Larvitar)",
+                      "yellow larvitar tail (Shiny larvitar)",
+                      "purple rock plate (Shiny Pupitar)"
+                  ]
+    },
+    {
+        "players":  "1",
+        "pokemon":  "Machamp",
+        "items":  [
+                      "fighting fragment",
+                      "punch stone",
+                      "martial arts tail (Hitmontop)",
+                      "belt of champion (Machamp)",
+                      "kick machine (Hitmonlee)",
+                      "punching machine (Hitonchan)",
+                      "master belt (Shiny Machamp)"
+                  ]
+    },
+    {
+        "players":  "1",
+        "pokemon":  "Machoke",
+        "items":  [
+                      "fighting fragment",
+                      "punch stone",
+                      "fighter underwear (Machoke)",
+                      "fist bandages (Tyrogue)",
+                      "iron bracelet (Primeape)",
+                      "champion underwear (Shiny Machoke)",
+                      "master belt (Shiny Machamp)"
+                  ]
+    },
+    {
+        "players":  "1",
+        "pokemon":  "Machop",
+        "items":  [
+                      "fighting fragment",
+                      "punch stone",
+                      "fighter hawk (Machop)",
+                      "mankey tail (Mankey)",
+                      "blond hawk (Shiny Machop)",
+                      "champion underwear (Shiny Machoke)"
+                  ]
+    },
+    {
+        "players":  "1",
+        "pokemon":  "Magnemite",
+        "items":  [
+                      "steel fragment",
+                      "metal stone",
+                      "electric screws (Magnemite)",
+                      "blue screws (Shiny Magnemite)",
+                      "strong magnet (Shiny Magneton)"
+                  ]
+    },
+    {
+        "players":  "1",
+        "pokemon":  "Magneton",
+        "items":  [
+                      "steel fragment",
+                      "metal stone",
+                      "forretress shell (Forretress)",
+                      "magnet (Magneton)",
+                      "strong magnet (Shiny Magneton)"
+                  ]
+    },
+    {
+        "players":  "1",
+        "pokemon":  "Mareep",
+        "items":  [
+                      "electric fragment",
+                      "thunder stone",
+                      "yellow sheep wool (Mareep)",
+                      "pichu ears (Pichu)",
+                      "white sheep wool (Shiny Mareep)",
+                      "electric soft wool (Shiny Flaaffy)"
+                  ]
+    },
+    {
+        "players":  "1",
+        "pokemon":  "Marowak",
+        "items":  [
+                      "ground fragment",
+                      "earth stone",
+                      "elephant foot (Donphan)",
+                      "bone (Marowak)",
+                      "blue bone (Shiny Marowak)"
+                  ]
+    },
+    {
+        "players":  "1",
+        "pokemon":  "Meganium",
+        "items":  [
+                      "grass fragment",
+                      "leaf stone",
+                      "big petal (Meganium)",
+                      "red petal (Venusaur)",
+                      "coconut leaves (Exeggutor)",
+                      "purple petal (Shiny Meganium)"
+                  ]
+    },
+    {
+        "players":  "1",
+        "pokemon":  "Meowth",
+        "items":  [
+                      "normal fragment",
+                      "heart stone",
+                      "luck medallion (Meowth)",
+                      "mouse tail  (Ratata)",
+                      "furry tail (Eevee)",
+                      "pink medallion (Shiny Meowth)",
+                      "white ball (Shiny Persian)"
+                  ]
+    },
+    {
+        "players":  "1",
+        "pokemon":  "Muk",
+        "items":  [
+                      "poison fragment",
+                      "venom stone",
+                      "cobra tail (Arbok)",
+                      "puffer tail (Qwilfish)",
+                      "stinky hand (Muk)",
+                      "disgusting hand (Shiny Muk)"
+                  ]
+    },
+    {
+        "players":  "1",
+        "pokemon":  "Persian",
+        "items":  [
+                      "normal fragment",
+                      "heart stone",
+                      "wool ball (Persian)",
+                      "rat ear (Raticate)",
+                      "aipom paw (Aipom)",
+                      "white ball (Shiny Persian)"
+                  ]
+    },
+    {
+        "players":  "1",
+        "pokemon":  "Pidgeot",
+        "items":  [
+                      "flying fragment",
+                      "feather stone",
+                      "bird beak (Pidgeot)",
+                      "steel wing (Skarmory)",
+                      "owl crest (Noctowl)",
+                      "two-colored crest (Shiny Pidgeot)"
+                  ]
+    },
+    {
+        "players":  "1",
+        "pokemon":  "Pidgeotto",
+        "items":  [
+                      "flying fragment",
+                      "feather stone",
+                      "pointy beak (Fearow)",
+                      "bird tail (Pidgeotto)",
+                      "dodrio feather (Dodrio)",
+                      "two-colored tail (Shiny Pidgeotto)",
+                      "two-colored crest (Shiny Pidgeot)"
+                  ]
+    },
+    {
+        "players":  "1",
+        "pokemon":  "Pidgey",
+        "items":  [
+                      "flying fragment",
+                      "feather stone",
+                      "bird crest (Pidgey)",
+                      "bird wing (Spearow)",
+                      "yellow bird crest (Shiny Pidgey)",
+                      "two-colored tail (Shiny Pidgeotto)"
+                  ]
+    },
+    {
+        "players":  "1",
+        "pokemon":  "Piloswine",
+        "items":  [
+                      "ice fragment",
+                      "ice stone",
+                      "ice tusks (Pilowsine)",
+                      "girf tail (Delibird)",
+                      "Frozen Tusks (Shiny Piloswine)"
+                  ]
+    },
+    {
+        "players":  "1",
+        "pokemon":  "Pineco",
+        "items":  [
+                      "bug fragment",
+                      "cocoon stone",
+                      "pineco shell (Pineco)",
+                      "poison sting (Weedle)",
+                      "caterpie antenna (Caterpie)",
+                      "orange shell (Shiny Pineco)",
+                      "brown shell (Shiny Forretress)"
+                  ]
+    },
+    {
+        "players":  "1",
+        "pokemon":  "Pupitar",
+        "items":  [
+                      "rock fragment",
+                      "rock stone",
+                      "rock plate (Pupitar)",
+                      "rock forehead (Graveler)",
+                      "purple rock plate (Shiny Pupitar)",
+                      "godzilla tail (Shiny Tyranitar)"
+                  ]
+    },
+    {
+        "players":  "1",
+        "pokemon":  "Quilava",
+        "items":  [
+                      "fire fragment",
+                      "fire stone",
+                      "quilava fur (Quilava)",
+                      "lizard tail (Charmelion)",
+                      "blaze tail (Flareon)",
+                      "blaze fur (Shiny Quilava)",
+                      "volcano fur (Shiny Typhlosion)"
+                  ]
+    },
+    {
+        "players":  "1",
+        "pokemon":  "Rhydon",
+        "items":  [
+                      "ground fragment",
+                      "earth stone",
+                      "handful of stones (Dugtrio)",
+                      "armadillo claw (Sandslash)",
+                      "horn drill (Rhydon)",
+                      "golden shell (Shiny Rhyhorn)",
+                      "golden drill (Shiny Rhydon)"
+                  ]
+    },
+    {
+        "players":  "1",
+        "pokemon":  "Scizor",
+        "items":  [
+                      "bug fragment",
+                      "cocoon stone",
+                      "scizor claw (Scizor)",
+                      "pinsir horn (Pinsir)",
+                      "scythe (Scyther)",
+                      "carbon claw (Shiny Scizor)"
+                  ]
+    },
+    {
+        "players":  "1",
+        "pokemon":  "Skarmory",
+        "items":  [
+                      "steel fragment",
+                      "metal stone",
+                      "magnet (Magneton)",
+                      "steel wing (Skarmory)",
+                      "scizor claw (Scizor)",
+                      "yellow steel wing (Shiny Skarmory)"
+                  ]
+    },
+    {
+        "players":  "1",
+        "pokemon":  "Spinarak",
+        "items":  [
+                      "poison fragment",
+                      "cocoon stone",
+                      "spider legs (Spinarak)",
+                      "poisoned arachnid legs (Ariados)"
+                  ]
+    },
+    {
+        "players":  "1",
+        "pokemon":  "Steelix",
+        "items":  [
+                      "steel fragment",
+                      "metal stone",
+                      "earth stone",
+                      "steel wing (Skarmory)",
+                      "onix tail (Onix)",
+                      "steelix tail (Steelix)",
+                      "horn drill (Rhydon)",
+                      "golden steelix tail (Shiny Steelix)"
+                  ]
+    },
+    {
+        "players":  "1",
+        "pokemon":  "Swinub",
+        "items":  [
+                      "ice fragment",
+                      "ice stone",
+                      "baby hair (Smoochoom)",
+                      "furry hair (Swinub)",
+                      "gray furry hair (Shiny Swinub)",
+                      "frozen tusks (Shiny Piloswine)"
+                  ]
+    },
+    {
+        "players":  "1",
+        "pokemon":  "Tauros",
+        "items":  [
+                      "normal fragment",
+                      "heart stone",
+                      "bull tail (Tauros)",
+                      "kangaskhan ear (Kangaskhan)",
+                      "snorlax paw (Snorlax)",
+                      "green bull tail (Shiny Tauros)"
+                  ]
+    },
+    {
+        "players":  "1",
+        "pokemon":  "Totodile",
+        "items":  [
+                      "water fragment",
+                      "water stone",
+                      "totodile tail (Totodile)",
+                      "aquatic tail (Maril)",
+                      "squirtle hull (Squirtle)",
+                      "cyan tail (Shiny Totodile)",
+                      "blue mohawk (Shiny Croconaw)"
+                  ]
+    },
+    {
+        "players":  "1",
+        "pokemon":  "Toxicroak",
+        "items":  [
+                      "poison fragment",
+                      "venom stone",
+                      "poison bladder (Toxicroak)",
+                      "queen ear (Nidoqueen)",
+                      "king ear (Nidoking)",
+                      "pink poison bladder (Shiny Toxicroak)"
+                  ]
+    },
+    {
+        "players":  "1",
+        "pokemon":  "Typhlosion",
+        "items":  [
+                      "fire fragment",
+                      "fire stone",
+                      "giant piece of fur (Arcanine)",
+                      "fire wing (Charizard)",
+                      "typhlosion fur (Typhlosion)",
+                      "blaze tail (Flareon)",
+                      "volcano fur (Shiny Typhlosion)"
+                  ]
+    },
+    {
+        "players":  "1",
+        "pokemon":  "Tyranitar",
+        "items":  [
+                      "rock fragment",
+                      "rock stone",
+                      "tyranitar tail (Tyranitar)",
+                      "spike shell (Omastar)",
+                      "gray scythe (Kabutops)",
+                      "godzilla tail (Shiny Tyranitar)"
+                  ]
+    },
+    {
+        "players":  "1",
+        "pokemon":  "Zubat",
+        "items":  [
+                      "poison fragment",
+                      "venom stone",
+                      "poison pore (Koffing)",
+                      "snake tail (Ekans)",
+                      "bat wing (Zubat)",
+                      "green vampire wing (Shiny Golbat)"
+                  ]
+    },
+    {
+        "players":  "1",
+        "pokemon":  "Zweilous",
+        "items":  [
+                      "dark fragment",
+                      "darkness stone",
+                      "yellow beak (Murkrow)",
+                      "puffer tail (Qwilfish)",
+                      "tweezers (Zweilous)",
+                      "greenish tweezers (Shiny Zweilous)"
+                  ]
+    }
+]

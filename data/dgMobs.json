@@ -1,0 +1,650 @@
+[
+    {
+        "xp":  "50000",
+        "mobList":  [
+                        "Abra",
+                        "Drowzee"
+                    ],
+        "mobs":  "43",
+        "xpPerHour":  "1894737",
+        "pokemon":  "Abra",
+        "players":  "1"
+    },
+    {
+        "xp":  "150000",
+        "mobList":  [
+                        "Alakazam",
+                        "Wobbuffet"
+                    ],
+        "mobs":  "43",
+        "xpPerHour":  "4320000",
+        "pokemon":  "Alakazam",
+        "players":  "1"
+    },
+    {
+        "xp":  "150000",
+        "mobList":  [
+                        "Ampharos",
+                        "Electabuzz",
+                        "Raichu"
+                    ],
+        "mobs":  "51",
+        "xpPerHour":  "4695652",
+        "pokemon":  "Ampharos",
+        "players":  "1"
+    },
+    {
+        "xp":  "100000",
+        "mobList":  [
+                        "Bayleef",
+                        "Ivysaur"
+                    ],
+        "mobs":  "56",
+        "xpPerHour":  "2400000",
+        "pokemon":  "Bayleef",
+        "players":  "1"
+    },
+    {
+        "xp":  "50000",
+        "mobList":  [
+                        "Bulbasaur",
+                        "Chicorita",
+                        "Exeggcute"
+                    ],
+        "mobs":  "56",
+        "xpPerHour":  "1333333",
+        "pokemon":  "Chicorita",
+        "players":  "1"
+    },
+    {
+        "xp":  "100000",
+        "mobList":  [
+                        "Croconaw",
+                        "Vaporeon",
+                        "Wartortle"
+                    ],
+        "mobs":  "66",
+        "xpPerHour":  "2181818",
+        "pokemon":  "Croconaw",
+        "players":  "1"
+    },
+    {
+        "xp":  "50000",
+        "mobList":  [
+                        "Cubone",
+                        "Phanpy",
+                        "Sandshrew"
+                    ],
+        "mobs":  "50",
+        "xpPerHour":  "",
+        "pokemon":  "Cubone",
+        "players":  "1"
+    },
+    {
+        "xp":  "50000",
+        "mobList":  [
+                        "Charmander",
+                        "Cyndaquil",
+                        "Growlithe"
+                    ],
+        "mobs":  "50",
+        "xpPerHour":  "1500000",
+        "pokemon":  "Cyndaquil",
+        "players":  "1"
+    },
+    {
+        "xp":  "",
+        "mobList":  [
+                        "Deino",
+                        "Houndour"
+                    ],
+        "mobs":  "",
+        "xpPerHour":  "",
+        "pokemon":  "Deino",
+        "players":  "1"
+    },
+    {
+        "xp":  "100000",
+        "mobList":  [
+                        "Dragonair"
+                    ],
+        "mobs":  "43",
+        "xpPerHour":  "3000000",
+        "pokemon":  "Dragonair",
+        "players":  "1"
+    },
+    {
+        "xp":  "150000",
+        "mobList":  [
+                        "Dragonite",
+                        "Kingdra"
+                    ],
+        "mobs":  "40",
+        "xpPerHour":  "4500000",
+        "pokemon":  "Dragonite",
+        "players":  "1"
+    },
+    {
+        "xp":  "50000",
+        "mobList":  [
+                        "Dratini"
+                    ],
+        "mobs":  "43",
+        "xpPerHour":  "",
+        "pokemon":  "Dratini",
+        "players":  "1"
+    },
+    {
+        "xp":  "150000",
+        "mobList":  [
+                        "Azumarill",
+                        "Blastoise",
+                        "Feraligatr",
+                        "Vaporeon"
+                    ],
+        "mobs":  "67",
+        "xpPerHour":  "2250000",
+        "pokemon":  "Feraligatr",
+        "players":  "1"
+    },
+    {
+        "xp":  "100000",
+        "mobList":  [
+                        "Electrode",
+                        "Flaaffy",
+                        "Jolteon"
+                    ],
+        "mobs":  "51",
+        "xpPerHour":  "3428571",
+        "pokemon":  "Flaaffy",
+        "players":  "1"
+    },
+    {
+        "xp":  "50000",
+        "mobList":  [
+                        "Cleffa",
+                        "Flabébé",
+                        "Igglybuff"
+                    ],
+        "mobs":  "94",
+        "xpPerHour":  "",
+        "pokemon":  "Flabébé",
+        "players":  "1"
+    },
+    {
+        "xp":  "100000",
+        "mobList":  [
+                        "Snubull",
+                        "Granbull",
+                        "Floette"
+                    ],
+        "mobs":  "94",
+        "xpPerHour":  "",
+        "pokemon":  "Floette",
+        "players":  "1"
+    },
+    {
+        "xp":  "150000",
+        "mobList":  [
+                        "Togetic",
+                        "Granbull",
+                        "Florges"
+                    ],
+        "mobs":  "94",
+        "xpPerHour":  "",
+        "pokemon":  "Florges",
+        "players":  "1"
+    },
+    {
+        "xp":  "100000",
+        "mobList":  [
+                        "Beedrill",
+                        "Butterfree",
+                        "Forretress"
+                    ],
+        "mobs":  "71",
+        "xpPerHour":  "2181818",
+        "pokemon":  "Forretress",
+        "players":  "1"
+    },
+    {
+        "xp":  "50000",
+        "mobList":  [
+                        "Gastly"
+                    ],
+        "mobs":  "57",
+        "xpPerHour":  "1500000",
+        "pokemon":  "Gastly",
+        "players":  "1"
+    },
+    {
+        "xp":  "150000",
+        "mobList":  [
+                        "Gengar"
+                    ],
+        "mobs":  "57",
+        "xpPerHour":  "3000000",
+        "pokemon":  "Gengar",
+        "players":  "1"
+    },
+    {
+        "xp":  "100000",
+        "mobList":  [
+                        "Haunter"
+                    ],
+        "mobs":  "57",
+        "xpPerHour":  "3000000",
+        "pokemon":  "Haunter",
+        "players":  "1"
+    },
+    {
+        "xp":  "150000",
+        "mobList":  [
+                        "Houndoom",
+                        "Hydreigon",
+                        "Umbreon"
+                    ],
+        "mobs":  "93",
+        "xpPerHour":  "",
+        "pokemon":  "Hydreigon",
+        "players":  "1"
+    },
+    {
+        "xp":  "100000",
+        "mobList":  [
+                        "Hypno",
+                        "Kadabra"
+                    ],
+        "mobs":  "43",
+        "xpPerHour":  "4500000",
+        "pokemon":  "Kadabra",
+        "players":  "1"
+    },
+    {
+        "xp":  "150000",
+        "mobList":  [
+                        "Jynx",
+                        "Lapras"
+                    ],
+        "mobs":  "100",
+        "xpPerHour":  "2634146",
+        "pokemon":  "Lapras",
+        "players":  "1"
+    },
+    {
+        "xp":  "50000",
+        "mobList":  [
+                        "Geodude",
+                        "Larvitar",
+                        "Rhyhorn"
+                    ],
+        "mobs":  "51",
+        "xpPerHour":  "",
+        "pokemon":  "Larvitar",
+        "players":  "1"
+    },
+    {
+        "xp":  "150000",
+        "mobList":  [
+                        "Hitmonchan",
+                        "Hitmonlee",
+                        "Hitmontop",
+                        "Machamp"
+                    ],
+        "mobs":  "44",
+        "xpPerHour":  "4320000",
+        "pokemon":  "Machamp",
+        "players":  "1"
+    },
+    {
+        "xp":  "100000",
+        "mobList":  [
+                        "Machoke",
+                        "Primeape",
+                        "Tyrogue"
+                    ],
+        "mobs":  "44",
+        "xpPerHour":  "4000000",
+        "pokemon":  "Machoke",
+        "players":  "1"
+    },
+    {
+        "xp":  "50000",
+        "mobList":  [
+                        "Machop",
+                        "Mankey"
+                    ],
+        "mobs":  "44",
+        "xpPerHour":  "2117647",
+        "pokemon":  "Machop",
+        "players":  "1"
+    },
+    {
+        "xp":  "50000",
+        "mobList":  [
+                        "Magnemite"
+                    ],
+        "mobs":  "85",
+        "xpPerHour":  "",
+        "pokemon":  "Magnemite",
+        "players":  "1"
+    },
+    {
+        "xp":  "100000",
+        "mobList":  [
+                        "Forretress",
+                        "Magneton"
+                    ],
+        "mobs":  "63",
+        "xpPerHour":  "2250000",
+        "pokemon":  "Magneton",
+        "players":  "1"
+    },
+    {
+        "xp":  "50000",
+        "mobList":  [
+                        "Mareep",
+                        "Pichu"
+                    ],
+        "mobs":  "51",
+        "xpPerHour":  "",
+        "pokemon":  "Mareep",
+        "players":  "1"
+    },
+    {
+        "xp":  "150000",
+        "mobList":  [
+                        "Donphan",
+                        "Marowak"
+                    ],
+        "mobs":  "37",
+        "xpPerHour":  "4695652",
+        "pokemon":  "Marowak",
+        "players":  "1"
+    },
+    {
+        "xp":  "150000",
+        "mobList":  [
+                        "Exeggutor",
+                        "Meganium",
+                        "Vanusaur"
+                    ],
+        "mobs":  "56",
+        "xpPerHour":  "2769231",
+        "pokemon":  "Meganium",
+        "players":  "1"
+    },
+    {
+        "xp":  "50000",
+        "mobList":  [
+                        "Eevee",
+                        "Meowth",
+                        "Rattata"
+                    ],
+        "mobs":  "73",
+        "xpPerHour":  "1500000",
+        "pokemon":  "Meowth",
+        "players":  "1"
+    },
+    {
+        "xp":  "100000",
+        "mobList":  [
+                        "Arbok",
+                        "Muk",
+                        "Qwilfish"
+                    ],
+        "mobs":  "67",
+        "xpPerHour":  "",
+        "pokemon":  "Muk",
+        "players":  "1"
+    },
+    {
+        "xp":  "100000",
+        "mobList":  [
+                        "Aipom",
+                        "Persian",
+                        "Raticate"
+                    ],
+        "mobs":  "73",
+        "xpPerHour":  "2666667",
+        "pokemon":  "Persian",
+        "players":  "1"
+    },
+    {
+        "xp":  "150000",
+        "mobList":  [
+                        "Noctowl",
+                        "Pidgeot",
+                        "Skarmory"
+                    ],
+        "mobs":  "162",
+        "xpPerHour":  "2297872",
+        "pokemon":  "Pidgeot",
+        "players":  "1"
+    },
+    {
+        "xp":  "100000",
+        "mobList":  [
+                        "Dodrio",
+                        "Fearow",
+                        "Pidgeotto"
+                    ],
+        "mobs":  "162",
+        "xpPerHour":  "",
+        "pokemon":  "Pidgeotto",
+        "players":  "1"
+    },
+    {
+        "xp":  "50000",
+        "mobList":  [
+                        "Pidgey",
+                        "Spearow"
+                    ],
+        "mobs":  "162",
+        "xpPerHour":  "",
+        "pokemon":  "Pidgey",
+        "players":  "1"
+    },
+    {
+        "xp":  "100000",
+        "mobList":  [
+                        "Piloswine",
+                        "Delibird"
+                    ],
+        "mobs":  "100",
+        "xpPerHour":  "",
+        "pokemon":  "Piloswine",
+        "players":  "1"
+    },
+    {
+        "xp":  "50000",
+        "mobList":  [
+                        "Caterpie",
+                        "Pineco",
+                        "Weedle"
+                    ],
+        "mobs":  "71",
+        "xpPerHour":  "",
+        "pokemon":  "Pineco",
+        "players":  "1"
+    },
+    {
+        "xp":  "100000",
+        "mobList":  [
+                        "Graveler",
+                        "Pupitar"
+                    ],
+        "mobs":  "51",
+        "xpPerHour":  "3130435",
+        "pokemon":  "Pupitar",
+        "players":  "1"
+    },
+    {
+        "xp":  "100000",
+        "mobList":  [
+                        "Charmelion",
+                        "Flareon",
+                        "Quilava"
+                    ],
+        "mobs":  "50",
+        "xpPerHour":  "2482759",
+        "pokemon":  "Quilava",
+        "players":  "1"
+    },
+    {
+        "xp":  "100000",
+        "mobList":  [
+                        "Dugtrio",
+                        "Rhydon",
+                        "Sandslash"
+                    ],
+        "mobs":  "37",
+        "xpPerHour":  "",
+        "pokemon":  "Rhydon",
+        "players":  "1"
+    },
+    {
+        "xp":  "150000",
+        "mobList":  [
+                        "Pinsir",
+                        "Scizor",
+                        "Scyther"
+                    ],
+        "mobs":  "71",
+        "xpPerHour":  "",
+        "pokemon":  "Scizor",
+        "players":  "1"
+    },
+    {
+        "xp":  "150000",
+        "mobList":  [
+                        "Magneton",
+                        "Scizor",
+                        "Skarmory"
+                    ],
+        "mobs":  "84",
+        "xpPerHour":  "",
+        "pokemon":  "Skarmory",
+        "players":  "1"
+    },
+    {
+        "xp":  "50000",
+        "mobList":  [
+                        "Spinarak"
+                    ],
+        "mobs":  "16",
+        "xpPerHour":  "4000000",
+        "pokemon":  "Spinarak",
+        "players":  "1"
+    },
+    {
+        "xp":  "150000",
+        "mobList":  [
+                        "Golem",
+                        "Onix",
+                        "Rhydon",
+                        "Skarmory",
+                        "Steelix"
+                    ],
+        "mobs":  "39",
+        "xpPerHour":  "5400000",
+        "pokemon":  "Steelix",
+        "players":  "1"
+    },
+    {
+        "xp":  "50000",
+        "mobList":  [
+                        "Swinub",
+                        "Smoochoom"
+                    ],
+        "mobs":  "102",
+        "xpPerHour":  "",
+        "pokemon":  "Swinub",
+        "players":  "1"
+    },
+    {
+        "xp":  "150000",
+        "mobList":  [
+                        "Kangaskhan",
+                        "Snorlax",
+                        "Tauros"
+                    ],
+        "mobs":  "73",
+        "xpPerHour":  "",
+        "pokemon":  "Tauros",
+        "players":  "1"
+    },
+    {
+        "xp":  "50000",
+        "mobList":  [
+                        "Maril",
+                        "Totodile",
+                        "Squirtle"
+                    ],
+        "mobs":  "67",
+        "xpPerHour":  "1058824",
+        "pokemon":  "Totodile",
+        "players":  "1"
+    },
+    {
+        "xp":  "150000",
+        "mobList":  [
+                        "Nidoking",
+                        "Nidoqueen",
+                        "Toxicroak"
+                    ],
+        "mobs":  "63",
+        "xpPerHour":  "",
+        "pokemon":  "Toxicroak",
+        "players":  "1"
+    },
+    {
+        "xp":  "150000",
+        "mobList":  [
+                        "Arcanine",
+                        "Charizard",
+                        "Flareon",
+                        "Typhlosion"
+                    ],
+        "mobs":  "50",
+        "xpPerHour":  "3176471",
+        "pokemon":  "Typhlosion",
+        "players":  "1"
+    },
+    {
+        "xp":  "150000",
+        "mobList":  [
+                        "Kabutops",
+                        "Omastar",
+                        "Tyranitar"
+                    ],
+        "mobs":  "51",
+        "xpPerHour":  "3085714",
+        "pokemon":  "Tyranitar",
+        "players":  "1"
+    },
+    {
+        "xp":  "50000",
+        "mobList":  [
+                        "Ekans",
+                        "Koffing",
+                        "Zubat"
+                    ],
+        "mobs":  "10",
+        "xpPerHour":  "",
+        "pokemon":  "Zubat",
+        "players":  "1"
+    },
+    {
+        "xp":  "100000",
+        "mobList":  [
+                        "Murkrow",
+                        "Qwilfish",
+                        "Zweilous"
+                    ],
+        "mobs":  "93",
+        "xpPerHour":  "",
+        "pokemon":  "Zweilous",
+        "players":  "1"
+    }
+]

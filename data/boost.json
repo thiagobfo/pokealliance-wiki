@@ -1,0 +1,219 @@
+[
+    {
+        "stone":  "cocoon stone",
+        "items":  [
+                      "scythe (Scyther)",
+                      "scizor claw (Scizor)",
+                      "pinsir horn (Pinsir)"
+                  ],
+        "type":  "Bug",
+        "fragment":  "bug fragment"
+    },
+    {
+        "stone":  "darkness stone",
+        "items":  [
+                      "tyranitar tail (Tyranitar)",
+                      "dark canine horns (Houndoom)",
+                      "shadow tail (Hydreidon)",
+                      "dark ears (Umbreon)"
+                  ],
+        "type":  "Dark",
+        "fragment":  "dark fragment"
+    },
+    {
+        "stone":  "crystal stone",
+        "items":  [
+                      "dragonair tail (Dragonair)",
+                      "shadow tail (Hydreidon)",
+                      "sea dragon fin (Kingdra)",
+                      "dragonite tail (Dragonite)"
+                  ],
+        "type":  "Dragon",
+        "fragment":  "dragon fragment"
+    },
+    {
+        "stone":  "thunder stone",
+        "items":  [
+                      "electric collar (Jolteon)",
+                      "electric ear (Raichu)",
+                      "electric tail (Electabuzz)",
+                      "electric sheep tail (Ampharos)",
+                      "luxray ear (Luxray)"
+                  ],
+        "type":  "Electric",
+        "fragment":  "electric fragment"
+    },
+    {
+        "stone":  "heart stone",
+        "items":  [
+                      "mimic clothes (Mr. Mime)",
+                      "pink fairy bow (Sylveon)",
+                      "mystic petal (Florges)",
+                      "yellow mimikyu head (Mimikyu)"
+                  ],
+        "type":  "Fairy",
+        "fragment":  "fairy fragment"
+    },
+    {
+        "stone":  "punch stone",
+        "items":  [
+                      "belt of champions (Machamp)",
+                      "big fist gloves (Poliwrath)",
+                      "martial arts tail (Hitmontop)",
+                      "kick machine (Hitmonlee)",
+                      "punching machine (Hitmonchan)",
+                      "poison bladder (Toxicroak)"
+                  ],
+        "type":  "Fighting",
+        "fragment":  "fighting fragment"
+    },
+    {
+        "stone":  "fire stone",
+        "items":  [
+                      "fire roof (Rapidash)",
+                      "magma shell (Magcargo)",
+                      "fox tail (Ninetales)",
+                      "dark canine horns (Houndoom)",
+                      "blaze tail (Flareon)",
+                      "giant piece of fur (Arcanine)",
+                      "magma foot (Magmar)",
+                      "fire wings (Charizard)"
+                  ],
+        "type":  "Fire",
+        "fragment":  "fire fragment"
+    },
+    {
+        "stone":  "feather stone",
+        "items":  [
+                      "farfetch\u0027d wing (Farfetch\u0027d)",
+                      "fire wing (Charizard)",
+                      "steel wing (Skarmory)",
+                      "dodrio feather (Dodrio)",
+                      "dragonite tail (Dragonite)",
+                      "gyarados tail (Gyarados)",
+                      "scythe (Scyther)",
+                      "blue ray tail (Mantine)"
+                  ],
+        "type":  "Flying",
+        "fragment":  "flying fragment"
+    },
+    {
+        "stone":  "ghost stone",
+        "items":  [
+                      "ectoplasm (Gengar)",
+                      "miss traces (Misdreavus)",
+                      "yellow mimikyu head (Mimikyu)"
+                  ],
+        "type":  "Ghost",
+        "fragment":  "ghost fragment"
+    },
+    {
+        "stone":  "leaf stone",
+        "items":  [
+                      "red petal (Venusaur)",
+                      "big petal (Meganium)",
+                      "gaia hands (Tangrowth)",
+                      "piece of rock (Torterra)"
+                  ],
+        "type":  "Grass",
+        "fragment":  "grass fragment"
+    },
+    {
+        "stone":  "earth stone",
+        "items":  [
+                      "king ear (Nidoking)",
+                      "queen ear (Nidoqueen)",
+                      "stone rocks (Golem)",
+                      "rock plate (Pupitar)",
+                      "steelix tail (Steelix)",
+                      "bone (Marowak)",
+                      "piece of rock (Torterra)"
+                  ],
+        "type":  "Ground",
+        "fragment":  "ground fragment"
+    },
+    {
+        "stone":  "ice stone",
+        "items":  [
+                      "lapras fin (Lapras)",
+                      "psychic wig (Jynx)"
+                  ],
+        "type":  "Ice",
+        "fragment":  "ice fragment"
+    },
+    {
+        "stone":  "heart stone",
+        "items":  [
+                      "cow tail (Miltank)",
+                      "bull tail (Tauros)",
+                      "kangaskhan ear (Kangaskhan)",
+                      "farfetch\u0027d wing (Farfetch\u0027d)",
+                      "big crest (Pidgeot)",
+                      "snorlax paw (Snorlax)"
+                  ],
+        "type":  "Normal",
+        "fragment":  "normal fragment"
+    },
+    {
+        "stone":  "venom stone",
+        "items":  [
+                      "red petal (Venusaur)",
+                      "ectoplasm (Gengar)",
+                      "stinky hand (Muk)",
+                      "giant ruby (Tentacruel)",
+                      "king ear (Nidoking)"
+                  ],
+        "type":  "Poison",
+        "fragment":  "poison fragment"
+    },
+    {
+        "stone":  "enigma stone",
+        "items":  [
+                      "psychic wig (Jynx)",
+                      "mimic clothes (Mr. Mime)",
+                      "two-eyed black tail (Wobbuffet)",
+                      "psychic moustache (Alakazam)",
+                      "psychic ears (Espeon)",
+                      "slowking necklace (Slowking)"
+                  ],
+        "type":  "Psychic",
+        "fragment":  "psychic fragment"
+    },
+    {
+        "stone":  "rock stone",
+        "items":  [
+                      "tyranitar tail (Tyranitar)",
+                      "magma shell  (Magcargo)",
+                      "rock plate (Pupitar)",
+                      "stone rocks (Golem)"
+                  ],
+        "type":  "Rock",
+        "fragment":  "rock fragment"
+    },
+    {
+        "stone":  "metal stone",
+        "items":  [
+                      "steel wing (Skarmory)",
+                      "steelix tail (Steelix)",
+                      "scizor claw (Scizor)"
+                  ],
+        "type":  "Steel",
+        "fragment":  "steel fragment"
+    },
+    {
+        "stone":  "water stone",
+        "items":  [
+                      "blue ray tail (Mantine)",
+                      "frog topknot (Politoed)",
+                      "big fist gloves (Poliwrath)",
+                      "red hair (Feraligatr)",
+                      "giant ruby (Tentacruel)",
+                      "lapras fin (Lapras)",
+                      "sea dragon fin (Kingdra)",
+                      "aquatic tail (Vaporeon)",
+                      "gyarados tail (Gyarados)"
+                  ],
+        "type":  "Water",
+        "fragment":  "water fragment"
+    }
+]

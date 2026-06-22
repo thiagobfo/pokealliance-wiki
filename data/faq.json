@@ -1,0 +1,525 @@
+[
+    {
+        "keywords":  [
+                         "star"
+                     ],
+        "answer":  "Star Ascension: https://discord.com/channels/1159230367803392022/1159230368940032093/1373854629867163720"
+    },
+    {
+        "keywords":  [
+                         "boost"
+                     ],
+        "answer":  "Boost Pokémon: https://discord.com/channels/1159230367803392022/1428551995635273809"
+    },
+    {
+        "keywords":  [
+                         "up"
+                     ],
+        "answer":  "Guia de up até o lvl 150: https://discord.com/channels/1159230367803392022/1308522087517782047"
+    },
+    {
+        "keywords":  [
+                         "fly"
+                     ],
+        "answer":  "Order no seu pé pra montar no fly. Subir e descer configura as hotkeys no Ctrl K -\u003e Movements -\u003e Fly Up e Fly Down. Se quiser tirar os botões que aparecem na tela, é em Config -\u003e Game -\u003e Show Fly Up/Down buttons\","
+    },
+    {
+        "keywords":  [
+                         "ilhas",
+                         "laranja"
+                     ],
+        "answer":  "Ilhas laranja (lvl150+): Fala com o Captain Frederic, na praia sul de Cianwood, e depois pega a chave escondida atrás do coqueiro (https://imgur.com/a/uu36dVY), e entrega a chave para o capitão. Depois só voar pra ilha que precisa ir\","
+    },
+    {
+        "keywords":  [
+                         "mapa"
+                     ],
+        "answer":  "Pra liberar o mapa completo: https://tinyurl.com/discord-pka-mapa"
+    },
+    {
+        "keywords":  [
+                         "ditto"
+                     ],
+        "answer":  "Pra fazer o shiny Ditto: Fala com o Dr. Oliveira em Pallet, mata 50 Dittos e leva pra ele 1000 DNA Gosmes + DNA Chain (compra na store por 150DD) + um ditto normal. A ball do Ditto vai ser a mesma do shiny\","
+    },
+    {
+        "keywords":  [
+                         "combo",
+                         "autocombo"
+                     ],
+        "answer":  "Autocombo: Botão direito nas skills -\u003e Open Auto Combo. Arrasta a skills pra baixo na ordem que quiser. Fecha a interface, botão direito no terceiro botão da action bar (o monstrinho) e seta a hotkey. https://imgur.com/6xFdECI\","
+    },
+    {
+        "keywords":  [
+                         "pesca"
+                     ],
+        "answer":  "Pra pescar, tem que procurar os fishing spots (uns peixes na água) direita ou sul de Saffron. Quando achar, aperta Ctrl Z e clica nele. Pescar só upa a skill de pesca, não da xp pro personagem, e nem vem muito shiny\","
+    },
+    {
+        "keywords":  [
+                         "fundir"
+                     ],
+        "answer":  "Fundir helds: https://discord.com/channels/1159230367803392022/1308282900772425772/1391888601176084554"
+    },
+    {
+        "keywords":  [
+                         "trocar"
+                     ],
+        "answer":  "Trocar helds: https://youtu.be/Bvq8_LrDuXo?t=50"
+    },
+    {
+        "keywords":  [
+                         "cupom"
+                     ],
+        "answer":  "Cupons: BISKELLA, ANUNAKI, BANDICOT, LEMES, SAFNAW, LOXAS, LELE\","
+    },
+    {
+        "keywords":  [
+                         "aura",
+                         "addon",
+                         "skill"
+                     ],
+        "answer":  "Trocar Aura/Addon/Training: Com o poke pra dentro, Ctrl Click na ball e seleciona \"\"Customize\"\"\","
+    },
+    {
+        "keywords":  [
+                         "prey"
+                     ],
+        "answer":  "No Prey, vc escolhe uma hunt pra ganhar um buff de atk/loot/catch/dodge. Dura 1000 mobs por card e nenhum dos buffs funciona em shiny. Pra ativar, tem o botão no menu superior\","
+    },
+    {
+        "keywords":  [
+                         "offensive",
+                         "defensive"
+                     ],
+        "answer":  "Pra setar offensive/defensive: Ctrl K -\u003e Pokemon -\u003e As últimas opções. https://imgur.com/a/0hqCnBb"
+    },
+    {
+        "keywords":  [
+                         "shard"
+                     ],
+        "answer":  "Arcane shards são as \"\"chaves\"\" pra entrar nas DGs. No Ctrl Tab da pra ver os ícones das tipagens das DGs em Kanto (https://tinyurl.com/planilha-pka-dgs). Tbm da pra fazer as Expeditions: https://www.youtube.com/watch?v=hPkmXE61Y18\","
+    },
+    {
+        "keywords":  [
+                         "treino",
+                         "treinar",
+                         "punching"
+                     ],
+        "answer":  "Compra punching bag e cargas na store ou com a NPC July no TC. Coloca o dummy na house (precisa de 2x2 livre pra cima/esquerda), adiciona as cargas, e coloca o poke no dummy (https://imgur.com/5phU7Kl). Pra ver as skills, Ctrl click na ball -\u003e Customize\","
+    },
+    {
+        "keywords":  [
+                         "vender"
+                     ],
+        "answer":  "Pra vender um item no market, clica em Sell la em cima, depois em Create Announcement em baixo, e arrasta o item pra interface que abriu: https://imgur.com/3SdRzG3\","
+    },
+    {
+        "keywords":  [
+                         "july"
+                     ],
+        "answer":  "Compra câmera/decoração: NPC July, na entrada do TC \u003e\","
+    },
+    {
+        "keywords":  [
+                         "medalha"
+                     ],
+        "answer":  "Medalhas: https://discord.com/channels/1159230367803392022/1235107027026448385/1397690809452855407  // https://www.youtube.com/watch?v=ht1gaeTcUGA"
+    },
+    {
+        "keywords":  [
+                         "carteira"
+                     ],
+        "answer":  "Pra ver o dinheiro é no Perfil (Ctrl T) -\u003e Carteira"
+    },
+    {
+        "keywords":  [
+                         "expedition"
+                     ],
+        "answer":  "Expeditions: https://www.youtube.com/watch?v=hPkmXE61Y18"
+    },
+    {
+        "keywords":  [
+                         "hunt"
+                     ],
+        "answer":  "Localizações das hunts:   https://tinyurl.com/planilha-pka-hunts  \u003c-- Nesse link tem as hunts, e caso tenha a dex do poke no jogo também da pra ver os spawns clicando na lupa do lado da foto\","
+    },
+    {
+        "keywords":  [
+                         "maxima"
+                     ],
+        "answer":  "Máxima de brokes por tier:      https://tinyurl.com/planilha-pka-brokes"
+    },
+    {
+        "keywords":  [
+                         "passe"
+                     ],
+        "answer":  "Game Pass é o terceiro botão em baixo da barra de xp. Mais detalhes: https://discord.com/channels/1159230367803392022/1159230368940032093/1456085101816446976"
+    },
+    {
+        "keywords":  [
+                         "linked",
+                         "task"
+                     ],
+        "answer":  "Linked Tasks: https://tinyurl.com/planilha-pka-linked-tasks   //   Mais detalhes: https://discord.com/channels/1159230367803392022/1159230368940032093/1495879078094311494"
+    },
+    {
+        "keywords":  [
+                         "revive"
+                     ],
+        "answer":  "Pra conseguir uns revives, tem uma box grátis na Store (No menu superior) -\u003e Character -\u003e Starter Box. As conquistas (Ctrl T) e Linked Tasks (Ctrl L) tbm dão\","
+    },
+    {
+        "keywords":  [
+                         "mega"
+                     ],
+        "answer":  "Megas: https://discord.com/channels/1159230367803392022/1159230368940032093/1457559488008687732"
+    },
+    {
+        "keywords":  [
+                         "togepi"
+                     ],
+        "answer":  "Pra evoluir Togepi/Eevee/Golbat, mate pokemons com ele pra subir a felicidade e ele estar pronto. Mas não compensa evoluir o togepi, ele perde a skill de cura\","
+    },
+    {
+        "keywords":  [
+                         "vip"
+                     ],
+        "answer":  "Benefícios de ser VIP: Autoloot, Teleport, Guild Boss, Comprar House, Brotherhood, Rockets, Officers, Clones\","
+    },
+    {
+        "keywords":  [
+                         "legendary"
+                     ],
+        "answer":  "Shiny tier lendário só spawna na Mewtwo Island. Precisa lvl 350+ pra acessar e caça usando rotação de pokes. Nas wildscapes deles, nascem T1s do tipo respectivo: https://discord.com/channels/1159230367803392022/1235107027026448385/1492317824306384998\","
+    },
+    {
+        "keywords":  [
+                         "caveira"
+                     ],
+        "answer":  "Hunts com caveira são as Wildscapes. Precisa lvl 150 pra ganhar xp. Lá tem drop rate maior e vem mais shiny"
+    },
+    {
+        "keywords":  [
+                         "bh"
+                     ],
+        "answer":  "BH: https://discord.com/channels/1159230367803392022/1308285144943034398/1460010127838150699"
+    },
+    {
+        "keywords":  [
+                         "ski"
+                     ],
+        "answer":  "Roupa de Ski (Levar 3 Ice Stone): https://imgur.com/a/zyBfjzG"
+    },
+    {
+        "keywords":  [
+                         "sandboard"
+                     ],
+        "answer":  "Sandboard (Levar 3 Enigma Stone): https://imgur.com/bUSyhB4"
+    },
+    {
+        "keywords":  [
+                         "mergulho"
+                     ],
+        "answer":  "Roupa de Mergulho (Levar 3 Water Stone): https://imgur.com/xWkxgwg"
+    },
+    {
+        "keywords":  [
+                         "onix"
+                     ],
+        "answer":  "Evoluir Onix (lvl 100): Equipe um Metal Coat (drop de steelix/scizor). Pra equipar, poke pra dentro e usa o item na ball. Depois mate pokemons usando o Onix. A cada mob derrotado, há uma chance de evoluir. Nos Pikachu \u003e Saffron deve levar uns 10min\","
+    },
+    {
+        "keywords":  [
+                         "flint"
+                     ],
+        "answer":  "NPC Flint (Stones): https://imgur.com/a/VZv8Ph2"
+    },
+    {
+        "keywords":  [
+                         "balls"
+                     ],
+        "answer":  "AB=5x, PB=4x, Elemental=5x, UB=4x. AB e PB não consideram o sistema de mérito (sempre contam como se fosse a primeira ball jogada). Mas AB e PB somam pro total de brokes (pra quando for usar UB/Elemental). Elem \u003e UB \u003e AB \u003e PB\","
+    },
+    {
+        "keywords":  [
+                         "hoenn"
+                     ],
+        "answer":  "Ir pra Hoenn (Lvl350): Fala com os profs em Pallet e New Bark, depois pra esse NPC sul de Goldenrod (https://imgur.com/a/AOqN6L0) e clica no trailer pra ir pra Hoenn. O último prof fica na hunt de Poochyena (https://imgur.com/a/AV1brbq)\","
+    },
+    {
+        "keywords":  [
+                         "alliance",
+                         "egg"
+                     ],
+        "answer":  "Alliance Egg é do evento de páscoa. Vem xp e tokens pra trocar por buffs numa máquina na entrada do TC. Se vc for lvl 100- pode ignorar"
+    },
+    {
+        "keywords":  [
+                         "pokelog"
+                     ],
+        "answer":  "Pokelog e Linked Tasks: https://www.youtube.com/watch?v=fLgi7PENd_I"
+    },
+    {
+        "keywords":  [
+                         "hazard"
+                     ],
+        "answer":  "Hazard: https://discord.com/channels/1159230367803392022/1159230368940032093/1445053824707330221"
+    },
+    {
+        "keywords":  [
+                         "stash"
+                     ],
+        "answer":  "Fecha o stash e arrasta o item pra cima da caixa azul no TC, como se fosse dropar em cima. Se forem muitos itens pra guardar, coloca numa bagzinha e arrasta ela\","
+    },
+    {
+        "keywords":  [
+                         "orb"
+                     ],
+        "answer":  "Todos os orbs são usados nos Poketalents. Da pra ver eles no Ctrl T -\u003e Talentos"
+    },
+    {
+        "keywords":  [
+                         "dex"
+                     ],
+        "answer":  "Dex é o primeiro botão da action bar. Botao direito nele pra setar uma hotkey. Ou seta direto a hotkey no Ctrl K"
+    },
+    {
+        "keywords":  [
+                         "discord"
+                     ],
+        "answer":  "https://discord.gg/pokealliance"
+    },
+    {
+        "keywords":  [
+                         "tierlist"
+                     ],
+        "answer":  "https://tinyurl.com/planilha-pka-tierlist"
+    },
+    {
+        "keywords":  [
+                         "talents"
+                     ],
+        "answer":  "Talentos de dano são os do tipo do move que será usado. Talentos de defesa são os do tipo do Pokemon que será usado. Se o pokemon tiver dois tipos, precisa fazer os talents de defesa dos dois pra ter 100% da eficácia\","
+    },
+    {
+        "keywords":  [
+                         "tp"
+                     ],
+        "answer":  ".h cidade (sem o ponto). O cooldown base é 30min, e diminui de acordo com o held de tp quer tiver no pokemon (t1=25min, t2=22min, t3=20min, t4=15min, t5=10min, t6=5min, t7=1min)\","
+    },
+    {
+        "keywords":  [
+                         "dg"
+                     ],
+        "answer":  "https://tinyurl.com/planilha-pka-dgs"
+    },
+    {
+        "keywords":  [
+                         "rosemary"
+                     ],
+        "answer":  "Remover helds é com a NPC Rosemary, na entrada do TC \u003e. Vc só recebe o tier mais alto do held de volta"
+    },
+    {
+        "keywords":  [
+                         "heather"
+                     ],
+        "answer":  "Vender pokes é com a NPC Heather, no TC lá pra baixo"
+    },
+    {
+        "keywords":  [
+                         "rockets"
+                     ],
+        "answer":  "Rockets: https://tinyurl.com/planilha-pka-rockets"
+    },
+    {
+        "keywords":  [
+                         "ginasios",
+                         "gyms"
+                     ],
+        "answer":  "Gyms: https://tinyurl.com/planilha-pka-gyms"
+    },
+    {
+        "keywords":  [
+                         "normal"
+                     ],
+        "answer":  "Pokemon não-shiny não tem uma máxima de brokes, mas geralmente não  passa de 4k. A menos que seja T1, daí o ceu é o limite"
+    },
+    {
+        "keywords":  [
+                         "memory"
+                     ],
+        "answer":  "Memory: Ctrl Click na ball e seleciona \"\"Ditto Memory\"\". Daí clica nos slots pra ir comprando. Custa 30, 40, 50, 60 e 70DD pra desbloquear os slots, respectivamente"
+    },
+    {
+        "keywords":  [
+                         "johto"
+                     ],
+        "answer":  "Vai voando pela água ao sul de New Bark (Ctrl Tab pra ver o mapa), ou pode pegar o barco em Vermilion até Olivine por 50k"
+    },
+    {
+        "keywords":  [
+                         "held"
+                     ],
+        "answer":  "Com o poke pra dentro, usa o held na ball. Tem que começar pelo tier 1 do held e ir subindo na ordem (t2, t3...)"
+    },
+    {
+        "keywords":  [
+                         "share"
+                     ],
+        "answer":  "Compartilhar xp: Padrão=15lvls / Ilhas laranja=30lvls / Hoenn=80lvls. Mais detalhes: https://discord.com/channels/1159230367803392022/1308285144943034398/1460739112435712022"
+    },
+    {
+        "keywords":  [
+                         "espeon",
+                         "umbreon"
+                     ],
+        "answer":  "Espeon = entre 06:00 e 17:59 no relógio do minimap. Umbreon = entre 18:00 e 05:59. O ciclo de 12h no jogo dura 2h no tempo real"
+    },
+    {
+        "keywords":  [
+                         "bless"
+                     ],
+        "answer":  "Pra comprar bless é com a enfermeira Joy no CP abandonado direita de Fuchsia. https://imgur.com/a/ZRjJxLj"
+    },
+    {
+        "keywords":  [
+                         "porygon"
+                     ],
+        "answer":  "Quest do Porygon: https://tinyurl.com/planilha-pka-porygon"
+    },
+    {
+        "keywords":  [
+                         "loot"
+                     ],
+        "answer":  "Os itens vão pro Loot Stash. É uma bagzinha dourada no menu superior"
+    },
+    {
+        "keywords":  [
+                         "order"
+                     ],
+        "answer":  "Order é o segundo botão na action bar (a mãozinha). Botão direito nela pra setar a hotkey"
+    },
+    {
+        "keywords":  [
+                         "brokes"
+                     ],
+        "answer":  "Pra ver as brokes é no Ctrl T -\u003e Pokemon Brokes, ou usando o comando !pokeball \"\"shiny nomedopoke"
+    },
+    {
+        "keywords":  [
+                         "house"
+                     ],
+        "answer":  "Pra comprar house precisa lvl 200, VIP e ter o dinheiro na carteira. Comando !buyhouse na frente da porta. Se tiver casas vazias pra comprar, vai aparecer o ícone no Ctrl Tab, e depois que comprar usa !houseinfo pra ver mais infos"
+    },
+    {
+        "keywords":  [
+                         "twitch"
+                     ],
+        "answer":  "Pra ganhar os pontos da twitch, vincula a conta pelo site do PKA. Faz o login que vai ter a opção, e depois é só assistir às live que tenham o \"\"Drops On\"\" no título"
+    },
+    {
+        "keywords":  [
+                         "amulet"
+                     ],
+        "answer":  "Lucky Amulet (Lvl 250+): https://discord.com/channels/1159230367803392022/1367202787208859759/1367206876458254407"
+    },
+    {
+        "keywords":  [
+                         "corte"
+                     ],
+        "answer":  "Cortes de xp acontecem nos lvls: 100 130 150 200 320 400"
+    },
+    {
+        "keywords":  [
+                         "hydreigon"
+                     ],
+        "answer":  "Hydreigon: https://discord.com/channels/1159230367803392022/1308285144943034398/1460007176562016448"
+    },
+    {
+        "keywords":  [
+                         "foil"
+                     ],
+        "answer":  "Energy foils são teleports pras hunts de hoen (lvl 350+). Precisa ter ido nos waypoints (fotos dos pokes no Ctrl Tab) pra liberar o tp antes de usar"
+    },
+    {
+        "keywords":  [
+                         "elixir"
+                     ],
+        "answer":  "Pra não tomar miss tem o Guardian Elixir. Compra no NPC Mark, ou na Twitch Store no menu superior"
+    },
+    {
+        "keywords":  [
+                         "radar"
+                     ],
+        "answer":  "Como funcionam os radares da Brotherhood: https://www.youtube.com/shorts/IssTYDDWpBo"
+    },
+    {
+        "keywords":  [
+                         "berry"
+                     ],
+        "answer":  "Berries na loja do Global Buff: https://discord.com/channels/1159230367803392022/1159230368940032093/1503091998884626725"
+    },
+    {
+        "keywords":  [
+                         "global",
+                         "buffs"
+                     ],
+        "answer":  "Global buffs: https://discord.com/channels/1159230367803392022/1235107027026448385/1484302069497204737"
+    },
+    {
+        "keywords":  [
+                         "pokestop"
+                     ],
+        "answer":  "Configurar Pokestop: https://imgur.com/a/rcPOYrE"
+    },
+    {
+        "keywords":  [
+                         "rotações"
+                     ],
+        "answer":  "Rotações pra Hoenn: https://docs.google.com/document/d/1mVsLDJnSddFdjA3r_Gm66L9E5VVb1nAm (Créditos: Shaolin Pig Slayer - MOON)"
+    },
+    {
+        "keywords":  [
+                         "speed"
+                     ],
+        "answer":  "Tier 7 até Tier 4: 500 de velocidade //  Tier 3: 600 de velocidade // Tier 2: 700 de velocidade //  Tier 1: 800 de velocidade // SR, UR e Legendary: 1000 de velocidade"
+    },
+    {
+        "keywords":  [
+                         "taunt"
+                     ],
+        "answer":  "Ctrl K -\u003e Others -\u003e Taunt"
+    },
+    {
+        "keywords":  [
+                         "heracross"
+                     ],
+        "answer":  "NPC Heracross: 1986, 2014, 6"
+    },
+    {
+        "keywords":  [
+                         "recompensa",
+                         "latios"
+                     ],
+        "answer":  "Love Potion = Sh Charm   //   Heart of Destiny = XP   //   Heartbound Necklace = Catch Shiny   //   Heart Ball = Catch Normal   //   Valentine Loot Bag = Drop"
+    },
+    {
+        "keywords":  [
+                         "clones"
+                     ],
+        "answer":  "Clones: https://www.youtube.com/watch?v=iq6GYW-QnpA"
+    },
+    {
+        "keywords":  [
+                         "util"
+                     ],
+        "answer":  "Drop de shiny de primeira evolução pode ser usado nos talentos (Ctrl T). Se não for, não tem uso. Se o drop for de evolução, serve pra evoluir a pré-evolução respectiva"
+    },
+    {
+        "keywords":  [
+                         "evento"
+                     ],
+        "answer":  "Parte 2 do evento: https://discord.com/channels/1159230367803392022/1159230368940032093/1512510430369808586"
+    }
+]

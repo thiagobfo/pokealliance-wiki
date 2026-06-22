@@ -1,0 +1,4237 @@
+[
+    {
+        "pokemon":  "Bulbasaur",
+        "tier":  "T6",
+        "moveset":  "Grass"
+    },
+    {
+        "pokemon":  "Shiny Bulbasaur",
+        "tier":  "T5",
+        "moveset":  "Grass"
+    },
+    {
+        "pokemon":  "Ivysaur",
+        "tier":  "T5",
+        "moveset":  "Grass"
+    },
+    {
+        "pokemon":  "Shiny Ivysaur",
+        "tier":  "T4",
+        "moveset":  "Grass"
+    },
+    {
+        "pokemon":  "Venusaur",
+        "tier":  "T3",
+        "moveset":  "Grass"
+    },
+    {
+        "pokemon":  "Shiny Venusaur",
+        "tier":  "T1",
+        "moveset":  "Grass"
+    },
+    {
+        "pokemon":  "Charmander",
+        "tier":  "T6",
+        "moveset":  "Fire"
+    },
+    {
+        "pokemon":  "Shiny Charmander",
+        "tier":  "T5",
+        "moveset":  "Fire"
+    },
+    {
+        "pokemon":  "Charmeleon",
+        "tier":  "T5",
+        "moveset":  "Fire"
+    },
+    {
+        "pokemon":  "Shiny Charmeleon",
+        "tier":  "T4",
+        "moveset":  "Fire"
+    },
+    {
+        "pokemon":  "Charizard",
+        "tier":  "T3",
+        "moveset":  "Fire"
+    },
+    {
+        "pokemon":  "Shiny Charizard",
+        "tier":  "T1",
+        "moveset":  "Fire"
+    },
+    {
+        "pokemon":  "Squirtle",
+        "tier":  "T6",
+        "moveset":  "Water"
+    },
+    {
+        "pokemon":  "Shiny Squirtle",
+        "tier":  "T5",
+        "moveset":  "Water"
+    },
+    {
+        "pokemon":  "Wartortle",
+        "tier":  "T5",
+        "moveset":  "Water"
+    },
+    {
+        "pokemon":  "Shiny Wartortle",
+        "tier":  "T4",
+        "moveset":  "Water"
+    },
+    {
+        "pokemon":  "Blastoise",
+        "tier":  "T3",
+        "moveset":  "Water"
+    },
+    {
+        "pokemon":  "Shiny Blastoise",
+        "tier":  "T1",
+        "moveset":  "Water"
+    },
+    {
+        "pokemon":  "Caterpie",
+        "tier":  "T7",
+        "moveset":  "Bug"
+    },
+    {
+        "pokemon":  "Shiny Caterpie",
+        "tier":  "T6",
+        "moveset":  "Bug"
+    },
+    {
+        "pokemon":  "Metapod",
+        "tier":  "T6",
+        "moveset":  "Bug"
+    },
+    {
+        "pokemon":  "Shiny Metapod",
+        "tier":  "T5",
+        "moveset":  "Bug"
+    },
+    {
+        "pokemon":  "Butterfree",
+        "tier":  "T5",
+        "moveset":  "Flying"
+    },
+    {
+        "pokemon":  "Shiny Butterfree",
+        "tier":  "T4",
+        "moveset":  "Flying"
+    },
+    {
+        "pokemon":  "Weedle",
+        "tier":  "T7",
+        "moveset":  "Bug"
+    },
+    {
+        "pokemon":  "Shiny Weedle",
+        "tier":  "T6",
+        "moveset":  "Bug"
+    },
+    {
+        "pokemon":  "Kakuna",
+        "tier":  "T6",
+        "moveset":  "Bug"
+    },
+    {
+        "pokemon":  "Shiny Kakuna",
+        "tier":  "T5",
+        "moveset":  "Bug"
+    },
+    {
+        "pokemon":  "Beedrill",
+        "tier":  "T5",
+        "moveset":  "Bug"
+    },
+    {
+        "pokemon":  "Shiny Beedrill",
+        "tier":  "T4",
+        "moveset":  "Bug"
+    },
+    {
+        "pokemon":  "Pidgey",
+        "tier":  "T7",
+        "moveset":  "Flying"
+    },
+    {
+        "pokemon":  "Shiny Pidgey",
+        "tier":  "T6",
+        "moveset":  "Flying"
+    },
+    {
+        "pokemon":  "Pidgeotto",
+        "tier":  "T5",
+        "moveset":  "Flying"
+    },
+    {
+        "pokemon":  "Shiny Pidgeotto",
+        "tier":  "T4",
+        "moveset":  "Flying"
+    },
+    {
+        "pokemon":  "Pidgeot",
+        "tier":  "T3",
+        "moveset":  "Flying"
+    },
+    {
+        "pokemon":  "Shiny Pidgeot",
+        "tier":  "T1",
+        "moveset":  "Flying"
+    },
+    {
+        "pokemon":  "Rattata",
+        "tier":  "T7",
+        "moveset":  "Normal"
+    },
+    {
+        "pokemon":  "Shiny Rattata",
+        "tier":  "T6",
+        "moveset":  "Normal"
+    },
+    {
+        "pokemon":  "Raticate",
+        "tier":  "T5",
+        "moveset":  "Normal"
+    },
+    {
+        "pokemon":  "Shiny Raticate",
+        "tier":  "T4",
+        "moveset":  "Normal"
+    },
+    {
+        "pokemon":  "Spearow",
+        "tier":  "T7",
+        "moveset":  "Flying"
+    },
+    {
+        "pokemon":  "Shiny Spearow",
+        "tier":  "T6",
+        "moveset":  "Flying"
+    },
+    {
+        "pokemon":  "Fearow",
+        "tier":  "T5",
+        "moveset":  "Flying"
+    },
+    {
+        "pokemon":  "Shiny Fearow",
+        "tier":  "T3",
+        "moveset":  "Flying"
+    },
+    {
+        "pokemon":  "Ekans",
+        "tier":  "T6",
+        "moveset":  "Poison"
+    },
+    {
+        "pokemon":  "Shiny Ekans",
+        "tier":  "T5",
+        "moveset":  "Poison"
+    },
+    {
+        "pokemon":  "Arbok",
+        "tier":  "T4",
+        "moveset":  "Poison"
+    },
+    {
+        "pokemon":  "Shiny Arbok",
+        "tier":  "T3",
+        "moveset":  "Poison"
+    },
+    {
+        "pokemon":  "Pikachu",
+        "tier":  "T5",
+        "moveset":  "Electric"
+    },
+    {
+        "pokemon":  "Shiny Pikachu",
+        "tier":  "T4",
+        "moveset":  "Electric"
+    },
+    {
+        "pokemon":  "Raichu",
+        "tier":  "T3",
+        "moveset":  "Electric"
+    },
+    {
+        "pokemon":  "Shiny Raichu",
+        "tier":  "T1",
+        "moveset":  "Electric"
+    },
+    {
+        "pokemon":  "Sandshrew",
+        "tier":  "T6",
+        "moveset":  "Ground"
+    },
+    {
+        "pokemon":  "Shiny Sandshrew",
+        "tier":  "T5",
+        "moveset":  "Ground"
+    },
+    {
+        "pokemon":  "Sandslash",
+        "tier":  "T4",
+        "moveset":  "Ground"
+    },
+    {
+        "pokemon":  "Shiny Sandslash",
+        "tier":  "T3",
+        "moveset":  "Ground"
+    },
+    {
+        "pokemon":  "Nidoran female",
+        "tier":  "T6",
+        "moveset":  "Poison"
+    },
+    {
+        "pokemon":  "Shiny Nidoran female",
+        "tier":  "T5",
+        "moveset":  "Poison"
+    },
+    {
+        "pokemon":  "Nidorina",
+        "tier":  "T5",
+        "moveset":  "Ground"
+    },
+    {
+        "pokemon":  "Shiny Nidorina",
+        "tier":  "T4",
+        "moveset":  "Ground"
+    },
+    {
+        "pokemon":  "Nidoqueen",
+        "tier":  "T3",
+        "moveset":  "Ground"
+    },
+    {
+        "pokemon":  "Shiny Nidoqueen",
+        "tier":  "T1",
+        "moveset":  "Ground"
+    },
+    {
+        "pokemon":  "Nidoran Male",
+        "tier":  "T6",
+        "moveset":  "Poison"
+    },
+    {
+        "pokemon":  "Shiny Nidoran Male",
+        "tier":  "T5",
+        "moveset":  "Poison"
+    },
+    {
+        "pokemon":  "Nidorino",
+        "tier":  "T5",
+        "moveset":  "Poison"
+    },
+    {
+        "pokemon":  "Shiny Nidorino",
+        "tier":  "T4",
+        "moveset":  "Poison"
+    },
+    {
+        "pokemon":  "Nidoking",
+        "tier":  "T3",
+        "moveset":  "Poison"
+    },
+    {
+        "pokemon":  "Shiny Nidoking",
+        "tier":  "T1",
+        "moveset":  "Poison"
+    },
+    {
+        "pokemon":  "Clefairy",
+        "tier":  "T6",
+        "moveset":  "Fairy"
+    },
+    {
+        "pokemon":  "Shiny Clefairy",
+        "tier":  "T5",
+        "moveset":  "Fairy"
+    },
+    {
+        "pokemon":  "Clefable",
+        "tier":  "T4",
+        "moveset":  "Fairy"
+    },
+    {
+        "pokemon":  "Shiny Clefable",
+        "tier":  "T3",
+        "moveset":  "Fairy"
+    },
+    {
+        "pokemon":  "Vulpix",
+        "tier":  "T6",
+        "moveset":  "Fire"
+    },
+    {
+        "pokemon":  "Shiny Vulpix",
+        "tier":  "T5",
+        "moveset":  "Fire"
+    },
+    {
+        "pokemon":  "Ninetales",
+        "tier":  "T3",
+        "moveset":  "Fire"
+    },
+    {
+        "pokemon":  "Shiny Ninetales",
+        "tier":  "T1",
+        "moveset":  "Fire"
+    },
+    {
+        "pokemon":  "Jigglypuff",
+        "tier":  "T6",
+        "moveset":  "Fairy"
+    },
+    {
+        "pokemon":  "Shiny Jigglypuff",
+        "tier":  "T5",
+        "moveset":  "Fairy"
+    },
+    {
+        "pokemon":  "Wigglytuff",
+        "tier":  "T4",
+        "moveset":  "Fairy"
+    },
+    {
+        "pokemon":  "Shiny Wigglytuff",
+        "tier":  "T2",
+        "moveset":  "Fairy"
+    },
+    {
+        "pokemon":  "Zubat",
+        "tier":  "T7",
+        "moveset":  "Poison"
+    },
+    {
+        "pokemon":  "Shiny Zubat",
+        "tier":  "T5",
+        "moveset":  "Flying"
+    },
+    {
+        "pokemon":  "Golbat",
+        "tier":  "T5",
+        "moveset":  "Poison"
+    },
+    {
+        "pokemon":  "Shiny Golbat",
+        "tier":  "T4",
+        "moveset":  "Flying"
+    },
+    {
+        "pokemon":  "Oddish",
+        "tier":  "T7",
+        "moveset":  "Grass"
+    },
+    {
+        "pokemon":  "Shiny Oddish",
+        "tier":  "T6",
+        "moveset":  "Poison"
+    },
+    {
+        "pokemon":  "Gloom",
+        "tier":  "T5",
+        "moveset":  "Poison"
+    },
+    {
+        "pokemon":  "Shiny Gloom",
+        "tier":  "T4",
+        "moveset":  "Poison"
+    },
+    {
+        "pokemon":  "Vileplume",
+        "tier":  "T4",
+        "moveset":  "Grass"
+    },
+    {
+        "pokemon":  "Shiny Vileplume",
+        "tier":  "T3",
+        "moveset":  "Grass"
+    },
+    {
+        "pokemon":  "Paras",
+        "tier":  "T7",
+        "moveset":  "Bug"
+    },
+    {
+        "pokemon":  "Shiny Paras",
+        "tier":  "T5",
+        "moveset":  "Bug"
+    },
+    {
+        "pokemon":  "Parasect",
+        "tier":  "T5",
+        "moveset":  "Bug"
+    },
+    {
+        "pokemon":  "Shiny Parasect",
+        "tier":  "T4",
+        "moveset":  "Bug"
+    },
+    {
+        "pokemon":  "Venonat",
+        "tier":  "T6",
+        "moveset":  "Poison"
+    },
+    {
+        "pokemon":  "Shiny Venonat",
+        "tier":  "T5",
+        "moveset":  "Bug"
+    },
+    {
+        "pokemon":  "Venomoth",
+        "tier":  "T4",
+        "moveset":  "Bug"
+    },
+    {
+        "pokemon":  "Shiny Venomoth",
+        "tier":  "T2",
+        "moveset":  "Bug"
+    },
+    {
+        "pokemon":  "Diglett",
+        "tier":  "T6",
+        "moveset":  "Ground"
+    },
+    {
+        "pokemon":  "Shiny Diglett",
+        "tier":  "T5",
+        "moveset":  "Ground"
+    },
+    {
+        "pokemon":  "Dugtrio",
+        "tier":  "T4",
+        "moveset":  "Ground"
+    },
+    {
+        "pokemon":  "Shiny Dugtrio",
+        "tier":  "T3",
+        "moveset":  "Ground"
+    },
+    {
+        "pokemon":  "Meowth",
+        "tier":  "T6",
+        "moveset":  "Dark"
+    },
+    {
+        "pokemon":  "Shiny Meowth",
+        "tier":  "T5",
+        "moveset":  "Dark"
+    },
+    {
+        "pokemon":  "Persian",
+        "tier":  "T4",
+        "moveset":  "Dark"
+    },
+    {
+        "pokemon":  "Shiny Persian",
+        "tier":  "T2",
+        "moveset":  "Dark"
+    },
+    {
+        "pokemon":  "Psyduck",
+        "tier":  "T6",
+        "moveset":  "Psychic"
+    },
+    {
+        "pokemon":  "Shiny Psyduck",
+        "tier":  "T5",
+        "moveset":  "Psychic"
+    },
+    {
+        "pokemon":  "Golduck",
+        "tier":  "T4",
+        "moveset":  "Water"
+    },
+    {
+        "pokemon":  "Shiny Golduck",
+        "tier":  "T3",
+        "moveset":  "Water"
+    },
+    {
+        "pokemon":  "Mankey",
+        "tier":  "T6",
+        "moveset":  "Fighting"
+    },
+    {
+        "pokemon":  "Shiny Mankey",
+        "tier":  "T5",
+        "moveset":  "Fighting"
+    },
+    {
+        "pokemon":  "Primeape",
+        "tier":  "T4",
+        "moveset":  "Fighting"
+    },
+    {
+        "pokemon":  "Shiny Primeape",
+        "tier":  "T3",
+        "moveset":  "Fighting"
+    },
+    {
+        "pokemon":  "Growlithe",
+        "tier":  "T6",
+        "moveset":  "Fire"
+    },
+    {
+        "pokemon":  "Shiny Growlithe",
+        "tier":  "T5",
+        "moveset":  "Fire"
+    },
+    {
+        "pokemon":  "Arcanine",
+        "tier":  "T2",
+        "moveset":  "Fire"
+    },
+    {
+        "pokemon":  "Shiny Arcanine",
+        "tier":  "Super Rare",
+        "moveset":  "Fire"
+    },
+    {
+        "pokemon":  "Poliwag",
+        "tier":  "T6",
+        "moveset":  "Water"
+    },
+    {
+        "pokemon":  "Shiny Poliwag",
+        "tier":  "T5",
+        "moveset":  "Water"
+    },
+    {
+        "pokemon":  "Poliwhirl",
+        "tier":  "T5",
+        "moveset":  "Water"
+    },
+    {
+        "pokemon":  "Shiny Poliwhirl",
+        "tier":  "T4",
+        "moveset":  "Water"
+    },
+    {
+        "pokemon":  "Poliwrath",
+        "tier":  "T3",
+        "moveset":  "Fighting"
+    },
+    {
+        "pokemon":  "Shiny Poliwrath",
+        "tier":  "T1",
+        "moveset":  "Fighting"
+    },
+    {
+        "pokemon":  "Abra",
+        "tier":  "T6",
+        "moveset":  "Psychic"
+    },
+    {
+        "pokemon":  "Shiny Abra",
+        "tier":  "T5",
+        "moveset":  "Psychic"
+    },
+    {
+        "pokemon":  "Kadabra",
+        "tier":  "T5",
+        "moveset":  "Psychic"
+    },
+    {
+        "pokemon":  "Shiny Kadabra",
+        "tier":  "T4",
+        "moveset":  "Psychic"
+    },
+    {
+        "pokemon":  "Alakazam",
+        "tier":  "T2",
+        "moveset":  "Psychic"
+    },
+    {
+        "pokemon":  "Shiny Alakazam",
+        "tier":  "Legendary",
+        "moveset":  "Psychic"
+    },
+    {
+        "pokemon":  "Machop",
+        "tier":  "T6",
+        "moveset":  "Fighting"
+    },
+    {
+        "pokemon":  "Shiny Machop",
+        "tier":  "T5",
+        "moveset":  "Fighting"
+    },
+    {
+        "pokemon":  "Machoke",
+        "tier":  "T5",
+        "moveset":  "Fighting"
+    },
+    {
+        "pokemon":  "Shiny Machoke",
+        "tier":  "T4",
+        "moveset":  "Fighting"
+    },
+    {
+        "pokemon":  "Machamp",
+        "tier":  "T3",
+        "moveset":  "Fighting"
+    },
+    {
+        "pokemon":  "Shiny Machamp",
+        "tier":  "Super Rare",
+        "moveset":  "Fighting"
+    },
+    {
+        "pokemon":  "Bellsprout",
+        "tier":  "T7",
+        "moveset":  "Grass"
+    },
+    {
+        "pokemon":  "Shiny Bellsprout",
+        "tier":  "T5",
+        "moveset":  "Grass"
+    },
+    {
+        "pokemon":  "Weepinbell",
+        "tier":  "T5",
+        "moveset":  "Grass"
+    },
+    {
+        "pokemon":  "Shiny Weepinbell",
+        "tier":  "T4",
+        "moveset":  "Grass"
+    },
+    {
+        "pokemon":  "Victreebel",
+        "tier":  "T4",
+        "moveset":  "Grass"
+    },
+    {
+        "pokemon":  "Shiny Victreebel",
+        "tier":  "T3",
+        "moveset":  "Grass"
+    },
+    {
+        "pokemon":  "Tentacool",
+        "tier":  "T6",
+        "moveset":  "Water"
+    },
+    {
+        "pokemon":  "Shiny Tentacool",
+        "tier":  "T5",
+        "moveset":  "Water"
+    },
+    {
+        "pokemon":  "Tentacruel",
+        "tier":  "T3",
+        "moveset":  "Poison"
+    },
+    {
+        "pokemon":  "Shiny Tentacruel",
+        "tier":  "T1",
+        "moveset":  "Poison"
+    },
+    {
+        "pokemon":  "Geodude",
+        "tier":  "T6",
+        "moveset":  "Rock"
+    },
+    {
+        "pokemon":  "Shiny Geodude",
+        "tier":  "T5",
+        "moveset":  "Rock"
+    },
+    {
+        "pokemon":  "Graveler",
+        "tier":  "T5",
+        "moveset":  "Rock"
+    },
+    {
+        "pokemon":  "Shiny Graveler",
+        "tier":  "T4",
+        "moveset":  "Rock"
+    },
+    {
+        "pokemon":  "Golem",
+        "tier":  "T3",
+        "moveset":  "Rock"
+    },
+    {
+        "pokemon":  "Shiny Golem",
+        "tier":  "T1",
+        "moveset":  "Rock"
+    },
+    {
+        "pokemon":  "Ponyta",
+        "tier":  "T6",
+        "moveset":  "Fire"
+    },
+    {
+        "pokemon":  "Shiny Ponyta",
+        "tier":  "T5",
+        "moveset":  "Fire"
+    },
+    {
+        "pokemon":  "Rapidash",
+        "tier":  "T3",
+        "moveset":  "Fire"
+    },
+    {
+        "pokemon":  "Shiny Rapidash",
+        "tier":  "T1",
+        "moveset":  "Fire"
+    },
+    {
+        "pokemon":  "Slowpoke",
+        "tier":  "T6",
+        "moveset":  "Water"
+    },
+    {
+        "pokemon":  "Shiny Slowpoke",
+        "tier":  "T5",
+        "moveset":  "Water"
+    },
+    {
+        "pokemon":  "Slowbro",
+        "tier":  "T5",
+        "moveset":  "Psychic"
+    },
+    {
+        "pokemon":  "Shiny Slowbro",
+        "tier":  "T4",
+        "moveset":  "Psychic"
+    },
+    {
+        "pokemon":  "Magnemite",
+        "tier":  "T6",
+        "moveset":  "Electric"
+    },
+    {
+        "pokemon":  "Shiny Magnemite",
+        "tier":  "T5",
+        "moveset":  "Steel"
+    },
+    {
+        "pokemon":  "Magneton",
+        "tier":  "T3",
+        "moveset":  "Steel"
+    },
+    {
+        "pokemon":  "Shiny Magneton",
+        "tier":  "T2",
+        "moveset":  "Electric"
+    },
+    {
+        "pokemon":  "Farfetch\u0027d",
+        "tier":  "T5",
+        "moveset":  "Flying"
+    },
+    {
+        "pokemon":  "Shiny Farfetch\u0027d",
+        "tier":  "T1",
+        "moveset":  "Flying"
+    },
+    {
+        "pokemon":  "Doduo",
+        "tier":  "T6",
+        "moveset":  "Flying"
+    },
+    {
+        "pokemon":  "Shiny Doduo",
+        "tier":  "T5",
+        "moveset":  "Flying"
+    },
+    {
+        "pokemon":  "Dodrio",
+        "tier":  "T4",
+        "moveset":  "Flying"
+    },
+    {
+        "pokemon":  "Shiny Dodrio",
+        "tier":  "T1",
+        "moveset":  "Flying"
+    },
+    {
+        "pokemon":  "Seel",
+        "tier":  "T6",
+        "moveset":  "Ice"
+    },
+    {
+        "pokemon":  "Shiny Seel",
+        "tier":  "T5",
+        "moveset":  "Ice"
+    },
+    {
+        "pokemon":  "Dewgong",
+        "tier":  "T4",
+        "moveset":  "Ice"
+    },
+    {
+        "pokemon":  "Shiny Dewgong",
+        "tier":  "T3",
+        "moveset":  "Ice"
+    },
+    {
+        "pokemon":  "Grimer",
+        "tier":  "T6",
+        "moveset":  "Poison"
+    },
+    {
+        "pokemon":  "Shiny Grimer",
+        "tier":  "T5",
+        "moveset":  "Poison"
+    },
+    {
+        "pokemon":  "Muk",
+        "tier":  "T3",
+        "moveset":  "Poison"
+    },
+    {
+        "pokemon":  "Shiny Muk",
+        "tier":  "T1",
+        "moveset":  "Poison"
+    },
+    {
+        "pokemon":  "Shellder",
+        "tier":  "T6",
+        "moveset":  "Ice"
+    },
+    {
+        "pokemon":  "Shiny Shellder",
+        "tier":  "T5",
+        "moveset":  "Ice"
+    },
+    {
+        "pokemon":  "Cloyster",
+        "tier":  "T4",
+        "moveset":  "Ice"
+    },
+    {
+        "pokemon":  "Shiny Cloyster",
+        "tier":  "T3",
+        "moveset":  "Ice"
+    },
+    {
+        "pokemon":  "Gastly",
+        "tier":  "T6",
+        "moveset":  "Ghost"
+    },
+    {
+        "pokemon":  "Shiny Gastly",
+        "tier":  "T5",
+        "moveset":  "Ghost"
+    },
+    {
+        "pokemon":  "Haunter",
+        "tier":  "T5",
+        "moveset":  "Ghost"
+    },
+    {
+        "pokemon":  "Shiny Haunter",
+        "tier":  "T4",
+        "moveset":  "Ghost"
+    },
+    {
+        "pokemon":  "Gengar",
+        "tier":  "T2",
+        "moveset":  "Ghost"
+    },
+    {
+        "pokemon":  "Shiny Gengar",
+        "tier":  "Legendary",
+        "moveset":  "Ghost"
+    },
+    {
+        "pokemon":  "Onix",
+        "tier":  "T4",
+        "moveset":  "Rock"
+    },
+    {
+        "pokemon":  "Shiny Onix",
+        "tier":  "T3",
+        "moveset":  "Rock"
+    },
+    {
+        "pokemon":  "Drowzee",
+        "tier":  "T6",
+        "moveset":  "Psychic"
+    },
+    {
+        "pokemon":  "Shiny Drowzee",
+        "tier":  "T5",
+        "moveset":  "Psychic"
+    },
+    {
+        "pokemon":  "Hypno",
+        "tier":  "T4",
+        "moveset":  "Psychic"
+    },
+    {
+        "pokemon":  "Shiny Hypno",
+        "tier":  "T2",
+        "moveset":  "Psychic"
+    },
+    {
+        "pokemon":  "Krabby",
+        "tier":  "T6",
+        "moveset":  "Water"
+    },
+    {
+        "pokemon":  "Shiny Krabby",
+        "tier":  "T5",
+        "moveset":  "Water"
+    },
+    {
+        "pokemon":  "Kingler",
+        "tier":  "T4",
+        "moveset":  "Water"
+    },
+    {
+        "pokemon":  "Shiny Kingler",
+        "tier":  "T3",
+        "moveset":  "Water"
+    },
+    {
+        "pokemon":  "Voltorb",
+        "tier":  "T6",
+        "moveset":  "Electric"
+    },
+    {
+        "pokemon":  "Shiny Voltorb",
+        "tier":  "T5",
+        "moveset":  "Electric"
+    },
+    {
+        "pokemon":  "Electrode",
+        "tier":  "T4",
+        "moveset":  "Electric"
+    },
+    {
+        "pokemon":  "Shiny Electrode",
+        "tier":  "T3",
+        "moveset":  "Electric"
+    },
+    {
+        "pokemon":  "Exeggcute",
+        "tier":  "T6",
+        "moveset":  "Psychic"
+    },
+    {
+        "pokemon":  "Shiny Exeggcute",
+        "tier":  "T5",
+        "moveset":  "Psychic"
+    },
+    {
+        "pokemon":  "Exeggutor",
+        "tier":  "T3",
+        "moveset":  "Psychic"
+    },
+    {
+        "pokemon":  "Shiny Exeggutor",
+        "tier":  "T2",
+        "moveset":  "Psychic"
+    },
+    {
+        "pokemon":  "Cubone",
+        "tier":  "T6",
+        "moveset":  "Ground"
+    },
+    {
+        "pokemon":  "Shiny Cubone",
+        "tier":  "T5",
+        "moveset":  "Ground"
+    },
+    {
+        "pokemon":  "Marowak",
+        "tier":  "T4",
+        "moveset":  "Ground"
+    },
+    {
+        "pokemon":  "Shiny Marowak",
+        "tier":  "T1",
+        "moveset":  "Ground"
+    },
+    {
+        "pokemon":  "Hitmonlee",
+        "tier":  "T4",
+        "moveset":  "Fighting"
+    },
+    {
+        "pokemon":  "Shiny Hitmonlee",
+        "tier":  "T1",
+        "moveset":  "Fighting"
+    },
+    {
+        "pokemon":  "Hitmonchan",
+        "tier":  "T4",
+        "moveset":  "Fighting"
+    },
+    {
+        "pokemon":  "Shiny Hitmonchan",
+        "tier":  "T1",
+        "moveset":  "Fighting"
+    },
+    {
+        "pokemon":  "Lickitung",
+        "tier":  "T4",
+        "moveset":  "Normal"
+    },
+    {
+        "pokemon":  "Shiny Lickitung",
+        "tier":  "T3",
+        "moveset":  "Normal"
+    },
+    {
+        "pokemon":  "Koffing",
+        "tier":  "T6",
+        "moveset":  "Poison"
+    },
+    {
+        "pokemon":  "Shiny Koffing",
+        "tier":  "T5",
+        "moveset":  "Poison"
+    },
+    {
+        "pokemon":  "Weezing",
+        "tier":  "T4",
+        "moveset":  "Poison"
+    },
+    {
+        "pokemon":  "Shiny Weezing",
+        "tier":  "T3",
+        "moveset":  "Poison"
+    },
+    {
+        "pokemon":  "Rhyhorn",
+        "tier":  "T6",
+        "moveset":  "Ground"
+    },
+    {
+        "pokemon":  "Shiny Rhyhorn",
+        "tier":  "T5",
+        "moveset":  "Ground"
+    },
+    {
+        "pokemon":  "Rhydon",
+        "tier":  "T3",
+        "moveset":  "Rock"
+    },
+    {
+        "pokemon":  "Shiny Rhydon",
+        "tier":  "T2",
+        "moveset":  "Ground"
+    },
+    {
+        "pokemon":  "Chansey",
+        "tier":  "T4",
+        "moveset":  "Normal"
+    },
+    {
+        "pokemon":  "Shiny Chansey",
+        "tier":  "T3",
+        "moveset":  "Normal"
+    },
+    {
+        "pokemon":  "Tangela",
+        "tier":  "T4",
+        "moveset":  "Grass"
+    },
+    {
+        "pokemon":  "Shiny Tangela",
+        "tier":  "T2",
+        "moveset":  "Grass"
+    },
+    {
+        "pokemon":  "Kangaskhan",
+        "tier":  "T3",
+        "moveset":  "Ground"
+    },
+    {
+        "pokemon":  "Shiny Kangaskhan",
+        "tier":  "Super Rare",
+        "moveset":  "Fighting"
+    },
+    {
+        "pokemon":  "Horsea",
+        "tier":  "T6",
+        "moveset":  "Water"
+    },
+    {
+        "pokemon":  "Shiny Horsea",
+        "tier":  "T5",
+        "moveset":  "Water"
+    },
+    {
+        "pokemon":  "Seadra",
+        "tier":  "T5",
+        "moveset":  "Water"
+    },
+    {
+        "pokemon":  "Shiny Seadra",
+        "tier":  "T4",
+        "moveset":  "Water"
+    },
+    {
+        "pokemon":  "Goldeen",
+        "tier":  "T6",
+        "moveset":  "Water"
+    },
+    {
+        "pokemon":  "Shiny Goldeen",
+        "tier":  "T5",
+        "moveset":  "Water"
+    },
+    {
+        "pokemon":  "Seaking",
+        "tier":  "T4",
+        "moveset":  "Water"
+    },
+    {
+        "pokemon":  "Shiny Seaking",
+        "tier":  "T3",
+        "moveset":  "Water"
+    },
+    {
+        "pokemon":  "Staryu",
+        "tier":  "T6",
+        "moveset":  "Water"
+    },
+    {
+        "pokemon":  "Shiny Staryu",
+        "tier":  "T5",
+        "moveset":  "Water"
+    },
+    {
+        "pokemon":  "Starmie",
+        "tier":  "T4",
+        "moveset":  "Water"
+    },
+    {
+        "pokemon":  "Shiny Starmie",
+        "tier":  "T2",
+        "moveset":  "Water"
+    },
+    {
+        "pokemon":  "Mr. Mime",
+        "tier":  "T3",
+        "moveset":  "Psychic"
+    },
+    {
+        "pokemon":  "Shiny Mr. Mime",
+        "tier":  "Super Rare",
+        "moveset":  "Psychic"
+    },
+    {
+        "pokemon":  "Scyther",
+        "tier":  "T3",
+        "moveset":  "Bug"
+    },
+    {
+        "pokemon":  "Shiny Scyther",
+        "tier":  "Super Rare",
+        "moveset":  "Bug"
+    },
+    {
+        "pokemon":  "Jynx",
+        "tier":  "T2",
+        "moveset":  "Ice"
+    },
+    {
+        "pokemon":  "Shiny Jynx",
+        "tier":  "T1",
+        "moveset":  "Ice"
+    },
+    {
+        "pokemon":  "Electabuzz",
+        "tier":  "T2",
+        "moveset":  "Electric"
+    },
+    {
+        "pokemon":  "Shiny Electabuzz",
+        "tier":  "Legendary",
+        "moveset":  "Electric"
+    },
+    {
+        "pokemon":  "Magmar",
+        "tier":  "T2",
+        "moveset":  "Fire"
+    },
+    {
+        "pokemon":  "Shiny Magmar",
+        "tier":  "Legendary",
+        "moveset":  "Fire"
+    },
+    {
+        "pokemon":  "Pinsir",
+        "tier":  "T3",
+        "moveset":  "Bug"
+    },
+    {
+        "pokemon":  "Shiny Pinsir",
+        "tier":  "Super Rare",
+        "moveset":  "Bug"
+    },
+    {
+        "pokemon":  "Tauros",
+        "tier":  "T3",
+        "moveset":  "Normal"
+    },
+    {
+        "pokemon":  "Shiny Tauros",
+        "tier":  "Super Rare",
+        "moveset":  "Dark"
+    },
+    {
+        "pokemon":  "Magikarp",
+        "tier":  "T7",
+        "moveset":  "Water"
+    },
+    {
+        "pokemon":  "Shiny Magikarp",
+        "tier":  "T6",
+        "moveset":  "Water"
+    },
+    {
+        "pokemon":  "Gyarados",
+        "tier":  "T2",
+        "moveset":  "Water"
+    },
+    {
+        "pokemon":  "Shiny Gyarados",
+        "tier":  "Legendary",
+        "moveset":  "Water"
+    },
+    {
+        "pokemon":  "Lapras",
+        "tier":  "T2",
+        "moveset":  "Ice"
+    },
+    {
+        "pokemon":  "Shiny Lapras",
+        "tier":  "T1",
+        "moveset":  "Ice"
+    },
+    {
+        "pokemon":  "Ditto",
+        "tier":  "T7",
+        "moveset":  "Normal"
+    },
+    {
+        "pokemon":  "Shiny Ditto",
+        "tier":  "T7",
+        "moveset":  "Normal"
+    },
+    {
+        "pokemon":  "Eevee",
+        "tier":  "T6",
+        "moveset":  "Normal"
+    },
+    {
+        "pokemon":  "Shiny Eevee",
+        "tier":  "T5",
+        "moveset":  "Normal"
+    },
+    {
+        "pokemon":  "Vaporeon",
+        "tier":  "T3",
+        "moveset":  "Water"
+    },
+    {
+        "pokemon":  "Shiny Vaporeon",
+        "tier":  "T1",
+        "moveset":  "Water"
+    },
+    {
+        "pokemon":  "Jolteon",
+        "tier":  "T3",
+        "moveset":  "Electric"
+    },
+    {
+        "pokemon":  "Shiny Jolteon",
+        "tier":  "T1",
+        "moveset":  "Electric"
+    },
+    {
+        "pokemon":  "Flareon",
+        "tier":  "T3",
+        "moveset":  "Fire"
+    },
+    {
+        "pokemon":  "Shiny Flareon",
+        "tier":  "T1",
+        "moveset":  "Fire"
+    },
+    {
+        "pokemon":  "Porygon",
+        "tier":  "T5",
+        "moveset":  "Psychic"
+    },
+    {
+        "pokemon":  "Shiny Porygon",
+        "tier":  "T4",
+        "moveset":  "Psychic"
+    },
+    {
+        "pokemon":  "Omanyte",
+        "tier":  "T6",
+        "moveset":  "Water"
+    },
+    {
+        "pokemon":  "Shiny Omanyte",
+        "tier":  "T5",
+        "moveset":  "Water"
+    },
+    {
+        "pokemon":  "Omastar",
+        "tier":  "T3",
+        "moveset":  "Rock"
+    },
+    {
+        "pokemon":  "Shiny Omastar",
+        "tier":  "T1",
+        "moveset":  "Rock"
+    },
+    {
+        "pokemon":  "Kabuto",
+        "tier":  "T6",
+        "moveset":  "Rock"
+    },
+    {
+        "pokemon":  "Shiny Kabuto",
+        "tier":  "T5",
+        "moveset":  "Rock"
+    },
+    {
+        "pokemon":  "Kabutops",
+        "tier":  "T3",
+        "moveset":  "Rock"
+    },
+    {
+        "pokemon":  "Shiny Kabutops",
+        "tier":  "T1",
+        "moveset":  "Rock"
+    },
+    {
+        "pokemon":  "Aerodactyl",
+        "tier":  "T1",
+        "moveset":  "Rock"
+    },
+    {
+        "pokemon":  "Shiny Aerodactyl",
+        "tier":  "?",
+        "moveset":  "?"
+    },
+    {
+        "pokemon":  "Snorlax",
+        "tier":  "T2",
+        "moveset":  "Normal"
+    },
+    {
+        "pokemon":  "Shiny Snorlax",
+        "tier":  "Legendary",
+        "moveset":  "Normal"
+    },
+    {
+        "pokemon":  "Articuno",
+        "tier":  "?",
+        "moveset":  "?"
+    },
+    {
+        "pokemon":  "Shiny Articuno",
+        "tier":  "?",
+        "moveset":  "?"
+    },
+    {
+        "pokemon":  "Zapdos",
+        "tier":  "?",
+        "moveset":  "?"
+    },
+    {
+        "pokemon":  "Shiny Zapdos",
+        "tier":  "?",
+        "moveset":  "?"
+    },
+    {
+        "pokemon":  "Moltres",
+        "tier":  "?",
+        "moveset":  "?"
+    },
+    {
+        "pokemon":  "Shiny Moltres",
+        "tier":  "?",
+        "moveset":  "?"
+    },
+    {
+        "pokemon":  "Dratini",
+        "tier":  "T5",
+        "moveset":  "Dragon"
+    },
+    {
+        "pokemon":  "Shiny Dratini",
+        "tier":  "T4",
+        "moveset":  "Dragon"
+    },
+    {
+        "pokemon":  "Dragonair",
+        "tier":  "T4",
+        "moveset":  "Dragon"
+    },
+    {
+        "pokemon":  "Shiny Dragonair",
+        "tier":  "Legendary",
+        "moveset":  "Dragon"
+    },
+    {
+        "pokemon":  "Dragonite",
+        "tier":  "T2",
+        "moveset":  "Dragon"
+    },
+    {
+        "pokemon":  "Shiny Dragonite",
+        "tier":  "Mythic",
+        "moveset":  "Dragon"
+    },
+    {
+        "pokemon":  "Mewtwo",
+        "tier":  "?",
+        "moveset":  "?"
+    },
+    {
+        "pokemon":  "Shiny Mewtwo",
+        "tier":  "?",
+        "moveset":  "?"
+    },
+    {
+        "pokemon":  "Mew",
+        "tier":  "?",
+        "moveset":  "?"
+    },
+    {
+        "pokemon":  "Shiny Mew",
+        "tier":  "?",
+        "moveset":  "?"
+    },
+    {
+        "pokemon":  "Chikorita",
+        "tier":  "T6",
+        "moveset":  "Grass"
+    },
+    {
+        "pokemon":  "Shiny Chikorita",
+        "tier":  "T5",
+        "moveset":  "Grass"
+    },
+    {
+        "pokemon":  "Bayleef",
+        "tier":  "T5",
+        "moveset":  "Grass"
+    },
+    {
+        "pokemon":  "Shiny Bayleef",
+        "tier":  "T4",
+        "moveset":  "Grass"
+    },
+    {
+        "pokemon":  "Meganium",
+        "tier":  "T3",
+        "moveset":  "Grass"
+    },
+    {
+        "pokemon":  "Shiny Meganium",
+        "tier":  "T1",
+        "moveset":  "Grass"
+    },
+    {
+        "pokemon":  "Cyndaquil",
+        "tier":  "T6",
+        "moveset":  "Fire"
+    },
+    {
+        "pokemon":  "Shiny Cyndaquil",
+        "tier":  "T5",
+        "moveset":  "Fire"
+    },
+    {
+        "pokemon":  "Quilava",
+        "tier":  "T5",
+        "moveset":  "Fire"
+    },
+    {
+        "pokemon":  "Shiny Quilava",
+        "tier":  "T4",
+        "moveset":  "Fire"
+    },
+    {
+        "pokemon":  "Typhlosion",
+        "tier":  "T3",
+        "moveset":  "Fire"
+    },
+    {
+        "pokemon":  "Shiny Typhlosion",
+        "tier":  "T1",
+        "moveset":  "Fire"
+    },
+    {
+        "pokemon":  "Totodile",
+        "tier":  "T6",
+        "moveset":  "Water"
+    },
+    {
+        "pokemon":  "Shiny Totodile",
+        "tier":  "T5",
+        "moveset":  "Water"
+    },
+    {
+        "pokemon":  "Croconaw",
+        "tier":  "T5",
+        "moveset":  "Water"
+    },
+    {
+        "pokemon":  "Shiny Croconaw",
+        "tier":  "T4",
+        "moveset":  "Water"
+    },
+    {
+        "pokemon":  "Feraligatr",
+        "tier":  "T3",
+        "moveset":  "Water"
+    },
+    {
+        "pokemon":  "Shiny Feraligatr",
+        "tier":  "T1",
+        "moveset":  "Water"
+    },
+    {
+        "pokemon":  "Sentret",
+        "tier":  "T7",
+        "moveset":  "Normal"
+    },
+    {
+        "pokemon":  "Shiny Sentret",
+        "tier":  "T5",
+        "moveset":  "Normal"
+    },
+    {
+        "pokemon":  "Furret",
+        "tier":  "T4",
+        "moveset":  "Normal"
+    },
+    {
+        "pokemon":  "Shiny Furret",
+        "tier":  "T4",
+        "moveset":  "Normal"
+    },
+    {
+        "pokemon":  "Hoothoot",
+        "tier":  "T7",
+        "moveset":  "Flying"
+    },
+    {
+        "pokemon":  "Shiny Hoothoot",
+        "tier":  "T5",
+        "moveset":  "Flying"
+    },
+    {
+        "pokemon":  "Noctowl",
+        "tier":  "T4",
+        "moveset":  "Flying"
+    },
+    {
+        "pokemon":  "Shiny Noctowl",
+        "tier":  "T2",
+        "moveset":  "Flying"
+    },
+    {
+        "pokemon":  "Ledyba",
+        "tier":  "T6",
+        "moveset":  "Flying"
+    },
+    {
+        "pokemon":  "Shiny Ledyba",
+        "tier":  "T5",
+        "moveset":  "Flying"
+    },
+    {
+        "pokemon":  "Ledian",
+        "tier":  "T4",
+        "moveset":  "Bug"
+    },
+    {
+        "pokemon":  "Shiny Ledian",
+        "tier":  "T3",
+        "moveset":  "Fighting"
+    },
+    {
+        "pokemon":  "Spinarak",
+        "tier":  "T6",
+        "moveset":  "Poison"
+    },
+    {
+        "pokemon":  "Shiny Spinarak",
+        "tier":  "T5",
+        "moveset":  "Poison"
+    },
+    {
+        "pokemon":  "Ariados",
+        "tier":  "T4",
+        "moveset":  "Bug"
+    },
+    {
+        "pokemon":  "Shiny Ariados",
+        "tier":  "T3",
+        "moveset":  "Bug"
+    },
+    {
+        "pokemon":  "Crobat",
+        "tier":  "T3",
+        "moveset":  "Flying"
+    },
+    {
+        "pokemon":  "Shiny Crobat",
+        "tier":  "T2",
+        "moveset":  "Flying"
+    },
+    {
+        "pokemon":  "Chinchou",
+        "tier":  "T6",
+        "moveset":  "Electric"
+    },
+    {
+        "pokemon":  "Shiny Chinchou",
+        "tier":  "T5",
+        "moveset":  "Electric"
+    },
+    {
+        "pokemon":  "Lanturn",
+        "tier":  "T3",
+        "moveset":  "Electric"
+    },
+    {
+        "pokemon":  "Shiny Lanturn",
+        "tier":  "T2",
+        "moveset":  "Electric"
+    },
+    {
+        "pokemon":  "Pichu",
+        "tier":  "T6",
+        "moveset":  "Electric"
+    },
+    {
+        "pokemon":  "Shiny Pichu",
+        "tier":  "T5",
+        "moveset":  "Electric"
+    },
+    {
+        "pokemon":  "Cleffa",
+        "tier":  "T7",
+        "moveset":  "Normal"
+    },
+    {
+        "pokemon":  "Shiny Cleffa",
+        "tier":  "T6",
+        "moveset":  "Normal"
+    },
+    {
+        "pokemon":  "Igglybuff",
+        "tier":  "T7",
+        "moveset":  "Normal"
+    },
+    {
+        "pokemon":  "Shiny Igglybuff",
+        "tier":  "T6",
+        "moveset":  "Normal"
+    },
+    {
+        "pokemon":  "Togepi",
+        "tier":  "T6",
+        "moveset":  "Normal"
+    },
+    {
+        "pokemon":  "Shiny Togepi",
+        "tier":  "T5",
+        "moveset":  "Normal"
+    },
+    {
+        "pokemon":  "Togetic",
+        "tier":  "T4",
+        "moveset":  "Fairy"
+    },
+    {
+        "pokemon":  "Shiny Togetic",
+        "tier":  "T3",
+        "moveset":  "Fairy"
+    },
+    {
+        "pokemon":  "Natu",
+        "tier":  "T6",
+        "moveset":  "Psychic"
+    },
+    {
+        "pokemon":  "Shiny Natu",
+        "tier":  "T5",
+        "moveset":  "Psychic"
+    },
+    {
+        "pokemon":  "Xatu",
+        "tier":  "T3",
+        "moveset":  "Psychic"
+    },
+    {
+        "pokemon":  "Shiny Xatu",
+        "tier":  "T2",
+        "moveset":  "Ghost"
+    },
+    {
+        "pokemon":  "Mareep",
+        "tier":  "T6",
+        "moveset":  "Electric"
+    },
+    {
+        "pokemon":  "Shiny Mareep",
+        "tier":  "T5",
+        "moveset":  "Electric"
+    },
+    {
+        "pokemon":  "Flaaffy",
+        "tier":  "T5",
+        "moveset":  "Electric"
+    },
+    {
+        "pokemon":  "Shiny Flaaffy",
+        "tier":  "T4",
+        "moveset":  "Electric"
+    },
+    {
+        "pokemon":  "Ampharos",
+        "tier":  "T3",
+        "moveset":  "Electric"
+    },
+    {
+        "pokemon":  "Shiny Ampharos",
+        "tier":  "T1",
+        "moveset":  "Electric"
+    },
+    {
+        "pokemon":  "Bellossom",
+        "tier":  "T4",
+        "moveset":  "Grass"
+    },
+    {
+        "pokemon":  "Shiny Bellossom",
+        "tier":  "T3",
+        "moveset":  "Grass"
+    },
+    {
+        "pokemon":  "Marill",
+        "tier":  "T6",
+        "moveset":  "Water"
+    },
+    {
+        "pokemon":  "Shiny Marill",
+        "tier":  "T5",
+        "moveset":  "Water"
+    },
+    {
+        "pokemon":  "Azumarill",
+        "tier":  "T4",
+        "moveset":  "Water"
+    },
+    {
+        "pokemon":  "Shiny Azumarill",
+        "tier":  "T3",
+        "moveset":  "Water"
+    },
+    {
+        "pokemon":  "Sudowoodo",
+        "tier":  "T2",
+        "moveset":  "Rock"
+    },
+    {
+        "pokemon":  "Shiny Sudowoodo",
+        "tier":  "T1",
+        "moveset":  "Rock"
+    },
+    {
+        "pokemon":  "Politoed",
+        "tier":  "T4",
+        "moveset":  "Water"
+    },
+    {
+        "pokemon":  "Shiny Politoed",
+        "tier":  "T1",
+        "moveset":  "Water"
+    },
+    {
+        "pokemon":  "Hoppip",
+        "tier":  "T6",
+        "moveset":  "Grass"
+    },
+    {
+        "pokemon":  "Shiny Hoppip",
+        "tier":  "T5",
+        "moveset":  "Grass"
+    },
+    {
+        "pokemon":  "Skiploom",
+        "tier":  "T5",
+        "moveset":  "Grass"
+    },
+    {
+        "pokemon":  "Shiny Skiploom",
+        "tier":  "T4",
+        "moveset":  "Grass"
+    },
+    {
+        "pokemon":  "Jumpluff",
+        "tier":  "T4",
+        "moveset":  "Grass"
+    },
+    {
+        "pokemon":  "Shiny Jumpluff",
+        "tier":  "T3",
+        "moveset":  "Grass"
+    },
+    {
+        "pokemon":  "Aipom",
+        "tier":  "T6",
+        "moveset":  "Normal"
+    },
+    {
+        "pokemon":  "Shiny Aipom",
+        "tier":  "T5",
+        "moveset":  "Normal"
+    },
+    {
+        "pokemon":  "Sunkern",
+        "tier":  "T7",
+        "moveset":  "Grass"
+    },
+    {
+        "pokemon":  "Shiny Sunkern",
+        "tier":  "T5",
+        "moveset":  "Grass"
+    },
+    {
+        "pokemon":  "Sunflora",
+        "tier":  "T5",
+        "moveset":  "Grass"
+    },
+    {
+        "pokemon":  "Shiny Sunflora",
+        "tier":  "T4",
+        "moveset":  "Grass"
+    },
+    {
+        "pokemon":  "Yanma",
+        "tier":  "T5",
+        "moveset":  "Flying"
+    },
+    {
+        "pokemon":  "Shiny Yanma",
+        "tier":  "T3",
+        "moveset":  "Bug"
+    },
+    {
+        "pokemon":  "Wooper",
+        "tier":  "T6",
+        "moveset":  "Water"
+    },
+    {
+        "pokemon":  "Shiny Wooper",
+        "tier":  "T5",
+        "moveset":  "Water"
+    },
+    {
+        "pokemon":  "Quagsire",
+        "tier":  "T4",
+        "moveset":  "Water"
+    },
+    {
+        "pokemon":  "Shiny Quagsire",
+        "tier":  "T2",
+        "moveset":  "Ground"
+    },
+    {
+        "pokemon":  "Espeon",
+        "tier":  "T4",
+        "moveset":  "Psychic"
+    },
+    {
+        "pokemon":  "Shiny Espeon",
+        "tier":  "T1",
+        "moveset":  "Psychic"
+    },
+    {
+        "pokemon":  "Umbreon",
+        "tier":  "T4",
+        "moveset":  "Dark"
+    },
+    {
+        "pokemon":  "Shiny Umbreon",
+        "tier":  "T1",
+        "moveset":  "Dark"
+    },
+    {
+        "pokemon":  "Murkrow",
+        "tier":  "T5",
+        "moveset":  "Dark"
+    },
+    {
+        "pokemon":  "Shiny Murkrow",
+        "tier":  "T3",
+        "moveset":  "Dark"
+    },
+    {
+        "pokemon":  "Slowking",
+        "tier":  "T2",
+        "moveset":  "Psychic"
+    },
+    {
+        "pokemon":  "Shiny Slowking",
+        "tier":  "T1",
+        "moveset":  "Psychic"
+    },
+    {
+        "pokemon":  "Misdreavus",
+        "tier":  "T3",
+        "moveset":  "Ghost"
+    },
+    {
+        "pokemon":  "Shiny Misdreavus",
+        "tier":  "Super Rare",
+        "moveset":  "Ghost"
+    },
+    {
+        "pokemon":  "Unown",
+        "tier":  "?",
+        "moveset":  "?"
+    },
+    {
+        "pokemon":  "Shiny Unown",
+        "tier":  "?",
+        "moveset":  "?"
+    },
+    {
+        "pokemon":  "Wobbuffet",
+        "tier":  "T2",
+        "moveset":  "Psychic"
+    },
+    {
+        "pokemon":  "Shiny Wobbuffet",
+        "tier":  "Super Rare",
+        "moveset":  "Psychic"
+    },
+    {
+        "pokemon":  "Girafarig",
+        "tier":  "T3",
+        "moveset":  "Dark"
+    },
+    {
+        "pokemon":  "Shiny Girafarig",
+        "tier":  "T2",
+        "moveset":  "Dark"
+    },
+    {
+        "pokemon":  "Pineco",
+        "tier":  "T7",
+        "moveset":  "Normal"
+    },
+    {
+        "pokemon":  "Shiny Pineco",
+        "tier":  "T5",
+        "moveset":  "Normal"
+    },
+    {
+        "pokemon":  "Forretress",
+        "tier":  "T3",
+        "moveset":  "Steel"
+    },
+    {
+        "pokemon":  "Shiny Forretress",
+        "tier":  "T2",
+        "moveset":  "Steel"
+    },
+    {
+        "pokemon":  "Dunsparce",
+        "tier":  "T5",
+        "moveset":  "Normal"
+    },
+    {
+        "pokemon":  "Shiny Dunsparce",
+        "tier":  "T4",
+        "moveset":  "Normal"
+    },
+    {
+        "pokemon":  "Gligar",
+        "tier":  "T5",
+        "moveset":  "Bug"
+    },
+    {
+        "pokemon":  "Shiny Gligar",
+        "tier":  "T4",
+        "moveset":  "Bug"
+    },
+    {
+        "pokemon":  "Steelix",
+        "tier":  "T2",
+        "moveset":  "Ground"
+    },
+    {
+        "pokemon":  "Shiny Steelix",
+        "tier":  "T1",
+        "moveset":  "Ground"
+    },
+    {
+        "pokemon":  "Snubbull",
+        "tier":  "T6",
+        "moveset":  "Fairy"
+    },
+    {
+        "pokemon":  "Shiny Snubbull",
+        "tier":  "T5",
+        "moveset":  "Fairy"
+    },
+    {
+        "pokemon":  "Granbull",
+        "tier":  "T3",
+        "moveset":  "Fairy"
+    },
+    {
+        "pokemon":  "Shiny Granbull",
+        "tier":  "T2",
+        "moveset":  "Fairy"
+    },
+    {
+        "pokemon":  "Qwilfish",
+        "tier":  "T4",
+        "moveset":  "Poison"
+    },
+    {
+        "pokemon":  "Shiny Qwilfish",
+        "tier":  "T3",
+        "moveset":  "Poison"
+    },
+    {
+        "pokemon":  "Scizor",
+        "tier":  "T2",
+        "moveset":  "Bug"
+    },
+    {
+        "pokemon":  "Shiny Scizor",
+        "tier":  "Legendary",
+        "moveset":  "Steel"
+    },
+    {
+        "pokemon":  "Shuckle",
+        "tier":  "T5",
+        "moveset":  "Bug"
+    },
+    {
+        "pokemon":  "Shiny Shuckle",
+        "tier":  "T4",
+        "moveset":  "Bug"
+    },
+    {
+        "pokemon":  "Heracross",
+        "tier":  "T3",
+        "moveset":  "Fighting"
+    },
+    {
+        "pokemon":  "Shiny Heracross",
+        "tier":  "T2",
+        "moveset":  "Fighting"
+    },
+    {
+        "pokemon":  "Sneasel",
+        "tier":  "T4",
+        "moveset":  "Dark"
+    },
+    {
+        "pokemon":  "Shiny Sneasel",
+        "tier":  "T3",
+        "moveset":  "Dark"
+    },
+    {
+        "pokemon":  "Teddiursa",
+        "tier":  "T5",
+        "moveset":  "Normal"
+    },
+    {
+        "pokemon":  "Shiny Teddiursa",
+        "tier":  "T4",
+        "moveset":  "Normal"
+    },
+    {
+        "pokemon":  "Ursaring",
+        "tier":  "T2",
+        "moveset":  "Normal"
+    },
+    {
+        "pokemon":  "Shiny Ursaring",
+        "tier":  "T1",
+        "moveset":  "Ground"
+    },
+    {
+        "pokemon":  "Slugma",
+        "tier":  "T6",
+        "moveset":  "Rock"
+    },
+    {
+        "pokemon":  "Shiny Slugma",
+        "tier":  "T5",
+        "moveset":  "Rock"
+    },
+    {
+        "pokemon":  "Magcargo",
+        "tier":  "T3",
+        "moveset":  "Fire"
+    },
+    {
+        "pokemon":  "Shiny Magcargo",
+        "tier":  "T1",
+        "moveset":  "Rock"
+    },
+    {
+        "pokemon":  "Swinub",
+        "tier":  "T6",
+        "moveset":  "Ice"
+    },
+    {
+        "pokemon":  "Shiny Swinub",
+        "tier":  "T5",
+        "moveset":  "Ice"
+    },
+    {
+        "pokemon":  "Piloswine",
+        "tier":  "T3",
+        "moveset":  "Ground"
+    },
+    {
+        "pokemon":  "Shiny Piloswine",
+        "tier":  "T2",
+        "moveset":  "Ground"
+    },
+    {
+        "pokemon":  "Corsola",
+        "tier":  "T5",
+        "moveset":  "Rock"
+    },
+    {
+        "pokemon":  "Shiny Corsola",
+        "tier":  "T4",
+        "moveset":  "Rock"
+    },
+    {
+        "pokemon":  "Remoraid",
+        "tier":  "T6",
+        "moveset":  "Water"
+    },
+    {
+        "pokemon":  "Shiny Remoraid",
+        "tier":  "T5",
+        "moveset":  "Water"
+    },
+    {
+        "pokemon":  "Octillery",
+        "tier":  "T4",
+        "moveset":  "Water"
+    },
+    {
+        "pokemon":  "Shiny Octillery",
+        "tier":  "T3",
+        "moveset":  "Water"
+    },
+    {
+        "pokemon":  "Delibird",
+        "tier":  "T4",
+        "moveset":  "Ice"
+    },
+    {
+        "pokemon":  "Shiny Delibird",
+        "tier":  "T3",
+        "moveset":  "Ice"
+    },
+    {
+        "pokemon":  "Mantine",
+        "tier":  "T2",
+        "moveset":  "Flying"
+    },
+    {
+        "pokemon":  "Shiny Mantine",
+        "tier":  "T1",
+        "moveset":  "Flying"
+    },
+    {
+        "pokemon":  "Skarmory",
+        "tier":  "T2",
+        "moveset":  "Steel"
+    },
+    {
+        "pokemon":  "Shiny Skarmory",
+        "tier":  "Super Rare",
+        "moveset":  "Steel"
+    },
+    {
+        "pokemon":  "Houndour",
+        "tier":  "T6",
+        "moveset":  "Fire"
+    },
+    {
+        "pokemon":  "Shiny Houndour",
+        "tier":  "T5",
+        "moveset":  "Fire"
+    },
+    {
+        "pokemon":  "Houndoom",
+        "tier":  "T2",
+        "moveset":  "Fire"
+    },
+    {
+        "pokemon":  "Shiny Houndoom",
+        "tier":  "Super Rare",
+        "moveset":  "Dark"
+    },
+    {
+        "pokemon":  "Kingdra",
+        "tier":  "T2",
+        "moveset":  "Water"
+    },
+    {
+        "pokemon":  "Shiny Kingdra",
+        "tier":  "Super Rare",
+        "moveset":  "Water"
+    },
+    {
+        "pokemon":  "Phanpy",
+        "tier":  "T6",
+        "moveset":  "Normal"
+    },
+    {
+        "pokemon":  "Shiny Phanpy",
+        "tier":  "T5",
+        "moveset":  "Normal"
+    },
+    {
+        "pokemon":  "Donphan",
+        "tier":  "T3",
+        "moveset":  "Ground"
+    },
+    {
+        "pokemon":  "Shiny Donphan",
+        "tier":  "T2",
+        "moveset":  "Ground"
+    },
+    {
+        "pokemon":  "Porygon2",
+        "tier":  "T3",
+        "moveset":  "Psychic"
+    },
+    {
+        "pokemon":  "Shiny Porygon2",
+        "tier":  "T2",
+        "moveset":  "Psychic"
+    },
+    {
+        "pokemon":  "Stantler",
+        "tier":  "T4",
+        "moveset":  "Normal"
+    },
+    {
+        "pokemon":  "Shiny Stantler",
+        "tier":  "T2",
+        "moveset":  "Normal"
+    },
+    {
+        "pokemon":  "Smeargle",
+        "tier":  "T2",
+        "moveset":  "Dark"
+    },
+    {
+        "pokemon":  "Shiny Smeargle",
+        "tier":  "T1",
+        "moveset":  "?"
+    },
+    {
+        "pokemon":  "Tyrogue",
+        "tier":  "T5",
+        "moveset":  "Fighting"
+    },
+    {
+        "pokemon":  "Shiny Tyrogue",
+        "tier":  "T4",
+        "moveset":  "Fighting"
+    },
+    {
+        "pokemon":  "Hitmontop",
+        "tier":  "T4",
+        "moveset":  "Fighting"
+    },
+    {
+        "pokemon":  "Shiny Hitmontop",
+        "tier":  "T1",
+        "moveset":  "Fighting"
+    },
+    {
+        "pokemon":  "Smoochum",
+        "tier":  "T6",
+        "moveset":  "Ice"
+    },
+    {
+        "pokemon":  "Shiny Smoochum",
+        "tier":  "T5",
+        "moveset":  "Ice"
+    },
+    {
+        "pokemon":  "Elekid",
+        "tier":  "T6",
+        "moveset":  "Electric"
+    },
+    {
+        "pokemon":  "Shiny Elekid",
+        "tier":  "T5",
+        "moveset":  "Electric"
+    },
+    {
+        "pokemon":  "Magby",
+        "tier":  "T6",
+        "moveset":  "Fire"
+    },
+    {
+        "pokemon":  "Shiny Magby",
+        "tier":  "T5",
+        "moveset":  "Fire"
+    },
+    {
+        "pokemon":  "Miltank",
+        "tier":  "T3",
+        "moveset":  "Normal"
+    },
+    {
+        "pokemon":  "Shiny Miltank",
+        "tier":  "T1",
+        "moveset":  "Rock"
+    },
+    {
+        "pokemon":  "Blissey",
+        "tier":  "T2",
+        "moveset":  "Normal"
+    },
+    {
+        "pokemon":  "Shiny Blissey",
+        "tier":  "T1",
+        "moveset":  "Normal"
+    },
+    {
+        "pokemon":  "Raikou",
+        "tier":  "?",
+        "moveset":  "?"
+    },
+    {
+        "pokemon":  "Shiny Raikou",
+        "tier":  "?",
+        "moveset":  "?"
+    },
+    {
+        "pokemon":  "Entei",
+        "tier":  "?",
+        "moveset":  "?"
+    },
+    {
+        "pokemon":  "Shiny Entei",
+        "tier":  "?",
+        "moveset":  "?"
+    },
+    {
+        "pokemon":  "Suicune",
+        "tier":  "?",
+        "moveset":  "?"
+    },
+    {
+        "pokemon":  "Shiny Suicune",
+        "tier":  "?",
+        "moveset":  "?"
+    },
+    {
+        "pokemon":  "Larvitar",
+        "tier":  "T6",
+        "moveset":  "Rock"
+    },
+    {
+        "pokemon":  "Shiny Larvitar",
+        "tier":  "T5",
+        "moveset":  "Rock"
+    },
+    {
+        "pokemon":  "Pupitar",
+        "tier":  "T4",
+        "moveset":  "Rock"
+    },
+    {
+        "pokemon":  "Shiny Pupitar",
+        "tier":  "Super Rare",
+        "moveset":  "Ground"
+    },
+    {
+        "pokemon":  "Tyranitar",
+        "tier":  "T2",
+        "moveset":  "Rock"
+    },
+    {
+        "pokemon":  "Shiny Tyranitar",
+        "tier":  "Mythic",
+        "moveset":  "Rock"
+    },
+    {
+        "pokemon":  "Lugia",
+        "tier":  "?",
+        "moveset":  "?"
+    },
+    {
+        "pokemon":  "Shiny Lugia",
+        "tier":  "?",
+        "moveset":  "?"
+    },
+    {
+        "pokemon":  "Ho-oh",
+        "tier":  "?",
+        "moveset":  "?"
+    },
+    {
+        "pokemon":  "Shiny Ho-oh",
+        "tier":  "?",
+        "moveset":  "?"
+    },
+    {
+        "pokemon":  "Celebi",
+        "tier":  "?",
+        "moveset":  "?"
+    },
+    {
+        "pokemon":  "Shiny Celebi",
+        "tier":  "?",
+        "moveset":  "?"
+    },
+    {
+        "pokemon":  "Treecko",
+        "tier":  "T5",
+        "moveset":  "Grass"
+    },
+    {
+        "pokemon":  "Shiny Treecko",
+        "tier":  "T4",
+        "moveset":  "Grass"
+    },
+    {
+        "pokemon":  "Grovyle",
+        "tier":  "T4",
+        "moveset":  "Grass"
+    },
+    {
+        "pokemon":  "Shiny Grovyle",
+        "tier":  "T3",
+        "moveset":  "Grass"
+    },
+    {
+        "pokemon":  "Sceptile",
+        "tier":  "T2",
+        "moveset":  "Grass"
+    },
+    {
+        "pokemon":  "Shiny Sceptile",
+        "tier":  "Ultra Rare",
+        "moveset":  "Grass"
+    },
+    {
+        "pokemon":  "Torchic",
+        "tier":  "T5",
+        "moveset":  "Fire"
+    },
+    {
+        "pokemon":  "Shiny Torchic",
+        "tier":  "T4",
+        "moveset":  "Fire"
+    },
+    {
+        "pokemon":  "Combusken",
+        "tier":  "T4",
+        "moveset":  "Fighting"
+    },
+    {
+        "pokemon":  "Shiny Combusken",
+        "tier":  "T3",
+        "moveset":  "Fighting"
+    },
+    {
+        "pokemon":  "Blaziken",
+        "tier":  "T2",
+        "moveset":  "Fighting"
+    },
+    {
+        "pokemon":  "Shiny Blaziken",
+        "tier":  "Ultra Rare",
+        "moveset":  "Fighting"
+    },
+    {
+        "pokemon":  "Mudkip",
+        "tier":  "T5",
+        "moveset":  "Water"
+    },
+    {
+        "pokemon":  "Shiny Mudkip",
+        "tier":  "T4",
+        "moveset":  "Water"
+    },
+    {
+        "pokemon":  "Marshtomp",
+        "tier":  "T4",
+        "moveset":  "Water"
+    },
+    {
+        "pokemon":  "Shiny Marshtomp",
+        "tier":  "T3",
+        "moveset":  "Water"
+    },
+    {
+        "pokemon":  "Swampert",
+        "tier":  "T2",
+        "moveset":  "Water"
+    },
+    {
+        "pokemon":  "Shiny Swampert",
+        "tier":  "Ultra Rare",
+        "moveset":  "Ground"
+    },
+    {
+        "pokemon":  "Poochyena",
+        "tier":  "T5",
+        "moveset":  "Dark"
+    },
+    {
+        "pokemon":  "Shiny Poochyena",
+        "tier":  "T4",
+        "moveset":  "Dark"
+    },
+    {
+        "pokemon":  "Mightyena",
+        "tier":  "T2",
+        "moveset":  "Dark"
+    },
+    {
+        "pokemon":  "Shiny Mightyena",
+        "tier":  "Ultra Rare",
+        "moveset":  "Dark"
+    },
+    {
+        "pokemon":  "Zigzagoon",
+        "tier":  "T5",
+        "moveset":  "Normal"
+    },
+    {
+        "pokemon":  "Shiny Zigzagoon",
+        "tier":  "T4",
+        "moveset":  "Normal"
+    },
+    {
+        "pokemon":  "Linoone",
+        "tier":  "T4",
+        "moveset":  "Normal"
+    },
+    {
+        "pokemon":  "Shiny Linoone",
+        "tier":  "T2",
+        "moveset":  "Normal"
+    },
+    {
+        "pokemon":  "Wurmple",
+        "tier":  "T6",
+        "moveset":  "Bug"
+    },
+    {
+        "pokemon":  "Shiny Wurmple",
+        "tier":  "T5",
+        "moveset":  "Bug"
+    },
+    {
+        "pokemon":  "Silcoon",
+        "tier":  "T6",
+        "moveset":  "Bug"
+    },
+    {
+        "pokemon":  "Shiny Silcoon",
+        "tier":  "T5",
+        "moveset":  "Bug"
+    },
+    {
+        "pokemon":  "Beautifly",
+        "tier":  "T3",
+        "moveset":  "Bug"
+    },
+    {
+        "pokemon":  "Shiny Beautifly",
+        "tier":  "T1",
+        "moveset":  "Flying"
+    },
+    {
+        "pokemon":  "Cascoon",
+        "tier":  "T6",
+        "moveset":  "Bug"
+    },
+    {
+        "pokemon":  "Shiny Cascoon",
+        "tier":  "T5",
+        "moveset":  "Bug"
+    },
+    {
+        "pokemon":  "Dustox",
+        "tier":  "T3",
+        "moveset":  "Psychic"
+    },
+    {
+        "pokemon":  "Shiny Dustox",
+        "tier":  "T1",
+        "moveset":  "Poison"
+    },
+    {
+        "pokemon":  "Lotad",
+        "tier":  "T5",
+        "moveset":  "Water"
+    },
+    {
+        "pokemon":  "Shiny Lotad",
+        "tier":  "T4",
+        "moveset":  "Water"
+    },
+    {
+        "pokemon":  "Lombre",
+        "tier":  "T4",
+        "moveset":  "Water"
+    },
+    {
+        "pokemon":  "Shiny Lombre",
+        "tier":  "T3",
+        "moveset":  "Water"
+    },
+    {
+        "pokemon":  "Ludicolo",
+        "tier":  "T2",
+        "moveset":  "Water"
+    },
+    {
+        "pokemon":  "Shiny Ludicolo",
+        "tier":  "T1",
+        "moveset":  "Water"
+    },
+    {
+        "pokemon":  "Seedot",
+        "tier":  "T5",
+        "moveset":  "Grass"
+    },
+    {
+        "pokemon":  "Shiny Seedot",
+        "tier":  "T4",
+        "moveset":  "Grass"
+    },
+    {
+        "pokemon":  "Nuzleaf",
+        "tier":  "T2",
+        "moveset":  "Dark"
+    },
+    {
+        "pokemon":  "Shiny Nuzleaf",
+        "tier":  "T3",
+        "moveset":  "Dark"
+    },
+    {
+        "pokemon":  "Shiftry",
+        "tier":  "T2",
+        "moveset":  "Dark"
+    },
+    {
+        "pokemon":  "Shiny Shiftry",
+        "tier":  "T1",
+        "moveset":  "Grass"
+    },
+    {
+        "pokemon":  "Taillow",
+        "tier":  "T5",
+        "moveset":  "Flying"
+    },
+    {
+        "pokemon":  "Shiny Taillow",
+        "tier":  "T4",
+        "moveset":  "Flying"
+    },
+    {
+        "pokemon":  "Swellow",
+        "tier":  "T2",
+        "moveset":  "Flying"
+    },
+    {
+        "pokemon":  "Shiny Swellow",
+        "tier":  "Super Rare",
+        "moveset":  "Flying"
+    },
+    {
+        "pokemon":  "Wingull",
+        "tier":  "T5",
+        "moveset":  "Water"
+    },
+    {
+        "pokemon":  "Shiny Wingull",
+        "tier":  "T4",
+        "moveset":  "Water"
+    },
+    {
+        "pokemon":  "Pelipper",
+        "tier":  "T2",
+        "moveset":  "Normal"
+    },
+    {
+        "pokemon":  "Shiny Pelipper",
+        "tier":  "T1",
+        "moveset":  "Flying"
+    },
+    {
+        "pokemon":  "Ralts",
+        "tier":  "T5",
+        "moveset":  "Psychic"
+    },
+    {
+        "pokemon":  "Shiny Ralts",
+        "tier":  "T4",
+        "moveset":  "Psychic"
+    },
+    {
+        "pokemon":  "Kirlia",
+        "tier":  "T4",
+        "moveset":  "Psychic"
+    },
+    {
+        "pokemon":  "Shiny Kirlia",
+        "tier":  "T3",
+        "moveset":  "Psychic"
+    },
+    {
+        "pokemon":  "Gardevoir",
+        "tier":  "T2",
+        "moveset":  "Fairy"
+    },
+    {
+        "pokemon":  "Shiny Gardevoir",
+        "tier":  "Ultra Rare",
+        "moveset":  "Fairy"
+    },
+    {
+        "pokemon":  "Surskit",
+        "tier":  "T5",
+        "moveset":  "Water"
+    },
+    {
+        "pokemon":  "Shiny Surskit",
+        "tier":  "T4",
+        "moveset":  "Water"
+    },
+    {
+        "pokemon":  "Masquerain",
+        "tier":  "T3",
+        "moveset":  "Flying"
+    },
+    {
+        "pokemon":  "Shiny Masquerain",
+        "tier":  "T1",
+        "moveset":  "Flying"
+    },
+    {
+        "pokemon":  "Shroomish",
+        "tier":  "T5",
+        "moveset":  "Grass"
+    },
+    {
+        "pokemon":  "Shiny Shroomish",
+        "tier":  "T4",
+        "moveset":  "Grass"
+    },
+    {
+        "pokemon":  "Breloom",
+        "tier":  "T2",
+        "moveset":  "Grass"
+    },
+    {
+        "pokemon":  "Shiny Breloom",
+        "tier":  "T1",
+        "moveset":  "Grass"
+    },
+    {
+        "pokemon":  "Slakoth",
+        "tier":  "T5",
+        "moveset":  "Fighting"
+    },
+    {
+        "pokemon":  "Shiny Slakoth",
+        "tier":  "T4",
+        "moveset":  "Fighting"
+    },
+    {
+        "pokemon":  "Vigoroth",
+        "tier":  "T4",
+        "moveset":  "Normal"
+    },
+    {
+        "pokemon":  "Shiny Vigoroth",
+        "tier":  "T3",
+        "moveset":  "Normal"
+    },
+    {
+        "pokemon":  "Slaking",
+        "tier":  "T2",
+        "moveset":  "Normal"
+    },
+    {
+        "pokemon":  "Shiny Slaking",
+        "tier":  "Mythic",
+        "moveset":  "Normal"
+    },
+    {
+        "pokemon":  "Nincada",
+        "tier":  "T5",
+        "moveset":  "Ground"
+    },
+    {
+        "pokemon":  "Shiny Nincada",
+        "tier":  "T4",
+        "moveset":  "Ground"
+    },
+    {
+        "pokemon":  "Ninjask",
+        "tier":  "T2",
+        "moveset":  "Normal"
+    },
+    {
+        "pokemon":  "Shiny Ninjask",
+        "tier":  "T1",
+        "moveset":  "Flying"
+    },
+    {
+        "pokemon":  "Shedinja",
+        "tier":  "T2",
+        "moveset":  "Ghost"
+    },
+    {
+        "pokemon":  "Shiny Shedinja",
+        "tier":  "T1",
+        "moveset":  "Ghost"
+    },
+    {
+        "pokemon":  "Whismur",
+        "tier":  "T5",
+        "moveset":  "Normal"
+    },
+    {
+        "pokemon":  "Shiny Whismur",
+        "tier":  "T4",
+        "moveset":  "Normal"
+    },
+    {
+        "pokemon":  "Loudred",
+        "tier":  "T4",
+        "moveset":  "Normal"
+    },
+    {
+        "pokemon":  "Shiny Loudred",
+        "tier":  "T3",
+        "moveset":  "Normal"
+    },
+    {
+        "pokemon":  "Exploud",
+        "tier":  "T2",
+        "moveset":  "Normal"
+    },
+    {
+        "pokemon":  "Shiny Exploud",
+        "tier":  "Ultra Rare",
+        "moveset":  "Ice"
+    },
+    {
+        "pokemon":  "Makuhita",
+        "tier":  "T4",
+        "moveset":  "Fighting"
+    },
+    {
+        "pokemon":  "Shiny Makuhita",
+        "tier":  "T3",
+        "moveset":  "Fighting"
+    },
+    {
+        "pokemon":  "Hariyama",
+        "tier":  "T2",
+        "moveset":  "Fighting"
+    },
+    {
+        "pokemon":  "Shiny Hariyama",
+        "tier":  "T1",
+        "moveset":  "Fighting"
+    },
+    {
+        "pokemon":  "Azurill",
+        "tier":  "T4",
+        "moveset":  "Normal"
+    },
+    {
+        "pokemon":  "Shiny Azurill",
+        "tier":  "T3",
+        "moveset":  "Normal"
+    },
+    {
+        "pokemon":  "Nosepass",
+        "tier":  "T4",
+        "moveset":  "Rock"
+    },
+    {
+        "pokemon":  "Shiny Nosepass",
+        "tier":  "T3",
+        "moveset":  "Rock"
+    },
+    {
+        "pokemon":  "Skitty",
+        "tier":  "T5",
+        "moveset":  "Normal"
+    },
+    {
+        "pokemon":  "Shiny Skitty",
+        "tier":  "T4",
+        "moveset":  "Normal"
+    },
+    {
+        "pokemon":  "Delcatty",
+        "tier":  "T3",
+        "moveset":  "Normal"
+    },
+    {
+        "pokemon":  "Shiny Delcatty",
+        "tier":  "T1",
+        "moveset":  "Normal"
+    },
+    {
+        "pokemon":  "Sableye",
+        "tier":  "T2",
+        "moveset":  "Ghost"
+    },
+    {
+        "pokemon":  "Shiny Sableye",
+        "tier":  "T1",
+        "moveset":  "Dark"
+    },
+    {
+        "pokemon":  "Mawile",
+        "tier":  "T2",
+        "moveset":  "Steel"
+    },
+    {
+        "pokemon":  "Shiny Mawile",
+        "tier":  "T1",
+        "moveset":  "Steel"
+    },
+    {
+        "pokemon":  "Aron",
+        "tier":  "T5",
+        "moveset":  "Steel"
+    },
+    {
+        "pokemon":  "Shiny Aron",
+        "tier":  "T4",
+        "moveset":  "Steel"
+    },
+    {
+        "pokemon":  "Lairon",
+        "tier":  "T4",
+        "moveset":  "Steel"
+    },
+    {
+        "pokemon":  "Shiny Lairon",
+        "tier":  "T3",
+        "moveset":  "Steel"
+    },
+    {
+        "pokemon":  "Aggron",
+        "tier":  "T2",
+        "moveset":  "Steel"
+    },
+    {
+        "pokemon":  "Shiny Aggron",
+        "tier":  "Super Rare",
+        "moveset":  "Steel"
+    },
+    {
+        "pokemon":  "Meditite",
+        "tier":  "T5",
+        "moveset":  "Fighting"
+    },
+    {
+        "pokemon":  "Shiny Meditite",
+        "tier":  "T4",
+        "moveset":  "Fighting"
+    },
+    {
+        "pokemon":  "Medicham",
+        "tier":  "T2",
+        "moveset":  "Psychic"
+    },
+    {
+        "pokemon":  "Shiny Medicham",
+        "tier":  "T1",
+        "moveset":  "Fighting"
+    },
+    {
+        "pokemon":  "Electrike",
+        "tier":  "T5",
+        "moveset":  "Electric"
+    },
+    {
+        "pokemon":  "Shiny Electrike",
+        "tier":  "T4",
+        "moveset":  "Electric"
+    },
+    {
+        "pokemon":  "Manectric",
+        "tier":  "T2",
+        "moveset":  "Electric"
+    },
+    {
+        "pokemon":  "Shiny Manectric",
+        "tier":  "Ultra Rare",
+        "moveset":  "Electric"
+    },
+    {
+        "pokemon":  "Plusle",
+        "tier":  "T4",
+        "moveset":  "Electric"
+    },
+    {
+        "pokemon":  "Shiny Plusle",
+        "tier":  "T3",
+        "moveset":  "Electric"
+    },
+    {
+        "pokemon":  "Minun",
+        "tier":  "T4",
+        "moveset":  "Electric"
+    },
+    {
+        "pokemon":  "Shiny Minun",
+        "tier":  "T3",
+        "moveset":  "Electric"
+    },
+    {
+        "pokemon":  "Volbeat",
+        "tier":  "T3",
+        "moveset":  "Bug"
+    },
+    {
+        "pokemon":  "Shiny Volbeat",
+        "tier":  "T2",
+        "moveset":  "?"
+    },
+    {
+        "pokemon":  "Illumise",
+        "tier":  "T3",
+        "moveset":  "Bug"
+    },
+    {
+        "pokemon":  "Shiny Illumise",
+        "tier":  "T2",
+        "moveset":  "?"
+    },
+    {
+        "pokemon":  "Roselia",
+        "tier":  "T3",
+        "moveset":  "Grass"
+    },
+    {
+        "pokemon":  "Shiny Roselia",
+        "tier":  "T1",
+        "moveset":  "Grass"
+    },
+    {
+        "pokemon":  "Gulpin",
+        "tier":  "T4",
+        "moveset":  "Poison"
+    },
+    {
+        "pokemon":  "Shiny Gulpin",
+        "tier":  "T3",
+        "moveset":  "?"
+    },
+    {
+        "pokemon":  "Swalot",
+        "tier":  "T2",
+        "moveset":  "Poison"
+    },
+    {
+        "pokemon":  "Shiny Swalot",
+        "tier":  "Ultra Rare",
+        "moveset":  "Poison"
+    },
+    {
+        "pokemon":  "Carvanha",
+        "tier":  "T4",
+        "moveset":  "Water"
+    },
+    {
+        "pokemon":  "Shiny Carvanha",
+        "tier":  "T3",
+        "moveset":  "Water"
+    },
+    {
+        "pokemon":  "Sharpedo",
+        "tier":  "T2",
+        "moveset":  "Water"
+    },
+    {
+        "pokemon":  "Shiny Sharpedo",
+        "tier":  "Super Rare",
+        "moveset":  "Water"
+    },
+    {
+        "pokemon":  "Wailmer",
+        "tier":  "T4",
+        "moveset":  "Water"
+    },
+    {
+        "pokemon":  "Shiny Wailmer",
+        "tier":  "T3",
+        "moveset":  "Water"
+    },
+    {
+        "pokemon":  "Wailord",
+        "tier":  "T2",
+        "moveset":  "Water"
+    },
+    {
+        "pokemon":  "Shiny Wailord",
+        "tier":  "T1",
+        "moveset":  "Water"
+    },
+    {
+        "pokemon":  "Numel",
+        "tier":  "T5",
+        "moveset":  "Fire"
+    },
+    {
+        "pokemon":  "Shiny Numel",
+        "tier":  "T4",
+        "moveset":  "Fire"
+    },
+    {
+        "pokemon":  "Camerupt",
+        "tier":  "T2",
+        "moveset":  "Fire"
+    },
+    {
+        "pokemon":  "Shiny Camerupt",
+        "tier":  "T1",
+        "moveset":  "Ground"
+    },
+    {
+        "pokemon":  "Torkoal",
+        "tier":  "T2",
+        "moveset":  "Fire"
+    },
+    {
+        "pokemon":  "Shiny Torkoal",
+        "tier":  "Ultra Rare",
+        "moveset":  "Fire"
+    },
+    {
+        "pokemon":  "Spoink",
+        "tier":  "T5",
+        "moveset":  "Psychic"
+    },
+    {
+        "pokemon":  "Shiny Spoink",
+        "tier":  "T4",
+        "moveset":  "Psychic"
+    },
+    {
+        "pokemon":  "Grumpig",
+        "tier":  "T3",
+        "moveset":  "Psychic"
+    },
+    {
+        "pokemon":  "Shiny Grumpig",
+        "tier":  "T1",
+        "moveset":  "Psychic"
+    },
+    {
+        "pokemon":  "Spinda",
+        "tier":  "T4",
+        "moveset":  "Psychic"
+    },
+    {
+        "pokemon":  "Shiny Spinda",
+        "tier":  "T3",
+        "moveset":  "Psychic"
+    },
+    {
+        "pokemon":  "Trapinch",
+        "tier":  "T5",
+        "moveset":  "Ground"
+    },
+    {
+        "pokemon":  "Shiny Trapinch",
+        "tier":  "T4",
+        "moveset":  "Ground"
+    },
+    {
+        "pokemon":  "Vibrava",
+        "tier":  "T4",
+        "moveset":  "Ground"
+    },
+    {
+        "pokemon":  "Shiny Vibrava",
+        "tier":  "T3",
+        "moveset":  "Ground"
+    },
+    {
+        "pokemon":  "Flygon",
+        "tier":  "T2",
+        "moveset":  "Ground"
+    },
+    {
+        "pokemon":  "Shiny Flygon",
+        "tier":  "Legendary",
+        "moveset":  "Ground"
+    },
+    {
+        "pokemon":  "Cacnea",
+        "tier":  "T5",
+        "moveset":  "Grass"
+    },
+    {
+        "pokemon":  "Shiny Cacnea",
+        "tier":  "T4",
+        "moveset":  "Grass"
+    },
+    {
+        "pokemon":  "Cacturne",
+        "tier":  "T2",
+        "moveset":  "Dark"
+    },
+    {
+        "pokemon":  "Shiny Cacturne",
+        "tier":  "T1",
+        "moveset":  "Bug"
+    },
+    {
+        "pokemon":  "Swablu",
+        "tier":  "T5",
+        "moveset":  "Flying"
+    },
+    {
+        "pokemon":  "Shiny Swablu",
+        "tier":  "T4",
+        "moveset":  "Flying"
+    },
+    {
+        "pokemon":  "Altaria",
+        "tier":  "T2",
+        "moveset":  "Flying"
+    },
+    {
+        "pokemon":  "Shiny Altaria",
+        "tier":  "Super Rare",
+        "moveset":  "Dragon"
+    },
+    {
+        "pokemon":  "Zangoose",
+        "tier":  "T2",
+        "moveset":  "Normal"
+    },
+    {
+        "pokemon":  "Shiny Zangoose",
+        "tier":  "T1",
+        "moveset":  "Normal"
+    },
+    {
+        "pokemon":  "Seviper",
+        "tier":  "T2",
+        "moveset":  "Poison"
+    },
+    {
+        "pokemon":  "Shiny Seviper",
+        "tier":  "Super Rare",
+        "moveset":  "Poison"
+    },
+    {
+        "pokemon":  "Lunatone",
+        "tier":  "T2",
+        "moveset":  "Rock"
+    },
+    {
+        "pokemon":  "Shiny Lunatone",
+        "tier":  "T1",
+        "moveset":  "Rock"
+    },
+    {
+        "pokemon":  "Solrock",
+        "tier":  "T2",
+        "moveset":  "Rock"
+    },
+    {
+        "pokemon":  "Shiny Solrock",
+        "tier":  "T1",
+        "moveset":  "Rock"
+    },
+    {
+        "pokemon":  "Barboach",
+        "tier":  "T5",
+        "moveset":  "Water"
+    },
+    {
+        "pokemon":  "Shiny Barboach",
+        "tier":  "T4",
+        "moveset":  "Water"
+    },
+    {
+        "pokemon":  "Whiscash",
+        "tier":  "T2",
+        "moveset":  "Ground"
+    },
+    {
+        "pokemon":  "Shiny Whiscash",
+        "tier":  "T1",
+        "moveset":  "Ground"
+    },
+    {
+        "pokemon":  "Corphish",
+        "tier":  "T5",
+        "moveset":  "Dark"
+    },
+    {
+        "pokemon":  "Shiny Corphish",
+        "tier":  "T4",
+        "moveset":  "Dark"
+    },
+    {
+        "pokemon":  "Crawdaunt",
+        "tier":  "T2",
+        "moveset":  "Dark"
+    },
+    {
+        "pokemon":  "Shiny Crawdaunt",
+        "tier":  "T1",
+        "moveset":  "Dark"
+    },
+    {
+        "pokemon":  "Baltoy",
+        "tier":  "T5",
+        "moveset":  "Psychic"
+    },
+    {
+        "pokemon":  "Shiny Baltoy",
+        "tier":  "T4",
+        "moveset":  "Psychic"
+    },
+    {
+        "pokemon":  "Claydol",
+        "tier":  "T2",
+        "moveset":  "Ground"
+    },
+    {
+        "pokemon":  "Shiny Claydol",
+        "tier":  "T1",
+        "moveset":  "Ground"
+    },
+    {
+        "pokemon":  "Lileep",
+        "tier":  "?",
+        "moveset":  "?"
+    },
+    {
+        "pokemon":  "Shiny Lileep",
+        "tier":  "?",
+        "moveset":  "?"
+    },
+    {
+        "pokemon":  "Cradily",
+        "tier":  "T2",
+        "moveset":  "Grass"
+    },
+    {
+        "pokemon":  "Shiny Cradily",
+        "tier":  "T1",
+        "moveset":  "Grass"
+    },
+    {
+        "pokemon":  "Anorith",
+        "tier":  "T5",
+        "moveset":  "Rock"
+    },
+    {
+        "pokemon":  "Shiny Anorith",
+        "tier":  "T4",
+        "moveset":  "Rock"
+    },
+    {
+        "pokemon":  "Armaldo",
+        "tier":  "T2",
+        "moveset":  "Rock"
+    },
+    {
+        "pokemon":  "Shiny Armaldo",
+        "tier":  "Super Rare",
+        "moveset":  "Rock"
+    },
+    {
+        "pokemon":  "Feebas",
+        "tier":  "T5",
+        "moveset":  "Water"
+    },
+    {
+        "pokemon":  "Shiny Feebas",
+        "tier":  "T4",
+        "moveset":  "Water"
+    },
+    {
+        "pokemon":  "Milotic",
+        "tier":  "T2",
+        "moveset":  "Water"
+    },
+    {
+        "pokemon":  "Shiny Milotic",
+        "tier":  "Ultra Rare",
+        "moveset":  "Water"
+    },
+    {
+        "pokemon":  "Castform",
+        "tier":  "T4",
+        "moveset":  "Normal"
+    },
+    {
+        "pokemon":  "Shiny Castform",
+        "tier":  "?",
+        "moveset":  "?"
+    },
+    {
+        "pokemon":  "Kecleon",
+        "tier":  "T3",
+        "moveset":  "Dark"
+    },
+    {
+        "pokemon":  "Shiny Kecleon",
+        "tier":  "T1",
+        "moveset":  "Dark"
+    },
+    {
+        "pokemon":  "Shuppet",
+        "tier":  "T5",
+        "moveset":  "Ghost"
+    },
+    {
+        "pokemon":  "Shiny Shuppet",
+        "tier":  "T4",
+        "moveset":  "Ghost"
+    },
+    {
+        "pokemon":  "Banette",
+        "tier":  "T2",
+        "moveset":  "Ghost"
+    },
+    {
+        "pokemon":  "Shiny Banette",
+        "tier":  "T1",
+        "moveset":  "Ghost"
+    },
+    {
+        "pokemon":  "Duskull",
+        "tier":  "T5",
+        "moveset":  "Ghost"
+    },
+    {
+        "pokemon":  "Shiny Duskull",
+        "tier":  "T4",
+        "moveset":  "Ghost"
+    },
+    {
+        "pokemon":  "Dusclops",
+        "tier":  "T2",
+        "moveset":  "Ghost"
+    },
+    {
+        "pokemon":  "Shiny Dusclops",
+        "tier":  "T1",
+        "moveset":  "Ghost"
+    },
+    {
+        "pokemon":  "Tropius",
+        "tier":  "T2",
+        "moveset":  "Grass"
+    },
+    {
+        "pokemon":  "Shiny Tropius",
+        "tier":  "Ultra Rare",
+        "moveset":  "Grass"
+    },
+    {
+        "pokemon":  "Chimecho",
+        "tier":  "T3",
+        "moveset":  "Psychic"
+    },
+    {
+        "pokemon":  "Shiny Chimecho",
+        "tier":  "T1",
+        "moveset":  "Psychic"
+    },
+    {
+        "pokemon":  "Absol",
+        "tier":  "T2",
+        "moveset":  "Dark"
+    },
+    {
+        "pokemon":  "Shiny Absol",
+        "tier":  "Legendary",
+        "moveset":  "Dark"
+    },
+    {
+        "pokemon":  "Wynaut",
+        "tier":  "T5",
+        "moveset":  "Psychic"
+    },
+    {
+        "pokemon":  "Shiny Wynaut",
+        "tier":  "T4",
+        "moveset":  "Psychic"
+    },
+    {
+        "pokemon":  "Snorunt",
+        "tier":  "T5",
+        "moveset":  "Ice"
+    },
+    {
+        "pokemon":  "Shiny Snorunt",
+        "tier":  "T4",
+        "moveset":  "Ice"
+    },
+    {
+        "pokemon":  "Glalie",
+        "tier":  "T2",
+        "moveset":  "Ice"
+    },
+    {
+        "pokemon":  "Shiny Glalie",
+        "tier":  "Ultra Rare",
+        "moveset":  "Ice"
+    },
+    {
+        "pokemon":  "Spheal",
+        "tier":  "T5",
+        "moveset":  "Ice"
+    },
+    {
+        "pokemon":  "Shiny Spheal",
+        "tier":  "T4",
+        "moveset":  "Ice"
+    },
+    {
+        "pokemon":  "Sealeo",
+        "tier":  "T4",
+        "moveset":  "Ice"
+    },
+    {
+        "pokemon":  "Shiny Sealeo",
+        "tier":  "T3",
+        "moveset":  "Ice"
+    },
+    {
+        "pokemon":  "Walrein",
+        "tier":  "T2",
+        "moveset":  "Ice"
+    },
+    {
+        "pokemon":  "Shiny Walrein",
+        "tier":  "Super Rare",
+        "moveset":  "Ice"
+    },
+    {
+        "pokemon":  "Clamperl",
+        "tier":  "T3",
+        "moveset":  "Water"
+    },
+    {
+        "pokemon":  "Shiny Clamperl",
+        "tier":  "T1",
+        "moveset":  "Water"
+    },
+    {
+        "pokemon":  "Huntail",
+        "tier":  "T3",
+        "moveset":  "Water"
+    },
+    {
+        "pokemon":  "Shiny Huntail",
+        "tier":  "T1",
+        "moveset":  "Water"
+    },
+    {
+        "pokemon":  "Gorebyss",
+        "tier":  "T3",
+        "moveset":  "Water"
+    },
+    {
+        "pokemon":  "Shiny Gorebyss",
+        "tier":  "T1",
+        "moveset":  "Water"
+    },
+    {
+        "pokemon":  "Relicanth",
+        "tier":  "T3",
+        "moveset":  "Water"
+    },
+    {
+        "pokemon":  "Shiny Relicanth",
+        "tier":  "T1",
+        "moveset":  "Water"
+    },
+    {
+        "pokemon":  "Luvdisc",
+        "tier":  "T3",
+        "moveset":  "Water"
+    },
+    {
+        "pokemon":  "Shiny Luvdisc",
+        "tier":  "T2",
+        "moveset":  "Water"
+    },
+    {
+        "pokemon":  "Bagon",
+        "tier":  "T5",
+        "moveset":  "Dragon"
+    },
+    {
+        "pokemon":  "Shiny Bagon",
+        "tier":  "T4",
+        "moveset":  "Dragon"
+    },
+    {
+        "pokemon":  "Shelgon",
+        "tier":  "T4",
+        "moveset":  "Dragon"
+    },
+    {
+        "pokemon":  "Shiny Shelgon",
+        "tier":  "T3",
+        "moveset":  "Dragon"
+    },
+    {
+        "pokemon":  "Salamence",
+        "tier":  "T2",
+        "moveset":  "Dragon"
+    },
+    {
+        "pokemon":  "Shiny Salamence",
+        "tier":  "Ultra Rare",
+        "moveset":  "Dragon"
+    },
+    {
+        "pokemon":  "Beldum",
+        "tier":  "T5",
+        "moveset":  "Steel"
+    },
+    {
+        "pokemon":  "Shiny Beldum",
+        "tier":  "T4",
+        "moveset":  "Steel"
+    },
+    {
+        "pokemon":  "Metang",
+        "tier":  "T4",
+        "moveset":  "Steel"
+    },
+    {
+        "pokemon":  "Shiny Metang",
+        "tier":  "T1",
+        "moveset":  "Steel"
+    },
+    {
+        "pokemon":  "Metagross",
+        "tier":  "T2",
+        "moveset":  "Steel"
+    },
+    {
+        "pokemon":  "Shiny Metagross",
+        "tier":  "Ultra Rare",
+        "moveset":  "Steel"
+    },
+    {
+        "pokemon":  "Regirock",
+        "tier":  "?",
+        "moveset":  "?"
+    },
+    {
+        "pokemon":  "Shiny Regirock",
+        "tier":  "?",
+        "moveset":  "?"
+    },
+    {
+        "pokemon":  "Regice",
+        "tier":  "?",
+        "moveset":  "?"
+    },
+    {
+        "pokemon":  "Shiny Regice",
+        "tier":  "?",
+        "moveset":  "?"
+    },
+    {
+        "pokemon":  "Registeel",
+        "tier":  "?",
+        "moveset":  "?"
+    },
+    {
+        "pokemon":  "Shiny Registeel",
+        "tier":  "?",
+        "moveset":  "?"
+    },
+    {
+        "pokemon":  "Latios",
+        "tier":  "?",
+        "moveset":  "?"
+    },
+    {
+        "pokemon":  "Shiny Latios",
+        "tier":  "?",
+        "moveset":  "?"
+    },
+    {
+        "pokemon":  "Latias",
+        "tier":  "?",
+        "moveset":  "?"
+    },
+    {
+        "pokemon":  "Shiny Latias",
+        "tier":  "?",
+        "moveset":  "?"
+    },
+    {
+        "pokemon":  "Kyogre",
+        "tier":  "?",
+        "moveset":  "?"
+    },
+    {
+        "pokemon":  "Shiny Kyogre",
+        "tier":  "?",
+        "moveset":  "?"
+    },
+    {
+        "pokemon":  "Groudon",
+        "tier":  "?",
+        "moveset":  "?"
+    },
+    {
+        "pokemon":  "Shiny Groudon",
+        "tier":  "?",
+        "moveset":  "?"
+    },
+    {
+        "pokemon":  "Rayquaza",
+        "tier":  "?",
+        "moveset":  "?"
+    },
+    {
+        "pokemon":  "Shiny Rayquaza",
+        "tier":  "?",
+        "moveset":  "?"
+    },
+    {
+        "pokemon":  "Jirachi",
+        "tier":  "?",
+        "moveset":  "?"
+    },
+    {
+        "pokemon":  "Shiny Jirachi",
+        "tier":  "?",
+        "moveset":  "?"
+    },
+    {
+        "pokemon":  "Deoxys",
+        "tier":  "?",
+        "moveset":  "?"
+    },
+    {
+        "pokemon":  "Shiny Deoxys",
+        "tier":  "?",
+        "moveset":  "?"
+    },
+    {
+        "pokemon":  "Turtwig",
+        "tier":  "T6",
+        "moveset":  "Grass"
+    },
+    {
+        "pokemon":  "Shiny Turtwig",
+        "tier":  "T4",
+        "moveset":  "Grass"
+    },
+    {
+        "pokemon":  "Grotle",
+        "tier":  "T4",
+        "moveset":  "Grass"
+    },
+    {
+        "pokemon":  "Shiny Grotle",
+        "tier":  "T3",
+        "moveset":  "Grass"
+    },
+    {
+        "pokemon":  "Torterra",
+        "tier":  "T1",
+        "moveset":  "Ground"
+    },
+    {
+        "pokemon":  "Shiny Torterra",
+        "tier":  "Super Rare",
+        "moveset":  "Ground"
+    },
+    {
+        "pokemon":  "Chimchar",
+        "tier":  "T6",
+        "moveset":  "Fire"
+    },
+    {
+        "pokemon":  "Shiny Chimchar",
+        "tier":  "T4",
+        "moveset":  "Fire"
+    },
+    {
+        "pokemon":  "Monferno",
+        "tier":  "T4",
+        "moveset":  "Fire"
+    },
+    {
+        "pokemon":  "Shiny Monferno",
+        "tier":  "T3",
+        "moveset":  "Fire"
+    },
+    {
+        "pokemon":  "Infernape",
+        "tier":  "T1",
+        "moveset":  "Fire"
+    },
+    {
+        "pokemon":  "Shiny Infernape",
+        "tier":  "Super Rare",
+        "moveset":  "Fire"
+    },
+    {
+        "pokemon":  "Shinx",
+        "tier":  "?",
+        "moveset":  "Electric"
+    },
+    {
+        "pokemon":  "Shiny Shinx",
+        "tier":  "?",
+        "moveset":  "Electric"
+    },
+    {
+        "pokemon":  "Luxio",
+        "tier":  "?",
+        "moveset":  "Electric"
+    },
+    {
+        "pokemon":  "Shiny Luxio",
+        "tier":  "?",
+        "moveset":  "Electric"
+    },
+    {
+        "pokemon":  "Luxray",
+        "tier":  "T1",
+        "moveset":  "Electric"
+    },
+    {
+        "pokemon":  "Shiny Luxray",
+        "tier":  "Super Rare",
+        "moveset":  "Electric"
+    },
+    {
+        "pokemon":  "Cranidos",
+        "tier":  "T4",
+        "moveset":  "Rock"
+    },
+    {
+        "pokemon":  "Shiny Cranidos",
+        "tier":  "T3",
+        "moveset":  "Rock"
+    },
+    {
+        "pokemon":  "Rampardos",
+        "tier":  "T1",
+        "moveset":  "Rock"
+    },
+    {
+        "pokemon":  "Shiny Rampardos",
+        "tier":  "Ultra Rare",
+        "moveset":  "Rock"
+    },
+    {
+        "pokemon":  "Pachirisu",
+        "tier":  "T2",
+        "moveset":  "Electric"
+    },
+    {
+        "pokemon":  "Shiny Pachirisu",
+        "tier":  "Super Rare",
+        "moveset":  "Electric"
+    },
+    {
+        "pokemon":  "Lopuny",
+        "tier":  "?",
+        "moveset":  "Fighting"
+    },
+    {
+        "pokemon":  "Shiny Lopuny",
+        "tier":  "?",
+        "moveset":  "Fighting"
+    },
+    {
+        "pokemon":  "Riolu",
+        "tier":  "T4",
+        "moveset":  "Fighting"
+    },
+    {
+        "pokemon":  "Shiny Riolu",
+        "tier":  "T3",
+        "moveset":  "Fighting"
+    },
+    {
+        "pokemon":  "Lucario",
+        "tier":  "T2",
+        "moveset":  "Steel"
+    },
+    {
+        "pokemon":  "Shiny Lucario",
+        "tier":  "Legendary",
+        "moveset":  "Fighting"
+    },
+    {
+        "pokemon":  "Croagunk",
+        "tier":  "?",
+        "moveset":  "?"
+    },
+    {
+        "pokemon":  "Shiny Croagunk",
+        "tier":  "?",
+        "moveset":  "?"
+    },
+    {
+        "pokemon":  "Toxicroak",
+        "tier":  "T2",
+        "moveset":  "Poison"
+    },
+    {
+        "pokemon":  "Shiny Toxicroak",
+        "tier":  "Super Rare",
+        "moveset":  "Poison"
+    },
+    {
+        "pokemon":  "Abomasnow",
+        "tier":  "T2",
+        "moveset":  "Grass"
+    },
+    {
+        "pokemon":  "Mega Abomasnow",
+        "tier":  "Legendary",
+        "moveset":  "Ice"
+    },
+    {
+        "pokemon":  "Rhyperior",
+        "tier":  "T1",
+        "moveset":  "Ground"
+    },
+    {
+        "pokemon":  "Shiny Rhyperior",
+        "tier":  "Legendary",
+        "moveset":  "Ground"
+    },
+    {
+        "pokemon":  "Tangrowth",
+        "tier":  "T1",
+        "moveset":  "Grass"
+    },
+    {
+        "pokemon":  "Shiny Tangrowth",
+        "tier":  "Super Rare",
+        "moveset":  "Grass"
+    },
+    {
+        "pokemon":  "Leafeon",
+        "tier":  "T2",
+        "moveset":  "Grass"
+    },
+    {
+        "pokemon":  "Shiny Leafeon",
+        "tier":  "Legendary",
+        "moveset":  "Grass"
+    },
+    {
+        "pokemon":  "Glaceon",
+        "tier":  "T2",
+        "moveset":  "Ice"
+    },
+    {
+        "pokemon":  "Shiny Glaceon",
+        "tier":  "Legendary",
+        "moveset":  "Ice"
+    },
+    {
+        "pokemon":  "Gliscor",
+        "tier":  "T1",
+        "moveset":  "Flying"
+    },
+    {
+        "pokemon":  "Shiny Gliscor",
+        "tier":  "Super Rare",
+        "moveset":  "Flying"
+    },
+    {
+        "pokemon":  "Dusknoir",
+        "tier":  "T1",
+        "moveset":  "Ghost"
+    },
+    {
+        "pokemon":  "Shiny Dusknoir",
+        "tier":  "Super Rare",
+        "moveset":  "Ghost"
+    },
+    {
+        "pokemon":  "Audino",
+        "tier":  "T4",
+        "moveset":  "Normal"
+    },
+    {
+        "pokemon":  "Shiny Audino",
+        "tier":  "",
+        "moveset":  ""
+    },
+    {
+        "pokemon":  "Scolipede",
+        "tier":  "T2",
+        "moveset":  "Bug"
+    },
+    {
+        "pokemon":  "Shiny Scolipede",
+        "tier":  "",
+        "moveset":  ""
+    },
+    {
+        "pokemon":  "Trubbish",
+        "tier":  "T6",
+        "moveset":  "Poison"
+    },
+    {
+        "pokemon":  "Shiny Trubbish",
+        "tier":  "T4",
+        "moveset":  "Poison"
+    },
+    {
+        "pokemon":  "Garbodor",
+        "tier":  "T1",
+        "moveset":  "Poison"
+    },
+    {
+        "pokemon":  "Shiny Garbodor",
+        "tier":  "Legendary",
+        "moveset":  "Poison"
+    },
+    {
+        "pokemon":  "Druddigon",
+        "tier":  "T2",
+        "moveset":  "Dragon"
+    },
+    {
+        "pokemon":  "Shiny Druddigon",
+        "tier":  "T1",
+        "moveset":  "Dragon"
+    },
+    {
+        "pokemon":  "Deino",
+        "tier":  "T5",
+        "moveset":  "Dark"
+    },
+    {
+        "pokemon":  "Shiny Deino",
+        "tier":  "T5",
+        "moveset":  "Dark"
+    },
+    {
+        "pokemon":  "Zweilous",
+        "tier":  "T2",
+        "moveset":  "Dark"
+    },
+    {
+        "pokemon":  "Shiny Zweilous",
+        "tier":  "T2",
+        "moveset":  "Dark"
+    },
+    {
+        "pokemon":  "Hydreigon",
+        "tier":  "T2",
+        "moveset":  "Dark"
+    },
+    {
+        "pokemon":  "Shiny Hydreigon",
+        "tier":  "Super Rare",
+        "moveset":  "Dark"
+    },
+    {
+        "pokemon":  "Flabébé",
+        "tier":  "T6",
+        "moveset":  "Fairy"
+    },
+    {
+        "pokemon":  "Shiny Flabébé",
+        "tier":  "T5",
+        "moveset":  "Fairy"
+    },
+    {
+        "pokemon":  "Floette",
+        "tier":  "T5",
+        "moveset":  "Fairy"
+    },
+    {
+        "pokemon":  "Shiny Floette",
+        "tier":  "T4",
+        "moveset":  "Fairy"
+    },
+    {
+        "pokemon":  "Florges",
+        "tier":  "T2",
+        "moveset":  "Fairy"
+    },
+    {
+        "pokemon":  "Shiny Florges",
+        "tier":  "Super Rare",
+        "moveset":  "Fairy"
+    },
+    {
+        "pokemon":  "Sylveon",
+        "tier":  "T2",
+        "moveset":  "Fairy"
+    },
+    {
+        "pokemon":  "Shiny Sylveon",
+        "tier":  "Legendary",
+        "moveset":  "Fairy"
+    },
+    {
+        "pokemon":  "Dragalge",
+        "tier":  "T2",
+        "moveset":  "Poison"
+    },
+    {
+        "pokemon":  "Mimikyu",
+        "tier":  "T2",
+        "moveset":  "Fairy"
+    },
+    {
+        "pokemon":  "Shiny Mimikyu",
+        "tier":  "Super Rare",
+        "moveset":  "Fairy"
+    }
+]

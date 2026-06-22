@@ -1,0 +1,210 @@
+{
+    "PHOENIX":  [
+                    {
+                        "recommended":  "",
+                        "npcPokemon":  "PHOENIX"
+                    },
+                    {
+                        "recommended":  "sh Golem",
+                        "npcPokemon":  "Charizard"
+                    },
+                    {
+                        "recommended":  "sh Venusaur",
+                        "npcPokemon":  "Shiny Blastoise"
+                    },
+                    {
+                        "recommended":  "sh Pidgeot",
+                        "npcPokemon":  "Venusaur"
+                    },
+                    {
+                        "recommended":  "sh Sandslash",
+                        "npcPokemon":  "Shiny Electrode"
+                    },
+                    {
+                        "recommended":  "sh Arcanine",
+                        "npcPokemon":  "Shiny Magneton"
+                    }
+                ],
+    "MIRAGE":  [
+                   {
+                       "recommended":  "",
+                       "npcPokemon":  "MIRAGE"
+                   },
+                   {
+                       "recommended":  "sh Golem",
+                       "npcPokemon":  "Charizard"
+                   },
+                   {
+                       "recommended":  "sh Starmie",
+                       "npcPokemon":  "Shiny Charizard"
+                   },
+                   {
+                       "recommended":  "sh Pidgeot",
+                       "npcPokemon":  "Venusaur"
+                   },
+                   {
+                       "recommended":  "sh Arcanine",
+                       "npcPokemon":  "Shiny Venusaur"
+                   },
+                   {
+                       "recommended":  "sh Venusaur",
+                       "npcPokemon":  "Blastoise"
+                   }
+               ],
+    "CIPHER":  [
+                   {
+                       "recommended":  "sh Raichu",
+                       "npcPokemon":  "Feraligatr"
+                   },
+                   {
+                       "recommended":  "sh Hitmontop",
+                       "npcPokemon":  "Shiny Persian"
+                   },
+                   {
+                       "recommended":  "sh Pidgeot",
+                       "npcPokemon":  "Venusaur"
+                   },
+                   {
+                       "recommended":  "sh Sandslash",
+                       "npcPokemon":  "Electabuzz"
+                   },
+                   {
+                       "recommended":  "sh Starmie",
+                       "npcPokemon":  "Typhlosion"
+                   },
+                   {
+                       "recommended":  "sh Arcanine",
+                       "npcPokemon":  "Meganium"
+                   }
+               ],
+    "SCYTHE":  [
+                   {
+                       "recommended":  "",
+                       "npcPokemon":  "SCYTHE"
+                   },
+                   {
+                       "recommended":  "sh Arcanine",
+                       "npcPokemon":  "Scyther"
+                   },
+                   {
+                       "recommended":  "sh Golem",
+                       "npcPokemon":  "Shiny Ampharos"
+                   },
+                   {
+                       "recommended":  "sh Sandslash",
+                       "npcPokemon":  "Shiny Raichu"
+                   },
+                   {
+                       "recommended":  "sh Jynx",
+                       "npcPokemon":  "Nidoqueen"
+                   },
+                   {
+                       "recommended":  "sh Starmie",
+                       "npcPokemon":  "Arcanine"
+                   }
+               ],
+    "ZEPHYR":  [
+                   {
+                       "recommended":  "",
+                       "npcPokemon":  "ZEPHYR"
+                   },
+                   {
+                       "recommended":  "sh Golem",
+                       "npcPokemon":  "Typhlosion"
+                   },
+                   {
+                       "recommended":  "sh Starmie",
+                       "npcPokemon":  "Shiny Typhlosion"
+                   },
+                   {
+                       "recommended":  "sh Pidgeot",
+                       "npcPokemon":  "Meganium"
+                   },
+                   {
+                       "recommended":  "sh Arcanine",
+                       "npcPokemon":  "Shiny Meganium"
+                   },
+                   {
+                       "recommended":  "sh Venusaur",
+                       "npcPokemon":  "Feraligatr"
+                   }
+               ],
+    "SHADOW":  [
+                   {
+                       "recommended":  "sh Raichu",
+                       "npcPokemon":  "Feraligatr"
+                   },
+                   {
+                       "recommended":  "sh Sandslash",
+                       "npcPokemon":  "Shiny Gengar"
+                   },
+                   {
+                       "recommended":  "Scizor",
+                       "npcPokemon":  "Alakazam"
+                   },
+                   {
+                       "recommended":  "sh Golem",
+                       "npcPokemon":  "Shiny Crobat"
+                   },
+                   {
+                       "recommended":  "sh Marowak",
+                       "npcPokemon":  "Muk"
+                   },
+                   {
+                       "recommended":  "sh Starmie",
+                       "npcPokemon":  "Houndoom"
+                   }
+               ],
+    "THORN":  [
+                  {
+                      "recommended":  "sh Sandslash",
+                      "npcPokemon":  "Shiny Arbok"
+                  },
+                  {
+                      "recommended":  "sh Golem",
+                      "npcPokemon":  "Shiny Golbat"
+                  },
+                  {
+                      "recommended":  "Scizor",
+                      "npcPokemon":  "Shiny Hypno"
+                  },
+                  {
+                      "recommended":  "sh Persian",
+                      "npcPokemon":  "Shiny Haunter"
+                  },
+                  {
+                      "recommended":  "sh Jynx",
+                      "npcPokemon":  "Shiny Murkrow"
+                  },
+                  {
+                      "recommended":  "sh Starmie",
+                      "npcPokemon":  "Houndoom"
+                  }
+              ],
+    "FROST":  [
+                  {
+                      "recommended":  "sh Persian",
+                      "npcPokemon":  "Misdreavus"
+                  },
+                  {
+                      "recommended":  "sh Starmie",
+                      "npcPokemon":  "Magcargo"
+                  },
+                  {
+                      "recommended":  "Scizor",
+                      "npcPokemon":  "Hypno"
+                  },
+                  {
+                      "recommended":  "sh Jynx",
+                      "npcPokemon":  "Gligar"
+                  },
+                  {
+                      "recommended":  "sh Hitmontop",
+                      "npcPokemon":  "Houndour"
+                  },
+                  {
+                      "recommended":  "sh Golem",
+                      "npcPokemon":  "Murkrow"
+                  }
+              ]
+}

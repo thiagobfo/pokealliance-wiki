@@ -1,0 +1,42 @@
+[
+    {
+        "max":  "?",
+        "tier":  "Mythic"
+    },
+    {
+        "max":  "22535",
+        "tier":  "Legendary"
+    },
+    {
+        "max":  "9100",
+        "tier":  "Ultra Rare"
+    },
+    {
+        "max":  "3512",
+        "tier":  "Super Rare"
+    },
+    {
+        "max":  "1280",
+        "tier":  "T1"
+    },
+    {
+        "max":  "~900",
+        "tier":  "T2"
+    },
+    {
+        "max":  "~700",
+        "tier":  "T3"
+    },
+    {
+        "max":  "~600",
+        "tier":  "T4"
+    },
+    {
+        "max":  "~400",
+        "tier":  "T5"
+    },
+    {
+        "max":  "~200",
+        "tier":  "T6"
+    }
+]
